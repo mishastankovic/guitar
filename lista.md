@@ -3,7 +3,7 @@
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
 - video: https://youtu.be/JxPj3GAYYZ0
 - video 2 gitare: https://youtu.be/kduOlChmS5Y
-- video Jeff Backley: https://youtu.be/yhAlVxcE3QA
+- video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
 	
 # Wish you were here
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
