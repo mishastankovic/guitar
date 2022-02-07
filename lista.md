@@ -2,6 +2,7 @@
 - chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
 - video: https://youtu.be/JxPj3GAYYZ0
+- video 2 gitare: https://youtu.be/kduOlChmS5Y
 	
 # Wish you were here
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
