@@ -17,7 +17,7 @@
 # Autumn leaves
 - https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
 	
-# Besame muco
+# Besame mucho
 - chords: https://www.jazzguitar.be/blog/besame-mucho-chords/
 
 # Aint no sunshine
