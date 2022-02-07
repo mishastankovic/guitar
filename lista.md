@@ -4,9 +4,9 @@
 - <a href="https://youtu.be/JxPj3GAYYZ0" target="_blank">video</a>
 	
 # Wish you were here
-- <a href="https://rockguitaruniverse.com/songs-for-two-guitars/" target="_blank">Prva na listi</a>
+- <a href="https://rockguitaruniverse.com/songs-for-two-guitars/" target="_blank">Prva na listi</a>{:target="_blank"}
 - <a href="https://youtu.be/GrvBYMTscmE">video</a>
-- video: <a href="https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress" target="_blank">
+- <a href="https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress" target="_blank">video</a>
 	
 # And I Love Her – The Beatles
 - <a href="https://rockguitaruniverse.com/songs-for-two-guitars/" target="_blank">Lista</a>
