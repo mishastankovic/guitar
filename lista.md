@@ -4,7 +4,7 @@
 - video: https://youtu.be/JxPj3GAYYZ0
 	
 # Wish you were here
-- 1. na listi https://rockguitaruniverse.com/songs-for-two-guitars/
+- Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
 - video: https://youtu.be/GrvBYMTscmE
 - video: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
 	
@@ -32,6 +32,7 @@
 - video: https://youtu.be/kQIr-7kmjy0
 
 # Brown eyed girl
+- video: https://youtu.be/UfmkgQRmmeE
 - tabs: https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-tabs-179799
 	
 # Stand by me
