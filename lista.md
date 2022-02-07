@@ -5,7 +5,9 @@
 - video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
 - video Eric Clapron 2 gitare: https://youtu.be/kduOlChmS5Y
 - video 2 guitars cover: https://youtu.be/iYgn8FQCcfM
-- video tutorial for 2 guitars: https://youtu.be/YqMUrBQ2KRY
+- video tutorial for 2 guitars:
+	-  part 1: https://www.youtube.com/watch?v=wzzkhqTsk2w
+	-  part 2: https://youtu.be/YqMUrBQ2KRY
 	
 # Wish you were here
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
