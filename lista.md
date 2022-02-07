@@ -1,18 +1,18 @@
 # Tears of heaven
-- chords: <a href="https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220" target="_blank"></a>
-- tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
-- video: https://youtu.be/JxPj3GAYYZ0
+- <a href="https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220" target="_blank">chords</a>
+- <a href="https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131" target="_blank">tabs</a>
+- <a href="https://youtu.be/JxPj3GAYYZ0" target="_blank">video</a>
 	
 # Wish you were here
-- Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
-- video: https://youtu.be/GrvBYMTscmE
-- video: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
+- <a href="https://rockguitaruniverse.com/songs-for-two-guitars/" target="_blank">Prva na listi</a>
+- <a href="https://youtu.be/GrvBYMTscmE">video</a>
+- video: <a href="https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress" target="_blank">
 	
 # And I Love Her – The Beatles
-- https://rockguitaruniverse.com/songs-for-two-guitars/
-- video: https://youtu.be/9_c2XZd9mMo
-- tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
-- video: https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons
+- <a href="https://rockguitaruniverse.com/songs-for-two-guitars/" target="_blank">Lista</a>
+- <a href="https://youtu.be/9_c2XZd9mMo" target="_blank">video</a>
+- <a href="https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513" target="_blank">tabs</a>
+- <a href="https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons" target="_blank">video</a>
 
 # Autumn leaves
 - https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
