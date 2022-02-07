@@ -8,6 +8,7 @@
 - video tutorial for 2 guitars:
 	-  part 1: https://www.youtube.com/watch?v=wzzkhqTsk2w
 	-  part 2: https://youtu.be/YqMUrBQ2KRY
+-  Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o 
 	
 # Wish you were here
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
