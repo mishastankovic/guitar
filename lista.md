@@ -4,7 +4,7 @@
 - <a href="https://youtu.be/JxPj3GAYYZ0" target="_blank">video</a>
 	
 # Wish you were here
-- <a href="https://rockguitaruniverse.com/songs-for-two-guitars/" target="_blank">Prva na listi</a>{:target="_blank"}
+- [Prva na listi](https://rockguitaruniverse.com/songs-for-two-guitars/){:target="_blank"}
 - <a href="https://youtu.be/GrvBYMTscmE">video</a>
 - <a href="https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress" target="_blank">video</a>
 	
