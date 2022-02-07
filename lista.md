@@ -3,12 +3,12 @@
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
 - video: https://youtu.be/JxPj3GAYYZ0
 - video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
-- video Eric Clapron 2 gitare: https://youtu.be/kduOlChmS5Y
+- video Eric Clapton 2 gitare: https://youtu.be/kduOlChmS5Y
 - video 2 guitars cover: https://youtu.be/iYgn8FQCcfM
 - video tutorial for 2 guitars:
 	-  part 1: https://www.youtube.com/watch?v=wzzkhqTsk2w
 	-  part 2: https://youtu.be/YqMUrBQ2KRY
--  Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o 
+- Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o 
 	
 # Wish you were here
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
