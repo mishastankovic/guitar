@@ -20,7 +20,7 @@
 # Besame mucho
 - chords: https://www.jazzguitar.be/blog/besame-mucho-chords/
 
-# Aint no sunshine
+# Ain't no sunshine
 - tutorial video: https://youtu.be/DngT6PiTNvk
 - guitar cover: https://youtu.be/Pef1iUYBc-Y
 - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
