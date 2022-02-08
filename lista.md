@@ -3,6 +3,9 @@
 - chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
 - 2 guitar tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-21003
+- 2 guitar tabs
+	- guitar 1: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-tab-s4
+	- guitar 2: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-duet-tab-s394284 
 - backing track: https://www.youtube.com/watch?v=LkDwOlqAZyk
 - video: https://youtu.be/JxPj3GAYYZ0
 - video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
