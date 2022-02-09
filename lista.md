@@ -6,6 +6,7 @@
 - 2 guitar tabs
 	- guitar 1: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-tab-s4
 	- guitar 2: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-duet-tab-s394284 
+- single guitar tabs with solo: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-by-redtabber-tab-s446758
 - backing track: https://www.youtube.com/watch?v=LkDwOlqAZyk
 - video: https://youtu.be/JxPj3GAYYZ0
 - video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
