@@ -18,8 +18,10 @@
 	
 # Wish you were here
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
-- video: https://youtu.be/GrvBYMTscmE
-- video: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
+- video Pink Floyd: https://www.youtube.com/watch?v=IXdNnw99-Ic&ab_channel=chartrand
+- video Rina del Cid cover: https://www.youtube.com/watch?v=kIGrLseMuu0&ab_channel=ReinadelCid
+- video The Running Mates cover: https://youtu.be/GrvBYMTscmE
+- video tutorial: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
 	
 # And I Love Her – The Beatles
 - https://rockguitaruniverse.com/songs-for-two-guitars/
