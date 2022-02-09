@@ -19,6 +19,7 @@
 - [beleske](./beleske/tearsInHeaven.md) 
 	
 # Wish you were here
+- Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
 - video Pink Floyd: https://www.youtube.com/watch?v=IXdNnw99-Ic&ab_channel=chartrand
 - video Reina del Cid cover: https://www.youtube.com/watch?v=kIGrLseMuu0&ab_channel=ReinadelCid
