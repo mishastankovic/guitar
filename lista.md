@@ -16,6 +16,7 @@
 	-  part 1: https://www.youtube.com/watch?v=wzzkhqTsk2w
 	-  part 2: https://youtu.be/YqMUrBQ2KRY
 - Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o 
+- [beleske](./beleske/tearsInHeaven.md) 
 	
 # Wish you were here
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
@@ -23,7 +24,7 @@
 - video Reina del Cid cover: https://www.youtube.com/watch?v=kIGrLseMuu0&ab_channel=ReinadelCid
 - video The Running Mates cover: https://youtu.be/GrvBYMTscmE
 - video tutorial: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
-- [beleske](./README.md) 
+- [beleske](./beleske/wishYouWereHere.md) 
 	
 # And I Love Her – The Beatles
 - https://rockguitaruniverse.com/songs-for-two-guitars/
