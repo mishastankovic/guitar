@@ -2,7 +2,7 @@
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 - chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
-- 2 guitar tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-21003
+- 2 guitar tabs POGRESNO OD POCETKA DO KRAJA: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-21003
 - 2 guitar tabs
 	- guitar 1: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-tab-s4
 	- guitar 2: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-duet-tab-s394284 
