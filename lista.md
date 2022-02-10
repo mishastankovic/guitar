@@ -28,7 +28,7 @@
 - [beleske](./beleske/wishYouWereHere.md) 
 	
 # And I Love Her – The Beatles
-- Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [E](https://www.guitarscale.org/e-sharp-major.html)
+- Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [E](https://www.guitarscale.org/e-major.html)
 - https://rockguitaruniverse.com/songs-for-two-guitars/
 - video: https://youtu.be/9_c2XZd9mMo
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
