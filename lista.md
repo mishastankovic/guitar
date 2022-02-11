@@ -36,7 +36,7 @@
 
 # Autumn leaves
 - Key [e minor](https://www.guitarscale.org/e-minor.html)
-- https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
+- chrds and solo study: https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
 - chords with French lyrics: https://www.e-chords.com/chords/jacques-brel/les-feuilles-mortes
 	
 # Besame mucho
