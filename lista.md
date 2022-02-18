@@ -62,6 +62,12 @@
 	
 # Imagine
 
+# Dust in the wind - Kanzas
+- video original Kanzas: https://youtu.be/tH2w6Oxx0kQ
+- tabs: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-tabs-72957
+- tabs sonstar: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64 
+- video tutorial: https://www.youtube.com/watch?v=CpYzBcv5n64
+
 # Bad mood rising - Creadence
 - video: https://youtu.be/3GaE_X5k3iE
 - lead tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-tabs-53934
