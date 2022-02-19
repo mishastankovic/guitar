@@ -59,6 +59,9 @@
 - tabs: https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-tabs-179799
 	
 # Stand by me
+- video Tracy Chapman live: https://youtu.be/8XL6C3vY0jM
+- video Tracy Chapman official: https://youtu.be/7SNiezOBWPs
+- chords: https://tabs.ultimate-guitar.com/tab/tracy-chapman/stand-by-me-chords-2954426
 	
 # Imagine
 
