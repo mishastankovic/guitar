@@ -79,8 +79,6 @@
 - lead tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-tabs-53934
 - rhythm tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-chords-15892 
 	
-# Proud Merry - Creadence
-
 # Hey Joe
 
 # Layla - Eric Clepton
@@ -92,6 +90,7 @@
 - video original Beatles: https://youtu.be/WoBLi5eE-wY
 
 # Nocking on heaven's door
+- tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
 
 # Nothing else matters
 - broj 5 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
