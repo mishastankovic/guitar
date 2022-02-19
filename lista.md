@@ -93,6 +93,8 @@
 
 # Nothing else matters
 - 5. na listi https://rockguitaruniverse.com/songs-for-two-guitars/
+- video: https://youtu.be/tAGnKpE4NCI
+- tabs: https://tabs.ultimate-guitar.com/tab/metallica/nothing-else-matters-tabs-8519
 	
 # Wicked game - Chris Isaak
 - tabs: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-tabs-274609
