@@ -64,6 +64,8 @@
 - chords: https://tabs.ultimate-guitar.com/tab/tracy-chapman/stand-by-me-chords-2954426
 	
 # Imagine
+- video tutorial: https://youtu.be/sNXxzVd5qBY
+- tabs: https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-9306
 
 # Dust in the wind - Kansas
 - video original Kansas: https://youtu.be/tH2w6Oxx0kQ
