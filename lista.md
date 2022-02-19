@@ -84,7 +84,7 @@
 # Hey Joe
 
 # Layla - Eric Clepton
-- 3. nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
+- broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
 - video tutorial: https://youtu.be/BPXQcyLzPeA
 	
 # Michelle - Beatles
