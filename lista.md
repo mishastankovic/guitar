@@ -90,7 +90,6 @@
 # Michelle - Beatles
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
 - video original Beatles: https://youtu.be/WoBLi5eE-wY
-- 
 
 # Nocking on heaven's door
 
