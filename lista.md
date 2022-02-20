@@ -30,7 +30,7 @@
 	
 # And I Love Her – The Beatles
 - Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [E](https://www.guitarscale.org/e-major.html)
-- https://rockguitaruniverse.com/songs-for-two-guitars/
+- broj 9 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
 - video Beatles original: https://youtu.be/9_c2XZd9mMo
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
 - video tutorial: https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons
