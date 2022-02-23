@@ -88,7 +88,12 @@
 - video Eric Clepton unplugged: https://youtu.be/DbFBXxTxXvY
 - video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
 - video tutorial: https://youtu.be/BPXQcyLzPeA
-- 
+
+# Fragile - Sting
+- video Sting original: https://youtu.be/lB6a-iD6ZOY
+- video tutorial: https://youtu.be/8a1gXKQKvcE
+- tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
+- tabs songsterr: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 	
 # Michelle - Beatles
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
