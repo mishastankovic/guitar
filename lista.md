@@ -35,6 +35,19 @@
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
 - video tutorial: https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons
 
+# Layla - Eric Clepton
+- broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
+- chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
+- tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-1010456
+- video Eric Clepton unplugged: https://youtu.be/DbFBXxTxXvY
+- video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
+- video tutorial: https://youtu.be/BPXQcyLzPeA
+
+# Fragile - Sting
+- video Sting original: https://youtu.be/lB6a-iD6ZOY
+- video tutorial: https://youtu.be/8a1gXKQKvcE
+- tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
+- tabs songsterr: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 # Autumn leaves
 - Key [e minor](https://www.guitarscale.org/e-minor.html)
 - chrds and solo study: https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
@@ -81,19 +94,6 @@
 	
 # Hey Joe
 
-# Layla - Eric Clepton
-- broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
-- chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
-- tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-1010456
-- video Eric Clepton unplugged: https://youtu.be/DbFBXxTxXvY
-- video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
-- video tutorial: https://youtu.be/BPXQcyLzPeA
-
-# Fragile - Sting
-- video Sting original: https://youtu.be/lB6a-iD6ZOY
-- video tutorial: https://youtu.be/8a1gXKQKvcE
-- tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
-- tabs songsterr: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 	
 # Michelle - Beatles
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
