@@ -26,6 +26,7 @@
 - video Reina del Cid cover: https://www.youtube.com/watch?v=kIGrLseMuu0&ab_channel=ReinadelCid
 - video The Running Mates cover: https://youtu.be/GrvBYMTscmE
 - video tutorial: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
+- video tutorial: https://youtu.be/evQ8bM8O5A0
 - [beleske](./beleske/wishYouWereHere.md) 
 	
 # And I Love Her – The Beatles
@@ -105,6 +106,7 @@
 # Nothing else matters
 - broj 5 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
 - video: https://youtu.be/tAGnKpE4NCI
+- video tutorial: https://youtu.be/3Ub6OLlmFKI
 - tabs: https://tabs.ultimate-guitar.com/tab/metallica/nothing-else-matters-tabs-8519
 	
 # Wicked game - Chris Isaak
