@@ -83,7 +83,12 @@
 
 # Layla - Eric Clepton
 - broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
+- chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
+- tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-1010456
+- video Eric Clepton unplugged: https://youtu.be/DbFBXxTxXvY
+- video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
 - video tutorial: https://youtu.be/BPXQcyLzPeA
+- 
 	
 # Michelle - Beatles
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
