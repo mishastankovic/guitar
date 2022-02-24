@@ -38,7 +38,9 @@
 
 # Layla - Eric Clepton
 - broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
+- video, chords and tabs: https://www.guitardownunder.com/songs/layla.php
 - chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
+- tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-63657
 - tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-1010456
 - video Eric Clepton unplugged: https://youtu.be/DbFBXxTxXvY
 - video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
