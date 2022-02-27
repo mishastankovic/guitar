@@ -96,6 +96,8 @@
 - rhythm tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-chords-15892 
 	
 # Hey Joe
+- video tutorial: https://youtu.be/lLKL-nv0ut0
+- 
 
 	
 # Michelle - Beatles
