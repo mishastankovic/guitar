@@ -44,7 +44,8 @@
 - tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-1010456
 - video Eric Clepton unplugged: https://youtu.be/DbFBXxTxXvY
 - video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
-- video tutorial: https://youtu.be/BPXQcyLzPeA
+- video tutorial - rhythm: https://youtu.be/BPXQcyLzPeA
+- video tutorial - solo: https://youtu.be/YZEMOvwX4wQ
 
 # Fragile - Sting
 - video Sting original: https://youtu.be/lB6a-iD6ZOY
