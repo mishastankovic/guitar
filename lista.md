@@ -37,7 +37,7 @@
 - video tutorial: https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons
 
 # Layla - Eric Clepton
-- Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [E](https://www.guitarscale.org/e-major.html)
+- Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [E](https://www.guitarscale.org/f-major.html)
 - broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
 - video, chords and tabs: https://www.guitardownunder.com/songs/layla.php
 - chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
