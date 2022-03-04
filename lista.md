@@ -9,12 +9,11 @@
 - single guitar tabs with solo: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-by-redtabber-tab-s446758
 - backing track: https://www.youtube.com/watch?v=LkDwOlqAZyk
 - video: https://youtu.be/JxPj3GAYYZ0
-- video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
-- video Eric Clapton 2 guitars: https://youtu.be/kduOlChmS5Y
-- video 2 guitars cover: https://youtu.be/iYgn8FQCcfM
+- video Eric Clapton 2 guitars: https://youtu.be/aRjxNj-NchU
 - video tutorial for 2 guitars:
 	-  part 1: https://www.youtube.com/watch?v=wzzkhqTsk2w
 	-  part 2: https://youtu.be/YqMUrBQ2KRY
+- video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
 - Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o 
 - [beleske](./beleske/tearsInHeaven.md) 
 	
