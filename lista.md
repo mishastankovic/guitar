@@ -52,6 +52,12 @@
 - video tutorial: https://youtu.be/8a1gXKQKvcE
 - tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 - tabs songsterr: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
+
+# Sve još miriše na nju
+- video: https://youtu.be/YrJvkquw7CM
+- chords: https://2akordi.net/akordi.net?a=katalog&t=r&b=183&id=53
+- tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
+
 # Autumn leaves
 - Key [e minor](https://www.guitarscale.org/e-minor.html)
 - chrds and solo study: https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
