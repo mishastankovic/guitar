@@ -46,6 +46,7 @@
 - video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
 - video tutorial - rhythm: https://youtu.be/BPXQcyLzPeA
 - video tutorial - solo: https://youtu.be/YZEMOvwX4wQ
+- video guitar cover Joe Robinson: https://youtu.be/1PTjQtdL8Y4
 
 # Fragile - Sting
 - video Sting original: https://youtu.be/lB6a-iD6ZOY
