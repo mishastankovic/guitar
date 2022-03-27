@@ -62,6 +62,7 @@
 
 # Flor d'Luna (Moonflower)
 - tabs solo: https://tabs.ultimate-guitar.com/tab/santana/flor-d-luna-moonflower-tabs-57649
+- video gipsy guitar solo sa pratnjom: https://www.youtube.com/watch?v=3M34FEEwP9Y&ab_channel=DjangoKOR
 - video Santana: https://www.youtube.com/watch?v=lRWEDKaSLp0&ab_channel=Santana-Topic
 - video Joe Robinson acoustic guitar: https://www.youtube.com/watch?v=yEvGBe8pk70&ab_channel=JoeRobinson
 
