@@ -60,6 +60,11 @@
 - text: http://www.pesmarica.rs/Akordi/11612/Parni-Valjak--Sve-jos-mirise-na-nju
 - tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
 
+# Flor d'Luna (Moonflower)
+- tabs solo: https://tabs.ultimate-guitar.com/tab/santana/flor-d-luna-moonflower-tabs-57649
+- video Santana: https://www.youtube.com/watch?v=lRWEDKaSLp0&ab_channel=Santana-Topic
+- video Joe Robinson acoustic guitar: https://www.youtube.com/watch?v=yEvGBe8pk70&ab_channel=JoeRobinson
+
 # Autumn leaves
 - Key [e minor](https://www.guitarscale.org/e-minor.html)
 - chrds and solo study: https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
