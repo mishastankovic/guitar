@@ -1,3 +1,10 @@
+# Maria Elena
+- video: https://youtu.be/zkLtyqRkxk8
+- tabs solo: https://www.songsterr.com/a/wsa/los-indios-tabajaras-maria-elena-tab-s41903
+- tabs solo: https://tab.tuneguitar.net/los-indios-tabajaras/maria-elena
+- chords: https://www.e-chords.com/chords/los-indios-trabajares/maria-elena
+- chords: https://tab.tuneguitar.net/los-indios-tabajaras/maria-elena
+
 # Tears in heaven
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 - chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
