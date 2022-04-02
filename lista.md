@@ -4,6 +4,7 @@
 - tabs solo: https://tab.tuneguitar.net/los-indios-tabajaras/maria-elena
 - chords: https://www.e-chords.com/chords/los-indios-trabajares/maria-elena
 - chords: https://tab.tuneguitar.net/los-indios-tabajaras/maria-elena
+- - backing track: https://www.youtube.com/watch?v=gLBPuoFalKY
 
 # Tears in heaven
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
