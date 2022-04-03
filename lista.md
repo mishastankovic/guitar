@@ -169,4 +169,8 @@
 - video: https://youtu.be/o8l-PkX90oc
 - tabs for above video: https://www.songsterr.com/a/wsa/jesus-hernandez-guajira-son-tab-s451902
 - video Los Incas: https://youtu.be/fRgZA9K6Eos
+
+# All of me
+- video cover: https://youtu.be/1EMLmzMQuIo
+- vide tutorial and tabs: https://www.jazzguitar.be/blog/all-of-me/
 		
