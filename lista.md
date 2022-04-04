@@ -5,8 +5,6 @@
 - chords: https://www.songsterr.com/a/wsa/los-indios-tabajaras-maria-elena-chords-s41903
 - tabs solo: https://tab.tuneguitar.net/los-indios-tabajaras/maria-elena
 - chords: https://tabs.ultimate-guitar.com/tab/los-indios-tabajaras/maria-elena-chords-717228
-- chords: https://www.e-chords.com/chords/los-indios-trabajares/maria-elena
-- chords: https://tab.tuneguitar.net/los-indios-tabajaras/maria-elena
 - chords: https://www.chordsound.com/chords_c-LOS_INDIOS_TABAJARAS-Maria_Elena-156035.html
 - chords c-dur: https://tabs.ultimate-guitar.com/tab/the-shadows/maria-elena-chords-4065814
 - backing track: https://www.youtube.com/watch?v=gLBPuoFalKY
