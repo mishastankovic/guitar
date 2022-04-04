@@ -77,14 +77,6 @@
 - text: http://www.pesmarica.rs/Akordi/11612/Parni-Valjak--Sve-jos-mirise-na-nju
 - tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
 
-# Autumn leaves
-- Key [e minor](https://www.guitarscale.org/e-minor.html)
-- chrds and solo study: https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
-- chords with French lyrics: https://www.e-chords.com/chords/jacques-brel/les-feuilles-mortes
-	
-# Besame mucho
-- chords: https://www.jazzguitar.be/blog/besame-mucho-chords/
-
 # Ain't no sunshine
 - tutorial video: https://youtu.be/DngT6PiTNvk
 - guitar cover: https://youtu.be/Pef1iUYBc-Y
@@ -170,4 +162,13 @@
 # All of me
 - video cover: https://youtu.be/1EMLmzMQuIo
 - vide tutorial and tabs: https://www.jazzguitar.be/blog/all-of-me/
+
+
+# Autumn leaves
+- Key [e minor](https://www.guitarscale.org/e-minor.html)
+- chrds and solo study: https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
+- chords with French lyrics: https://www.e-chords.com/chords/jacques-brel/les-feuilles-mortes
+	
+# Besame mucho
+- chords: https://www.jazzguitar.be/blog/besame-mucho-chords/
 		
