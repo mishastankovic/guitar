@@ -113,7 +113,7 @@
 - video original Kansas: https://youtu.be/tH2w6Oxx0kQ
 - tabs: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-tabs-72957
 - chords: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-chords-874870
-- tabs sonstar: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64 
+- tabs songsterr: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64 
 - video tutorial: https://www.youtube.com/watch?v=CpYzBcv5n64
 
 # Bad mood rising - Creadence
