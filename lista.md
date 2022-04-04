@@ -1,6 +1,6 @@
 # Maria Elena
 - Key [B major](https://www.guitarscale.org/b-major.html), parallel minor [g#](https://www.guitarscale.org/g-sharp-minor.html)
-- video & tutorial: https://youtu.be/zkLtyqRkxk8
+- video & tutorial - c major: https://youtu.be/zkLtyqRkxk8
 - video: https://youtu.be/8b5qdoIiO8g
 - tabs solo: https://www.songsterr.com/a/wsa/los-indios-tabajaras-maria-elena-tab-s41903
 - chords: https://www.songsterr.com/a/wsa/los-indios-tabajaras-maria-elena-chords-s41903
