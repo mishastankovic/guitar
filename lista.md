@@ -175,3 +175,11 @@
 - video: https://youtu.be/IPFVkbCeK_A
 - video tutorial: https://youtu.be/q1hLjr6uK6c
 		
+# Uspavanka za Radmilu M
+- video vlatko stefanovski: https://youtu.be/0DCWZZahmQU
+- tabs songsterr: https://www.songsterr.com/a/wsa/bijelo-dugme-uspavanka-za-radmilu-m-tab-s26723
+- tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/uspavanka-za-radmilu-m-tabs-1001129
+- tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/uspavanka-za-radmilu-m-guitar-pro-465020
+- chords: https://chordu.com/chords-tabs-stefanovski-uspavanka-za-radmilu-m-live-in-baska-2019-id_vjJ8lpqJLZI
+- video yesiloveguitar: https://youtu.be/an2YX60xxH8
+- video pan madredeusz: https://youtu.be/7h7idUJl1to
