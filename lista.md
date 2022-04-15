@@ -44,6 +44,7 @@
 - video The Running Mates cover: https://youtu.be/GrvBYMTscmE
 - video tutorial: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
 - video tutorial: https://youtu.be/evQ8bM8O5A0
+- video boyce avenue: https://youtu.be/NoeI2TzlSbQ
 - [beleske](./beleske/wishYouWereHere.md) 
 	
 # And I Love Her – The Beatles
@@ -108,6 +109,7 @@
 - chords: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-chords-874870
 - tabs songsterr: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64 
 - video tutorial: https://www.youtube.com/watch?v=CpYzBcv5n64
+- video boyce avenue: https://youtu.be/8Yh7Ey0FB0E
 
 # Bad mood rising - Creadence
 - video: https://youtu.be/3GaE_X5k3iE
@@ -184,3 +186,14 @@
 - chords: https://chordu.com/chords-tabs-stefanovski-uspavanka-za-radmilu-m-live-in-baska-2019-id_vjJ8lpqJLZI
 - video yesiloveguitar: https://youtu.be/an2YX60xxH8
 - video pan madredeusz: https://youtu.be/7h7idUJl1to
+
+# Hotel California
+- video: https://youtu.be/1opgh7ky2nU
+
+# Summertime
+- video gitar duet: https://youtu.be/d5mvIqSlXdo
+- video guitar duet: https://youtu.be/HqW-_rKqrNU
+- video tutorial: https://youtu.be/zqxr-i6kYrQ
+- video tutorial: https://youtu.be/WvZ4xfCboyY
+- chords: https://tabs.ultimate-guitar.com/tab/george-gershwin/summertime-chords-1053545
+- 
