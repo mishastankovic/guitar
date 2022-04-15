@@ -172,4 +172,6 @@
 	
 # Besame mucho
 - chords: https://www.jazzguitar.be/blog/besame-mucho-chords/
+- video: https://youtu.be/IPFVkbCeK_A
+- video tutorial: https://youtu.be/q1hLjr6uK6c
 		
