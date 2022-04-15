@@ -196,4 +196,4 @@
 - video tutorial: https://youtu.be/zqxr-i6kYrQ
 - video tutorial: https://youtu.be/WvZ4xfCboyY
 - chords: https://tabs.ultimate-guitar.com/tab/george-gershwin/summertime-chords-1053545
-- 
+- single guitar tabs: https://www.guitartabsexplorer.com/gershwin-george-Tabs/summertime-acoustic-tab.php
