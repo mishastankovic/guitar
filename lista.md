@@ -156,7 +156,8 @@
 - https://www.youtube.com/watch?v=4vR9owntR9k&ab_channel=BalintPetz
 
 # Guajira
-- video: https://youtu.be/o8l-PkX90oc
+- video tutorial: https://youtu.be/o8l-PkX90oc
+- video performance: https://youtu.be/KIinS2joMGY?list=RDo8l-PkX90oc
 - tabs for above video: https://www.songsterr.com/a/wsa/jesus-hernandez-guajira-son-tab-s451902
 - video Los Incas: https://youtu.be/fRgZA9K6Eos
 
