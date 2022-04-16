@@ -32,3 +32,6 @@
 # Kada padne prvi sneg
 - akordi i tekst: http://www.pesmarica.rs/Akordi/2774/Zvonko-Bogdan--Kada-padne-prvi-sneg
 
+# Jesen prodje, ja se ne ozeni
+- text, chords, video: https://www.yesiloveguitar.com/akordi/r/radisa-urosevic/radisa-urosevic-jesen-prode-ja-se-ne-ozenih/
+
