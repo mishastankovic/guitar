@@ -25,7 +25,7 @@
 - backing track: https://youtu.be/gO229rQDpqY
 - tabs and chords PDF: https://guitaralliance.com/instant-song-library-download/Instant%20Song%20Library%20PDF/S-Z/S/Samba%20Pa%20Ti%20-%20Santana.pdf
 
-# Sturdust
+# Stardust
 - video guitar duet: https://youtu.be/2XTuF0pokYI
 - jazz tabs PDF: https://www.guitarjazztabs.com/Stardust/Stardust.pdf
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/nat-king-cole/stardust-chords-1481820
