@@ -16,7 +16,7 @@
 - video Santana: https://www.youtube.com/watch?v=lRWEDKaSLp0&ab_channel=Santana-Topic
 - video Joe Robinson acoustic guitar: https://www.youtube.com/watch?v=yEvGBe8pk70&ab_channel=JoeRobinson
 
-# Smba Pa Ti
+# Samba Pa Ti
 - Chrods / tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2121
 - Songsterr tabs: https://www.songsterr.com/a/wsa/carlos-santana-samba-pa-ti-tab-s17329
 - video guitar duet: https://youtu.be/IEg8DrVJcxU
