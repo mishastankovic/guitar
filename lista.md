@@ -16,6 +16,14 @@
 - video Santana: https://www.youtube.com/watch?v=lRWEDKaSLp0&ab_channel=Santana-Topic
 - video Joe Robinson acoustic guitar: https://www.youtube.com/watch?v=yEvGBe8pk70&ab_channel=JoeRobinson
 
+# Smba Pa Ti
+- Chrods / tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2121
+- Songsterr tabs: https://www.songsterr.com/a/wsa/carlos-santana-samba-pa-ti-tab-s17329
+- video guitar duet: https://youtu.be/IEg8DrVJcxU
+- video single guitar: https://youtu.be/IiVssLIvW1k
+- backing track: https://youtu.be/gO229rQDpqY
+- tabs and chords PDF: https://guitaralliance.com/instant-song-library-download/Instant%20Song%20Library%20PDF/S-Z/S/Samba%20Pa%20Ti%20-%20Santana.pdf
+
 # Tears in heaven
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 - chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
