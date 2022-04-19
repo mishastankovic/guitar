@@ -7,6 +7,7 @@
 - tabs solo: https://tab.tuneguitar.net/los-indios-tabajaras/maria-elena
 - chords: https://tabs.ultimate-guitar.com/tab/los-indios-tabajaras/maria-elena-chords-717228
 - backing track: https://chordify.net/chords/maria-elena-los-indios-tabajaras-backing-track-juan-toran
+- backing track - c-dur: https://www.youtube.com/watch?v=gLBPuoFalKY
 
 
 # Flor d'Luna (Moonflower)
