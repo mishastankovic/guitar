@@ -28,6 +28,7 @@
 
 # Stardust
 - video guitar duet: https://youtu.be/2XTuF0pokYI
+- video single guitar: https://www.youtube.com/watch?v=NJy03cJnfmc&ab_channel=Ma-toshi
 - jazz tabs PDF: https://www.guitarjazztabs.com/Stardust/Stardust.pdf
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/nat-king-cole/stardust-chords-1481820
 
