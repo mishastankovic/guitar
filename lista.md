@@ -183,6 +183,12 @@
 - video cover: https://youtu.be/1EMLmzMQuIo
 - vide tutorial and tabs: https://www.jazzguitar.be/blog/all-of-me/
 
+# Wave - Bossa Nova
+- video solo guitar: https://youtu.be/u-cStsWo_CE
+- video guitar duest: https://youtu.be/na8lfIW_OYQ
+- video: https://youtu.be/KqJ_cbY8V40
+- 
+
 
 # Autumn leaves
 - Key [e minor](https://www.guitarscale.org/e-minor.html)
