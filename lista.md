@@ -222,3 +222,11 @@
 - video tutorial: https://youtu.be/WvZ4xfCboyY
 - chords: https://tabs.ultimate-guitar.com/tab/george-gershwin/summertime-chords-1053545
 - single guitar tabs: https://www.guitartabsexplorer.com/gershwin-george-Tabs/summertime-acoustic-tab.php
+
+# Amor Mio (No volare) - Gipsy Kings
+- tabs Acousterr: https://www.acousterr.com/tab/gipsy-king-amor-mio
+- video guitar cover: https://youtu.be/uoTAaJmTa0g
+- video tutorial: https://youtu.be/JXLAFuMg-c8
+- video tutorial: https://youtu.be/OrkXKzP05H0
+- chords: https://chordify.net/chords/gipsy-kings-amor-mio-emil-mahammadli
+- chords and lyrics: https://www.e-chords.com/chords/gipsy-kings/no-volvere
