@@ -225,6 +225,7 @@
 
 # Amor Mio (No volvere) - Gipsy Kings
 - tabs Acousterr: https://www.acousterr.com/tab/gipsy-king-amor-mio
+- video Gipsy Kings original: https://youtu.be/BJhKloYci8o
 - video guitar cover: https://youtu.be/uoTAaJmTa0g
 - video tutorial: https://youtu.be/JXLAFuMg-c8
 - video tutorial: https://youtu.be/OrkXKzP05H0
