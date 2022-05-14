@@ -226,8 +226,23 @@
 # Amor Mio (No volvere) - Gipsy Kings
 - tabs Acousterr: https://www.acousterr.com/tab/gipsy-king-amor-mio
 - video Gipsy Kings original: https://youtu.be/BJhKloYci8o
+- video single guitar: https://youtu.be/JXLAFuMg-c8
 - video guitar cover: https://youtu.be/uoTAaJmTa0g
 - video tutorial: https://youtu.be/JXLAFuMg-c8
 - video tutorial: https://youtu.be/OrkXKzP05H0
+- video tutorial: https://youtu.be/73A_447WvcE
 - chords: https://chordify.net/chords/gipsy-kings-amor-mio-emil-mahammadli
 - chords and lyrics: https://www.e-chords.com/chords/gipsy-kings/no-volvere
+
+# Entre Dos Aguas - Paco de Lucia
+- tabs: https://tabs.ultimate-guitar.com/tab/49030
+- tabs Songsterr" https://www.songsterr.com/a/wsa/paco-de-lucia-entre-dos-aguas-tab-s61017
+- tabs pdf: https://www.ritaclara.com/userfiles/file/entredosaguas_08_web.pdf
+- paco de lucia original: https://youtu.be/0vq3qZwaXrw
+- video tutorial: 
+	- part 1: https://youtu.be/hzGOEmsPqso
+	- part 2: https://youtu.be/DAkAkP8WBdk
+	- part 3 - solo: https://youtu.be/6N0m7lrI2fE
+	- part 4 - solo: https://youtu.be/LBjfckg1IY4
+	- part 5 - alzapua section: https://youtu.be/fQDKGNqdwmk
+- video tutorial: https://youtu.be/N_TJsOtL2Sg
