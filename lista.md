@@ -229,6 +229,8 @@
 - video single guitar: https://youtu.be/JXLAFuMg-c8
 - video 2 guitars: https://youtu.be/uoTAaJmTa0g
 - video tutorial: https://youtu.be/73A_447WvcE
+- video guitar cover: https://youtu.be/QmZv1Zlh4yg
+- video tutorial: https://youtu.be/ILwBVBlasto
 - chords: https://chordify.net/chords/gipsy-kings-amor-mio-emil-mahammadli
 - chords and lyrics: https://www.e-chords.com/chords/gipsy-kings/no-volvere
 
