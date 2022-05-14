@@ -185,7 +185,7 @@
 
 # Wave - Bossa Nova
 - video solo guitar: https://youtu.be/u-cStsWo_CE
-- video guitar duest: https://youtu.be/na8lfIW_OYQ
+- video guitar duet: https://youtu.be/na8lfIW_OYQ
 - video: https://youtu.be/KqJ_cbY8V40
 - verious video tutorials: https://www.nghenhachay.net/rev/jobim+wave+guitar+tab
 - tabs: https://www.songsterr.com/a/wsa/antonio-carlos-jobim-wave-tab-s402171
@@ -227,7 +227,7 @@
 - tabs Acousterr: https://www.acousterr.com/tab/gipsy-king-amor-mio
 - video Gipsy Kings original: https://youtu.be/BJhKloYci8o
 - video single guitar: https://youtu.be/JXLAFuMg-c8
-- video guitar cover: https://youtu.be/uoTAaJmTa0g
+- video 2 guitars: https://youtu.be/uoTAaJmTa0g
 - video tutorial: https://youtu.be/JXLAFuMg-c8
 - video tutorial: https://youtu.be/OrkXKzP05H0
 - video tutorial: https://youtu.be/73A_447WvcE
