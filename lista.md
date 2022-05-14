@@ -233,6 +233,7 @@
 - video tutorial: https://youtu.be/ILwBVBlasto
 - chords: https://chordify.net/chords/gipsy-kings-amor-mio-emil-mahammadli
 - chords and lyrics: https://www.e-chords.com/chords/gipsy-kings/no-volvere
+- strumming pattern tutorial: https://youtu.be/RiloLNWy9lA
 
 # Entre Dos Aguas - Paco de Lucia
 - tabs: https://tabs.ultimate-guitar.com/tab/49030
