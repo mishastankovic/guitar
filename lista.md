@@ -23,10 +23,14 @@
 - Songsterr tabs: https://www.songsterr.com/a/wsa/carlos-santana-samba-pa-ti-tab-s17329
 - video guitar duet: https://youtu.be/IEg8DrVJcxU
 - video single guitar: https://youtu.be/b3YRgaXJL0Y
+- video single guitar: https://youtu.be/H7wunS9vGWg
 - video single guitar: https://youtu.be/IiVssLIvW1k
 - video single guitar: https://youtu.be/ptUtVMAXyUc
 - backing track: https://youtu.be/gO229rQDpqY
+- tabs: https://www.chordsound.com/chords-SANTANA_CARLOS-Samba_pa_ti-21014.html
 - tabs and chords PDF: https://guitaralliance.com/instant-song-library-download/Instant%20Song%20Library%20PDF/S-Z/S/Samba%20Pa%20Ti%20-%20Santana.pdf
+- classical guitar tabs: https://www.guitarnick.com/samba-pa-ti-santana-acoustic-guitar-tab.html
+- classical guitar videos: https://www.classical-guitar-music.com/guitar-solo/modern/samba-pa-ti-santana-for-classical-guitar/
 
 # Stardust
 - video guitar duet: https://youtu.be/2XTuF0pokYI
