@@ -19,8 +19,8 @@
 
 # Samba Pa Ti
 - Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
-- Chrods / tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2121
-- Songsterr tabs: https://www.songsterr.com/a/wsa/carlos-santana-samba-pa-ti-tab-s17329
+- Chrods / solo tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2121
+- Songsterr solo tabs: https://www.songsterr.com/a/wsa/carlos-santana-samba-pa-ti-tab-s17329
 - video guitar duet: https://youtu.be/IEg8DrVJcxU
 - video single guitar: https://youtu.be/b3YRgaXJL0Y
 - video single guitar: https://youtu.be/H7wunS9vGWg
@@ -30,7 +30,7 @@
 - backing track: https://youtu.be/gO229rQDpqY
 - tabs: https://www.chordsound.com/chords-SANTANA_CARLOS-Samba_pa_ti-21014.html
 - tabs and chords PDF: https://guitaralliance.com/instant-song-library-download/Instant%20Song%20Library%20PDF/S-Z/S/Samba%20Pa%20Ti%20-%20Santana.pdf
-- tabs for 2 guitars: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359
+- acoustic arrangement tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359
 - classical guitar tabs: https://www.guitarnick.com/samba-pa-ti-santana-acoustic-guitar-tab.html
 - classical guitar videos: https://www.classical-guitar-music.com/guitar-solo/modern/samba-pa-ti-santana-for-classical-guitar/
 - classical guitar video; https://youtu.be/k8_2E6EXwvQ
