@@ -100,7 +100,7 @@
 - video jazz cover: https://youtu.be/A19Vt9542P8
 - video single guitar cover: https://youtu.be/oH-yJLGP1KA
 - tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
-- tabs songsterr: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
+- tabs songsterr: https://www.songsterr.com/a/wsa/sting-fragile-tab-s23952t0
 
 # Sve još miriše na nju
 - video: https://youtu.be/YrJvkquw7CM
