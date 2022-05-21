@@ -94,7 +94,11 @@
 
 # Fragile - Sting
 - video Sting original: https://youtu.be/lB6a-iD6ZOY
+- video sting later: https://youtu.be/LT2a8Bdo8sQ
 - video tutorial: https://youtu.be/8a1gXKQKvcE
+- video guitar duet: https://youtu.be/5hOnYtswmzQ
+- video jazz cover: https://youtu.be/A19Vt9542P8
+- video single guitar cover: https://youtu.be/oH-yJLGP1KA
 - tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 - tabs songsterr: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 
