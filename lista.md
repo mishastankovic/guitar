@@ -93,6 +93,7 @@
 - video guitar cover Joe Robinson: https://youtu.be/1PTjQtdL8Y4
 
 # Fragile - Sting
+- Key [e](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
 - video Sting original: https://youtu.be/lB6a-iD6ZOY
 - video sting later: https://youtu.be/LT2a8Bdo8sQ
 - video tutorial: https://youtu.be/8a1gXKQKvcE
