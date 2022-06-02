@@ -245,11 +245,14 @@
 - video single guitar: https://youtu.be/JXLAFuMg-c8
 - video 2 guitars: https://youtu.be/uoTAaJmTa0g
 - video tutorial: https://youtu.be/73A_447WvcE
+- video tutorial: 
 - video guitar cover: https://youtu.be/QmZv1Zlh4yg
 - video tutorial: https://youtu.be/ILwBVBlasto
+- video Imrad Fared street performance: https://youtu.be/M-MmgJ6QIAA
 - chords: https://chordify.net/chords/gipsy-kings-amor-mio-emil-mahammadli
 - chords and lyrics: https://www.e-chords.com/chords/gipsy-kings/no-volvere
 - strumming pattern tutorial: https://youtu.be/RiloLNWy9lA
+- backing track: https://www.youtube.com/watch?v=KB-z3ji8tsk&ab_channel=LucasGitanoFamily
 
 # Entre Dos Aguas - Paco de Lucia
 - tabs: https://tabs.ultimate-guitar.com/tab/49030
