@@ -265,3 +265,17 @@
 	- part 4 - solo: https://youtu.be/LBjfckg1IY4
 	- part 5 - alzapua section: https://youtu.be/fQDKGNqdwmk
 - video tutorial: https://youtu.be/N_TJsOtL2Sg
+
+# Historia de un amor
+-video voice and guitar with chords: https://youtu.be/8MU8VAvlP4Q
+- video with chords and tabs: https://www.guitarnick.com/historia-de-un-amor-easy-guitar-chords-tab.html
+- tabs and chords a-minor PDF: https://musescore.com/user/30668156/scores/6085067
+- video + tabs: https://www.guitartabmaker.com/2019/12/historia-de-un-amor-classical-guitar-tab.html
+- chords and lyrics e-minor: https://www.e-chords.com/chords/trio-los-panchos/historia-de-un-amor
+## Single guitar
+- video: https://youtu.be/oWFqabkuhzA
+- video: https://youtu.be/XMGm_Xcdkgs
+## Two guitars
+- video with chords: https://youtu.be/TLeN4opl5Ng
+- video: https://youtu.be/vGUNiwOZFIU
+- video with tabs and chords: https://youtu.be/2dMMs-uX700
