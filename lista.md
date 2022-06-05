@@ -276,6 +276,6 @@
 - video: https://youtu.be/oWFqabkuhzA
 - video: https://youtu.be/XMGm_Xcdkgs
 ## Two guitars
-- video with chords: https://youtu.be/TLeN4opl5Ng
+- video with chords g-minor: https://youtu.be/TLeN4opl5Ng
 - video: https://youtu.be/vGUNiwOZFIU
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
