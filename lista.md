@@ -267,7 +267,7 @@
 - video tutorial: https://youtu.be/N_TJsOtL2Sg
 
 # Historia de un amor
--video voice and guitar with chords: https://youtu.be/8MU8VAvlP4Q
+- video voice and guitar with chords: https://youtu.be/8MU8VAvlP4Q
 - video with chords and tabs: https://www.guitarnick.com/historia-de-un-amor-easy-guitar-chords-tab.html
 - tabs and chords a-minor PDF: https://musescore.com/user/30668156/scores/6085067
 - video + tabs: https://www.guitartabmaker.com/2019/12/historia-de-un-amor-classical-guitar-tab.html
