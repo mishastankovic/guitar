@@ -255,7 +255,7 @@
 
 # Entre Dos Aguas - Paco de Lucia
 - tabs: https://tabs.ultimate-guitar.com/tab/49030
-- tabs Songsterr" https://www.songsterr.com/a/wsa/paco-de-lucia-entre-dos-aguas-tab-s61017
+- tabs Songsterr: https://www.songsterr.com/a/wsa/paco-de-lucia-entre-dos-aguas-tab-s61017
 - tabs pdf: https://www.ritaclara.com/userfiles/file/entredosaguas_08_web.pdf
 - paco de lucia original: https://youtu.be/0vq3qZwaXrw
 - video tutorial: 
@@ -268,7 +268,7 @@
 
 # Historia de un amor
 - video voice and guitar with chords: https://youtu.be/8MU8VAvlP4Q
-- video with chords and tabs: https://www.guitarnick.com/historia-de-un-amor-easy-guitar-chords-tab.html
+- video with chords and tabs a-minor: https://www.guitarnick.com/historia-de-un-amor-easy-guitar-chords-tab.html
 - tabs and chords a-minor PDF: https://musescore.com/user/30668156/scores/6085067
 - video + tabs: https://www.guitartabmaker.com/2019/12/historia-de-un-amor-classical-guitar-tab.html
 - chords and lyrics e-minor: https://www.e-chords.com/chords/trio-los-panchos/historia-de-un-amor
