@@ -245,7 +245,6 @@
 - video single guitar: https://youtu.be/JXLAFuMg-c8
 - video 2 guitars: https://youtu.be/uoTAaJmTa0g
 - video tutorial: https://youtu.be/73A_447WvcE
-- video tutorial: 
 - video guitar cover: https://youtu.be/QmZv1Zlh4yg
 - video tutorial: https://youtu.be/ILwBVBlasto
 - video Imrad Fared street performance: https://youtu.be/M-MmgJ6QIAA
