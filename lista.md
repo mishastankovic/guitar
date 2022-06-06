@@ -1,3 +1,5 @@
+- Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
+
 # Maria Elena
 - Key [B major](https://www.guitarscale.org/b-major.html), parallel minor [g#](https://www.guitarscale.org/g-sharp-minor.html)
 - video & tutorial - c major: https://youtu.be/zkLtyqRkxk8
