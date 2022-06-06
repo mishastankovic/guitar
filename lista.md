@@ -273,9 +273,7 @@
 - chords and lyrics e-minor: https://www.e-chords.com/chords/trio-los-panchos/historia-de-un-amor
 - video with chords and tabs a-minor: https://www.guitarnick.com/historia-de-un-amor-easy-guitar-chords-tab.html
 ## Single guitar
-- video: https://youtu.be/oWFqabkuhzA
 - video: https://youtu.be/XMGm_Xcdkgs
-- tabs video e-minor: https://youtu.be/93-Lx6828UU
 - video clasical guitar, from pdf book: https://youtu.be/fT8RzDcQsaI
 ## Two guitars
 - video with chords g-minor: https://youtu.be/TLeN4opl5Ng
