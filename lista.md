@@ -90,11 +90,14 @@
 - chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-63657
 - tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-2254703
+- tabs songster solo and chords: https://www.songsterr.com/a/wsa/eric-clapton-layla-acoustic-tab-s23702
+- tabs chords and solo: https://www.guitartabsexplorer.com/clapton-eric-Tabs/layla-acoustic-tab.php
 - video Eric Clepton unplugged: https://youtu.be/DbFBXxTxXvY
 - video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
 - video tutorial - rhythm: https://youtu.be/BPXQcyLzPeA
 - video tutorial - solo: https://youtu.be/YZEMOvwX4wQ
 - video guitar cover Joe Robinson: https://youtu.be/1PTjQtdL8Y4
+- video tutorial solo and rhythm: https://youtu.be/WHujjJEnZpI
 
 # Fragile - Sting
 - Key [e](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
