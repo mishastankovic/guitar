@@ -15,6 +15,9 @@
 # Flor d'Luna (Moonflower)
 - Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 - tabs solo: https://tabs.ultimate-guitar.com/tab/santana/flor-d-luna-moonflower-tabs-57649
+- tabs songster: https://www.songsterr.com/a/wsa/carlos-santana-flor-dluna-tab-s18380
+- tabs solo: https://www.rockmagic.net/guitar-tabs/santana/flor_d_luna.tab
+- video totorial with chords: https://youtu.be/c-oeXL4zltc
 - video gipsy guitar solo sa pratnjom: https://www.youtube.com/watch?v=3M34FEEwP9Y&ab_channel=DjangoKOR
 - video Santana: https://www.youtube.com/watch?v=lRWEDKaSLp0&ab_channel=Santana-Topic
 - video Joe Robinson acoustic guitar: https://www.youtube.com/watch?v=yEvGBe8pk70&ab_channel=JoeRobinson
