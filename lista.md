@@ -199,6 +199,8 @@
 # Chan Chan
 - https://www.youtube.com/watch?v=3FTGxx9Y-00&ab_channel=xmanadan
 - https://www.youtube.com/watch?v=4vR9owntR9k&ab_channel=BalintPetz
+- backing track: https://youtu.be/cAjsbec1Plw
+- backing track: https://youtu.be/Xue44HXVTHE
 
 # Guajira
 - video tutorial: https://youtu.be/o8l-PkX90oc
