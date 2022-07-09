@@ -67,6 +67,7 @@
 	-  part 2: https://youtu.be/YqMUrBQ2KRY
 - video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
 - Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o 
+- backing track : https://www.youtube.com/watch?v=HKYUXyIAgP8&ab_channel=OGTMachinima
 - [beleske](./beleske/tearsInHeaven.md) 
 	
 # Wish you were here
