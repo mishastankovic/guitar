@@ -119,8 +119,7 @@
 # Sve još miriše na nju
 - video: https://youtu.be/YrJvkquw7CM
 - chords and tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=183&id=53
-- chord and lyrics: https://www.e-chords.com/chords/parni-valjak/i-sve-jos-mirise-na-nju
-- text: http://www.pesmarica.rs/Akordi/11612/Parni-Valjak--Sve-jos-mirise-na-nju
+- chords and lyrics: http://www.pesmarica.rs/Akordi/11612/Parni-Valjak--Sve-jos-mirise-na-nju
 - tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
 
 # Ain't no sunshine
