@@ -88,6 +88,8 @@
 - video Beatles original: https://youtu.be/9_c2XZd9mMo
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
 - video tutorial: https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons
+- backing track rhythm guitar only: https://youtu.be/5qasVEHhhK0
+- multi channel backing track: http://backtracks4all.com/backingtracks/the-beatles/and-i-love-her-3
 
 # Layla - Eric Clepton
 - Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
