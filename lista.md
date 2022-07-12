@@ -302,4 +302,3 @@
 - tabs pdf: https://ashturner1.files.wordpress.com/2012/12/dave-brubeck-quartet-take-five-w_-tab.pdf
 - how to play instructions: https://www.jazzguitar.be/blog/how-to-play-take-5-chords-on-guitar/
 - vide tabs and chords: https://youtu.be/6aEWDGo6MM8
-- 
