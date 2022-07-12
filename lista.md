@@ -294,3 +294,12 @@
 - video with chords g-minor: https://youtu.be/TLeN4opl5Ng
 - video: https://youtu.be/vGUNiwOZFIU
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
+
+# Take Five
+- Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html)
+- chrods and tabs: https://tabs.ultimate-guitar.com/tab/the-dave-brubeck-quartet/take-five-tabs-467150
+- tabs songsetrr: https://www.songsterr.com/a/wsa/paul-desmond-take-five-tab-s3935
+- tabs pdf: https://ashturner1.files.wordpress.com/2012/12/dave-brubeck-quartet-take-five-w_-tab.pdf
+- how to play instructions: https://www.jazzguitar.be/blog/how-to-play-take-5-chords-on-guitar/
+- vide tabs and chords: https://youtu.be/6aEWDGo6MM8
+- 
