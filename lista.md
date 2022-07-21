@@ -284,7 +284,7 @@
 # Historia de un amor
 - video voice and guitar with chords: https://youtu.be/8MU8VAvlP4Q
 - video + tabs: https://www.guitartabmaker.com/2019/12/historia-de-un-amor-classical-guitar-tab.html
-- tabs and chords a-minor PDF: https://musescore.com/user/30668156/scores/6085067
+- tabs and chords PDF: https://musescore.com/user/30668156/scores/6085067
 - chords and lyrics e-minor: https://www.e-chords.com/chords/trio-los-panchos/historia-de-un-amor
 - video with chords and tabs a-minor: https://www.guitarnick.com/historia-de-un-amor-easy-guitar-chords-tab.html
 ## Single guitar
@@ -304,3 +304,11 @@
 - vide tabs and chords: https://youtu.be/6aEWDGo6MM8
 - guitar backing track: https://youtu.be/P2KuJCZuEso
 - piano backing track: https://youtu.be/pm1oeUqzsog
+
+# Moondance
+- Key [a minor](https://www.guitarscale.org/a-minor.html)
+- tabs: https://www.songsterr.com/a/wsa/van-morrison-moondance-tab-s12585t0
+- chords: https://www.chords-and-tabs.net/song/name/van-morrison-moondance-10
+- video multi guitar: https://youtu.be/kfwhxSV_H3U
+- video van morison with chords: https://youtu.be/UpWGmaTKHXs
+- video guitar duet: https://www.facebook.com/watch/?v=387648762203408
