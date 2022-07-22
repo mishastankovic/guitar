@@ -1,5 +1,24 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+
+# Take Five
+- Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html)
+- chrods and tabs: https://tabs.ultimate-guitar.com/tab/the-dave-brubeck-quartet/take-five-tabs-467150
+- tabs songsetrr: https://www.songsterr.com/a/wsa/paul-desmond-take-five-tab-s3935
+- tabs pdf: https://ashturner1.files.wordpress.com/2012/12/dave-brubeck-quartet-take-five-w_-tab.pdf
+- how to play instructions: https://www.jazzguitar.be/blog/how-to-play-take-5-chords-on-guitar/
+- vide tabs and chords: https://youtu.be/6aEWDGo6MM8
+- guitar backing track: https://youtu.be/P2KuJCZuEso
+- piano backing track: https://youtu.be/pm1oeUqzsog
+
+# Moondance
+- Key [a minor](https://www.guitarscale.org/a-minor.html)
+- tabs: https://www.songsterr.com/a/wsa/van-morrison-moondance-tab-s12585t0
+- chords: https://www.chords-and-tabs.net/song/name/van-morrison-moondance-10
+- video multi guitar: https://youtu.be/kfwhxSV_H3U
+- video van morison with chords: https://youtu.be/UpWGmaTKHXs
+- video guitar duet: https://www.facebook.com/watch/?v=387648762203408
+
 # Maria Elena
 - Key [B major](https://www.guitarscale.org/b-major.html), parallel minor [g#](https://www.guitarscale.org/g-sharp-minor.html)
 - video & tutorial - c major: https://youtu.be/zkLtyqRkxk8
@@ -295,20 +314,3 @@
 - video: https://youtu.be/vGUNiwOZFIU
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
 
-# Take Five
-- Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html)
-- chrods and tabs: https://tabs.ultimate-guitar.com/tab/the-dave-brubeck-quartet/take-five-tabs-467150
-- tabs songsetrr: https://www.songsterr.com/a/wsa/paul-desmond-take-five-tab-s3935
-- tabs pdf: https://ashturner1.files.wordpress.com/2012/12/dave-brubeck-quartet-take-five-w_-tab.pdf
-- how to play instructions: https://www.jazzguitar.be/blog/how-to-play-take-5-chords-on-guitar/
-- vide tabs and chords: https://youtu.be/6aEWDGo6MM8
-- guitar backing track: https://youtu.be/P2KuJCZuEso
-- piano backing track: https://youtu.be/pm1oeUqzsog
-
-# Moondance
-- Key [a minor](https://www.guitarscale.org/a-minor.html)
-- tabs: https://www.songsterr.com/a/wsa/van-morrison-moondance-tab-s12585t0
-- chords: https://www.chords-and-tabs.net/song/name/van-morrison-moondance-10
-- video multi guitar: https://youtu.be/kfwhxSV_H3U
-- video van morison with chords: https://youtu.be/UpWGmaTKHXs
-- video guitar duet: https://www.facebook.com/watch/?v=387648762203408
