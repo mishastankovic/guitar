@@ -232,6 +232,7 @@
 # All of me
 - video cover: https://youtu.be/1EMLmzMQuIo
 - vide tutorial and tabs: https://www.jazzguitar.be/blog/all-of-me/
+- tabs: https://www.guitarjazztabs.com/All%20of%20Me.pdf
 
 # Wave - Bossa Nova
 - video solo guitar: https://youtu.be/u-cStsWo_CE
