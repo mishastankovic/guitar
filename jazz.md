@@ -3,4 +3,5 @@
 - 13 jazz leaks https://www.songsterr.com/a/wsa/jazz-jazz-lessons-tab-s449091
 
 # Theory
-- Basic jazz chords: https://truefire.com/guitar-chord-charts/10-jazz-guitar-chords
+- 10 Basic jazz chords: https://truefire.com/guitar-chord-charts/10-jazz-guitar-chords
+- 20 Basic jazz chords: https://www.learnjazzstandards.com/blog/20-basic-jazz-chords-for-guitar/
