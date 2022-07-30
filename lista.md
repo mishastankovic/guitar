@@ -18,6 +18,7 @@
 - video multi guitar: https://youtu.be/kfwhxSV_H3U
 - video van morison with chords: https://youtu.be/UpWGmaTKHXs
 - video guitar duet: https://www.facebook.com/watch/?v=387648762203408
+- backing track: https://youtu.be/mEet_EQQ0R4
 
 # Maria Elena
 - Key [B major](https://www.guitarscale.org/b-major.html), parallel minor [g#](https://www.guitarscale.org/g-sharp-minor.html)
