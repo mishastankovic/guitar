@@ -188,7 +188,6 @@
 - video tutorial 1: https://youtu.be/lLKL-nv0ut0
 - video tutorial 2: https://youtu.be/ocP_LPeex0Q
 
-	
 # Michelle - Beatles
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
 - video original Beatles: https://youtu.be/WoBLi5eE-wY
@@ -196,6 +195,11 @@
 # Nocking on heaven's door
 - tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
 - guitar cover: https://youtu.be/U6FSLtHhxpg
+
+# Down by the river
+- tabs: https://tabs.ultimate-guitar.com/tab/neil-young/down-by-the-river-tabs-75
+- video Neil Young: https://youtu.be/TiX8Rz5C3LY
+- video guitar cover solo and chords: https://youtu.be/DS8BQugCGM8
 
 # Nothing else matters
 - broj 5 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
