@@ -204,6 +204,7 @@
 	
 # Wicked game - Chris Isaak
 - tabs: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-tabs-274609
+- video acoustic guitar cover: https://youtu.be/chPjiyonxeY
 	
 # Twist And Shout by The Beatles
 - video: https://youtu.be/RpwlhdaXx1Y
