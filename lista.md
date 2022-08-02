@@ -195,6 +195,7 @@
 
 # Nocking on heaven's door
 - tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
+- guitar cover: https://youtu.be/U6FSLtHhxpg
 
 # Nothing else matters
 - broj 5 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
