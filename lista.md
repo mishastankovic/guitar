@@ -106,6 +106,7 @@
 - Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 - broj 9 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
 - video Beatles original: https://youtu.be/9_c2XZd9mMo
+- video milos : https://youtu.be/4n0cPQf-HnU
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
 - video tutorial: https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons
 - backing track rhythm guitar only: https://youtu.be/5qasVEHhhK0
