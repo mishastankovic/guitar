@@ -274,6 +274,7 @@
 - tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=83
 - video: https://www.youtube.com/watch?v=naR8Eg8DMdM&ab_channel=AkOrdinacija
 - video: https://www.youtube.com/watch?v=an2YX60xxH8&ab_channel=yesiloveguitar
+- akordi bjelo dugme: https://chordify.net/chords/bijelo-dugme-uspavanka-za-radmilu-m-audio-jugoton-music
 
 # Hotel California
 - video: https://youtu.be/1opgh7ky2nU
