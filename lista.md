@@ -263,7 +263,7 @@
 - video tutorial: https://youtu.be/q1hLjr6uK6c
 		
 # Uspavanka za Radmilu M
-- Key [e minor](https://www.guitarscale.org/e-minor.html)
+- Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 - video vlatko stefanovski: https://youtu.be/0DCWZZahmQU
 - tabs songsterr: https://www.songsterr.com/a/wsa/bijelo-dugme-uspavanka-za-radmilu-m-tab-s26723
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/uspavanka-za-radmilu-m-tabs-1001129
