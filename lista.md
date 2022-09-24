@@ -271,6 +271,8 @@
 - chords: https://chordu.com/chords-tabs-stefanovski-uspavanka-za-radmilu-m-live-in-baska-2019-id_vjJ8lpqJLZI
 - video yesiloveguitar: https://youtu.be/an2YX60xxH8
 - video pan madredeusz: https://youtu.be/7h7idUJl1to
+- tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=83
+- - video: https://www.youtube.com/watch?v=naR8Eg8DMdM&ab_channel=AkOrdinacija
 
 # Hotel California
 - video: https://youtu.be/1opgh7ky2nU
