@@ -276,6 +276,7 @@
 - video: https://www.youtube.com/watch?v=an2YX60xxH8&ab_channel=yesiloveguitar
 - akordi bjelo dugme: https://chordify.net/chords/bijelo-dugme-uspavanka-za-radmilu-m-audio-jugoton-music
 - video: https://youtu.be/3pO5_mQAumw
+- video 2 guitars: https://youtu.be/XSnqFkNGv44
 
 # Hotel California
 - video: https://youtu.be/1opgh7ky2nU
