@@ -281,6 +281,7 @@
 # Sta bi dao da si na mom mestu
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 - video: https://youtu.be/SCp9D95Gga4
+- video: https://youtu.be/nvGEGROQcPU
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/sta-bi-dao-da-si-na-mom-mjestu-guitar-pro-414588
 
 
