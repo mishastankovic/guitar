@@ -337,3 +337,5 @@
 - video: https://youtu.be/vGUNiwOZFIU
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
 
+# Lžeš zlato, lažeš dušo
+' videČ https://youtu.be/sREMRTAdh7c
