@@ -339,3 +339,9 @@
 
 # Lžeš zlato, lažeš dušo
 ' videČ https://youtu.be/sREMRTAdh7c
+
+# Private investigation
+- video fingerstyle: https://youtu.be/y7LjyMqcGJ4
+- video aleksandar obradovic: https://youtu.be/j_ooismoNsk
+- video two guitars: https://youtu.be/DokTPxlx4bg
+- video two guitars: https://youtu.be/DGusmSfyQ9M
