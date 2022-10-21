@@ -341,6 +341,8 @@
 ' videČ https://youtu.be/sREMRTAdh7c
 
 # Private investigation
+- Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
+- tabs: https://tabs.ultimate-guitar.com/tab/dire-straits/private-investigations-tabs-15436
 - video fingerstyle: https://youtu.be/y7LjyMqcGJ4
 - video aleksandar obradovic: https://youtu.be/j_ooismoNsk
 - video two guitars: https://youtu.be/DokTPxlx4bg
