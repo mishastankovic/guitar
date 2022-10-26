@@ -338,7 +338,7 @@
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
 
 # Lžeš zlato, lažeš dušo
-' videČ https://youtu.be/sREMRTAdh7c
+' vide: https://youtu.be/sREMRTAdh7c
 
 # Private investigation
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
