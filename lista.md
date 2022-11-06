@@ -349,3 +349,11 @@
 - video aleksandar obradovic: https://youtu.be/j_ooismoNsk
 - video two guitars: https://youtu.be/DokTPxlx4bg
 - video two guitars: https://youtu.be/DGusmSfyQ9M
+
+# Why worry
+- video fingersytle guitar cover: https://youtu.be/UobN8QMUgsQ
+- video guitar cover: https://youtu.be/2lr8XxwvQyY
+- video 3 guitars: https://youtu.be/fe0W54lVaOY
+- video Mark Knopfler: https://youtu.be/Y0oeqL2uvFA
+- tabs: https://youtu.be/Y0oeqL2uvFA
+- tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
