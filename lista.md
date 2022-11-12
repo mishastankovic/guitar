@@ -262,7 +262,7 @@
 - video: https://youtu.be/IPFVkbCeK_A
 - video tutorial: https://youtu.be/q1hLjr6uK6c
 		
-# Uspavanka za Radmilu M
+# Uspavanka za Radmilu M - Bjelo Dugme
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 - video vlatko stefanovski: https://youtu.be/0DCWZZahmQU
 - tabs songsterr: https://www.songsterr.com/a/wsa/bijelo-dugme-uspavanka-za-radmilu-m-tab-s26723
@@ -278,14 +278,14 @@
 - video: https://youtu.be/3pO5_mQAumw
 - video 2 guitars: https://youtu.be/XSnqFkNGv44
 
-# Sta bi dao da si na mom mestu
+# Sta bi dao da si na mom mestu - Bjelo Dugme
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 - video: https://youtu.be/SCp9D95Gga4
 - video: https://youtu.be/nvGEGROQcPU
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/sta-bi-dao-da-si-na-mom-mjestu-guitar-pro-414588
 
 
-# Hotel California
+# Hotel California - Eagles
 - video: https://youtu.be/1opgh7ky2nU
 
 # Summertime
@@ -337,10 +337,10 @@
 - video: https://youtu.be/vGUNiwOZFIU
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
 
-# Lžeš zlato, lažeš dušo
+# Lžeš zlato, lažeš dušo - Bjelo Dugme
 ' vide: https://youtu.be/sREMRTAdh7c
 
-# Private investigation
+# Private investigation - Dire Straits
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 - tabs: https://tabs.ultimate-guitar.com/tab/dire-straits/private-investigations-tabs-15436
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-private-investigations-tab-s30091
@@ -350,7 +350,7 @@
 - video two guitars: https://youtu.be/DokTPxlx4bg
 - video two guitars: https://youtu.be/DGusmSfyQ9M
 
-# Why worry
+# Why worry - Dire Straits
 - video fingersytle guitar cover: https://youtu.be/UobN8QMUgsQ
 - video guitar cover: https://youtu.be/2lr8XxwvQyY
 - video 3 guitars: https://youtu.be/fe0W54lVaOY
