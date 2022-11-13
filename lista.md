@@ -302,6 +302,7 @@
 - tabs Acousterr: https://www.acousterr.com/tab/gipsy-king-amor-mio
 - video Gipsy Kings original: https://youtu.be/BJhKloYci8o
 - video single guitar: https://youtu.be/JXLAFuMg-c8
+- video single guitar: https://youtu.be/6FCFbLjRQqk
 - video 2 guitars: https://youtu.be/uoTAaJmTa0g
 - video tutorial: https://youtu.be/73A_447WvcE
 - video guitar cover: https://youtu.be/QmZv1Zlh4yg
