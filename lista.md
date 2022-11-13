@@ -195,16 +195,16 @@
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
 - video original Beatles: https://youtu.be/WoBLi5eE-wY
 
-# Nocking on heaven's door
+# Nocking on heaven's door by Bob Dylan
 - tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
 - guitar cover: https://youtu.be/U6FSLtHhxpg
 
-# Down by the river
+# Down by the river - Neil Young
 - tabs: https://tabs.ultimate-guitar.com/tab/neil-young/down-by-the-river-tabs-75
 - video Neil Young: https://youtu.be/TiX8Rz5C3LY
 - video guitar cover solo and chords: https://youtu.be/DS8BQugCGM8
 
-# Nothing else matters
+# Nothing else matters - Metallica
 - broj 5 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
 - video: https://youtu.be/tAGnKpE4NCI
 - video tutorial: https://youtu.be/3Ub6OLlmFKI
