@@ -141,13 +141,13 @@
 - tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 - tabs songsterr: https://www.songsterr.com/a/wsa/sting-fragile-tab-s23952t0
 
-# Sve još miriše na nju
+# Sve još miriše na nju - Parni Valjak
 - video: https://youtu.be/YrJvkquw7CM
 - chords and tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=183&id=53
 - chords and lyrics: http://www.pesmarica.rs/Akordi/11612/Parni-Valjak--Sve-jos-mirise-na-nju
 - tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
 
-# Ain't no sunshine
+# Ain't no sunshine by Bill Withers
 - tutorial video: https://youtu.be/DngT6PiTNvk
 - guitar cover: https://youtu.be/Pef1iUYBc-Y
 - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
@@ -158,16 +158,16 @@
 - video: https://www.youtube.com/watch?v=jErhaj3jMmk
 - video: https://youtu.be/kQIr-7kmjy0
 
-# Brown eyed girl
+# Brown eyed girl - Ban Morison
 - video: https://youtu.be/UfmkgQRmmeE
 - tabs: https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-tabs-179799
 	
-# Stand by me
+# Stand by me by Ben King
 - video Tracy Chapman live: https://youtu.be/8XL6C3vY0jM
 - video Tracy Chapman official: https://youtu.be/7SNiezOBWPs
 - chords: https://tabs.ultimate-guitar.com/tab/tracy-chapman/stand-by-me-chords-2954426
 	
-# Imagine
+# Imagine by Beatles
 - video tutorial: https://youtu.be/sNXxzVd5qBY
 - tabs: https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-9306
 
