@@ -1,7 +1,7 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
 
-# Take Five
+# Take Five by Dave Brubeck
 - Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html)
 - chrods and tabs: https://tabs.ultimate-guitar.com/tab/the-dave-brubeck-quartet/take-five-tabs-467150
 - tabs songsetrr: https://www.songsterr.com/a/wsa/paul-desmond-take-five-tab-s3935
@@ -11,7 +11,7 @@
 - guitar backing track: https://youtu.be/P2KuJCZuEso
 - piano backing track: https://youtu.be/pm1oeUqzsog
 
-# Moondance
+# Moondance by Van Morison
 - Key [a minor](https://www.guitarscale.org/a-minor.html)
 - tabs: https://www.songsterr.com/a/wsa/van-morrison-moondance-tab-s12585t0
 - chords: https://www.chords-and-tabs.net/song/name/van-morrison-moondance-10
@@ -20,7 +20,7 @@
 - video guitar duet: https://www.facebook.com/watch/?v=387648762203408
 - backing track: https://youtu.be/mEet_EQQ0R4
 
-# Maria Elena
+# Maria Elena by Los Indios Tabajaras
 - Key [B major](https://www.guitarscale.org/b-major.html), parallel minor [g#](https://www.guitarscale.org/g-sharp-minor.html)
 - video & tutorial - c major: https://youtu.be/zkLtyqRkxk8
 - video b major: https://youtu.be/8b5qdoIiO8g
@@ -33,7 +33,7 @@
 - backing track - c major: https://www.youtube.com/watch?v=gLBPuoFalKY
 
 
-# Flor d'Luna (Moonflower)
+# Flor d'Luna (Moonflower) by Carlos Stantana
 - Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 - tabs solo: https://tabs.ultimate-guitar.com/tab/santana/flor-d-luna-moonflower-tabs-57649
 - tabs songster: https://www.songsterr.com/a/wsa/carlos-santana-flor-dluna-tab-s18380
@@ -44,7 +44,7 @@
 - video Joe Robinson acoustic guitar: https://www.youtube.com/watch?v=yEvGBe8pk70&ab_channel=JoeRobinson
 - backing track: https://youtu.be/CFu-GYUeMTs
 
-# Samba Pa Ti
+# Samba Pa Ti by Carlos Stantana
 - Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 ## Two guitars
 - tabs: https://www.chordsound.com/chords-SANTANA_CARLOS-Samba_pa_ti-21014.html
@@ -90,7 +90,7 @@
 - backing track : https://www.youtube.com/watch?v=HKYUXyIAgP8&ab_channel=OGTMachinima
 - [beleske](./beleske/tearsInHeaven.md) 
 	
-# Wish you were here
+# Wish you were here by Pink Floyd 
 - Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
 - tabs / turorial: https://rockguitaruniverse.com/wish-you-were-here/
