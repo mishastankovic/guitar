@@ -136,6 +136,7 @@
 - video guitar duet: https://youtu.be/5hOnYtswmzQ
 - video jazz cover: https://youtu.be/A19Vt9542P8
 - video single guitar cover: https://youtu.be/oH-yJLGP1KA
+- video fingerstyle cover: https://youtu.be/oHnWdrKb1tc
 - tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 - tabs songsterr: https://www.songsterr.com/a/wsa/sting-fragile-tab-s23952t0
 
