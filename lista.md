@@ -280,7 +280,7 @@
 - video: https://youtu.be/3pO5_mQAumw
 - video 2 guitars: https://youtu.be/XSnqFkNGv44
 
-# Sta bi dao da si na mom mestu - Bjelo Dugme
+# Šta bi dao da si na mom mjestu - Bjelo Dugme
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 - video: https://youtu.be/SCp9D95Gga4
 - video: https://youtu.be/nvGEGROQcPU
