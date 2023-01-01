@@ -360,3 +360,9 @@
 - video Mark Knopfler: https://youtu.be/Y0oeqL2uvFA
 - tabs: https://youtu.be/Y0oeqL2uvFA
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
+
+# Mad About You by Hooverphonic
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/hooverphonic/mad-about-you-chords-2480901
+- vide gover by Accoustic Afternoon: https://www.youtube.com/watch?v=AeAk0c-EnzY&ab_channel=AcousticAfternoon
+- video cover: https://www.youtube.com/watch?v=lcr1Gwu69Pk&ab_channel=ConstantinaRakopoulou
+- 
