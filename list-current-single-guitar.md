@@ -1,4 +1,16 @@
 
+# Samba Pa Ti by Carlos Stantana
+- Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
+- video single guitar: https://youtu.be/b3YRgaXJL0Y
+- video single guitar: https://youtu.be/H7wunS9vGWg
+- video single guitar: https://youtu.be/IiVssLIvW1k
+- video single guitar: https://youtu.be/ptUtVMAXyUc
+- video tutorial single guitar: https://www.youtube.com/watch?v=FfIP6KmTgIw&ab_channel=CharlieKager
+- acoustic arrangement tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359
+- classical guitar tabs: https://www.guitarnick.com/samba-pa-ti-santana-acoustic-guitar-tab.html
+- classical guitar videos: https://www.classical-guitar-music.com/guitar-solo/modern/samba-pa-ti-santana-for-classical-guitar/
+- classical guitar video; https://youtu.be/k8_2E6EXwvQ
+
 # Sve još miriše na nju - Parni Valjak
 - video: https://youtu.be/YrJvkquw7CM
 - chords and tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=183&id=53
