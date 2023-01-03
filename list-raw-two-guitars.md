@@ -161,5 +161,11 @@
 # Lžeš zlato, lažeš dušo - Bjelo Dugme
 ' vide: https://youtu.be/sREMRTAdh7c
 
+# Woodstock by Joni Mitchell
+- video Joni Mitchell: https://www.youtube.com/watch?v=cRjQCvfcXn0&ab_channel=sonicboy19
+- chrods Scofield, Modeski: https://chordu.com/chords-tabs-dejohnette-grenadier-medeski-scofield-woodstock-id_4V-7mAQBpes
+- guitar cover with chords: https://chordify.net/chords/eva-cassidy-songs/woodstock-chords
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/joni-mitchell/woodstock-chords-76741
+
 
 
