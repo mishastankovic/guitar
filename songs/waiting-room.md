@@ -142,7 +142,5 @@
 - video: https://youtu.be/vGUNiwOZFIU
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
 
-
-
-#Keith Don't Go by Nils Lofgren
+# Keith Don't Go by Nils Lofgren
 - video: https://youtu.be/coNqbqnH3AM
