@@ -139,6 +139,7 @@
 
 # Why worry - Dire Straits
 - video fingersytle guitar cover: https://youtu.be/UobN8QMUgsQ
+- video another finger style single guitar: https://youtu.be/3_Crr78eI54
 - video guitar cover: https://youtu.be/2lr8XxwvQyY
 - video 2 guitars: https://youtu.be/fe0W54lVaOY
 - video Mark Knopfler: https://youtu.be/Y0oeqL2uvFA
