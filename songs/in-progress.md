@@ -5,7 +5,8 @@
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/joni-mitchell/woodstock-chords-76741
 
 # Guajira
-- video tutorial: https://youtu.be/o8l-PkX90oc
+- video tutorial part 1: https://youtu.be/o8l-PkX90oc
+- video part 2: https://youtu.be/KIinS2joMGY
 - video performance: https://youtu.be/KIinS2joMGY?list=RDo8l-PkX90oc
 - tabs for above video: https://www.songsterr.com/a/wsa/jesus-hernandez-guajira-son-tab-s451902
 - video Los Incas: https://youtu.be/fRgZA9K6Eos
