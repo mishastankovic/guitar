@@ -27,3 +27,11 @@
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/1410603
 - video turorial solo by yesiloveguitar: https://www.yesiloveguitar.com/tablature/tablature-pop/nedostaje-mi-nasa-ljubav-d-balasevic-solo-tab/
 - vide Djordje Balasevic: https://www.youtube.com/watch?v=C_DCC2SRkPQ&ab_channel=%C4%90OR%C4%90EBALA%C5%A0EVI%C4%86OFFICIAL
+
+# Albatros by Fleetwood Mac
+- video - Justin 2 guitars: https://youtu.be/JjUSs8tLYE0
+- video lesson - Justin part 1: https://youtu.be/u8BGh_xGa2U
+- video lesson 2: https://youtu.be/q4XXgJAV0Yk
+- tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
+- tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
+- 
