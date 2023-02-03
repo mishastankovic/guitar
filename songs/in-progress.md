@@ -31,6 +31,7 @@
 - vide Djordje Balasevic: https://www.youtube.com/watch?v=C_DCC2SRkPQ&ab_channel=%C4%90OR%C4%90EBALA%C5%A0EVI%C4%86OFFICIAL
 
 # Albatros by Fleetwood Mac
+Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
 - video - Justin 2 guitars: https://youtu.be/JjUSs8tLYE0
 - video lesson - Justin part 1: https://youtu.be/u8BGh_xGa2U
 - video lesson 2: https://youtu.be/q4XXgJAV0Yk
