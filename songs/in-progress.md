@@ -36,4 +36,3 @@
 - video lesson 2: https://youtu.be/q4XXgJAV0Yk
 - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
 - tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
-- 
