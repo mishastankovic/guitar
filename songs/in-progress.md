@@ -26,6 +26,7 @@
 ' vide: https://youtu.be/sREMRTAdh7c
 
 # Nedostaje mi naša ljubav - Djordje Balašević
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/1410603
 - video turorial solo by yesiloveguitar: https://www.yesiloveguitar.com/tablature/tablature-pop/nedostaje-mi-nasa-ljubav-d-balasevic-solo-tab/
 - vide Djordje Balasevic: https://www.youtube.com/watch?v=C_DCC2SRkPQ&ab_channel=%C4%90OR%C4%90EBALA%C5%A0EVI%C4%86OFFICIAL
