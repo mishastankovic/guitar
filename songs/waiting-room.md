@@ -108,7 +108,7 @@
 - video: https://youtu.be/1opgh7ky2nU
 
 # Summertime
-- Key [e\a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
+- Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 - video gitar duet: https://youtu.be/d5mvIqSlXdo
 - video guitar duet: https://youtu.be/HqW-_rKqrNU
 - video tutorial: https://youtu.be/zqxr-i6kYrQ
