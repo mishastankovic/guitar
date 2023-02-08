@@ -115,6 +115,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - video tutorial: https://youtu.be/WvZ4xfCboyY
 - chords: https://tabs.ultimate-guitar.com/tab/george-gershwin/summertime-chords-1053545
 - single guitar tabs: https://www.guitartabsexplorer.com/gershwin-george-Tabs/summertime-acoustic-tab.php
+- video tutorial fingerstyle: https://youtu.be/IgaXZfVwaHk
 
 # Entre Dos Aguas - Paco de Lucia
 - tabs: https://tabs.ultimate-guitar.com/tab/49030
