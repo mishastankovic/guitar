@@ -6,3 +6,4 @@
 - Chords, scales, freathboard: https://www.fachords.com/
 - 10 Basic jazz chords: https://truefire.com/guitar-chord-charts/10-jazz-guitar-chords
 - 20 Basic jazz chords: https://www.learnjazzstandards.com/blog/20-basic-jazz-chords-for-guitar/
+- Buiginners guide to jazz chord progression: https://www.jazzguitarlessons.net/blog/beginners-guide-jazz-chord-progressions
