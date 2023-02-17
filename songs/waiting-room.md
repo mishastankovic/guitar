@@ -119,6 +119,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - video Doc Watson: https://youtu.be/Cas83JlPctc
 - video Billy String: https://youtu.be/1RNNQYpnukA
 - video : https://youtu.be/ARklsaQI0b4
+- video Doc Watson style tutorial: https://youtu.be/YSYiHNd9GK4
 
 # Entre Dos Aguas - Paco de Lucia
 - tabs: https://tabs.ultimate-guitar.com/tab/49030
