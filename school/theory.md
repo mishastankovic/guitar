@@ -5,3 +5,4 @@
 
 # Chords
 - Guitar Lib : https://gtrlib.com/chords/
+- Scales and chords: https://www.guitarscale.org/a-minor.html
