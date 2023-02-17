@@ -120,6 +120,9 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - video Billy String: https://youtu.be/1RNNQYpnukA
 - video : https://youtu.be/ARklsaQI0b4
 - video Doc Watson style tutorial: https://youtu.be/YSYiHNd9GK4
+## Fingersylt guitar cover
+- https://youtu.be/8kzW_K9R10Q
+- https://youtu.be/bt8DuZFDkEU
 
 # Entre Dos Aguas - Paco de Lucia
 - tabs: https://tabs.ultimate-guitar.com/tab/49030
@@ -150,3 +153,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 # Keith Don't Go by Nils Lofgren
 - video: https://youtu.be/coNqbqnH3AM
+
+# In th esummertime by Mango Jerry
+- Singe acoustic guitar cover: https://youtu.be/Qywk2faCJpc
