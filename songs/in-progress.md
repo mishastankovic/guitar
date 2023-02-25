@@ -64,8 +64,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Video
 - video tutorial: https://youtu.be/4x4xmx3-90M
 - another tutorial
--- part 1: https://youtu.be/Y-K62mh0sso
--- part 2: https://youtu.be/lG7RanpZRiA
+  - part 1: https://youtu.be/Y-K62mh0sso
+  - part 2: https://youtu.be/lG7RanpZRiA
 - video two guitars Tommy Hrtley: https://youtu.be/4OFv2xCl_z8
 - video Mark66 guitar cover: https://youtu.be/xIM5NdqT4NA
 - antoher acoustic guitar cover; https://youtu.be/hNXdG4fzP4Q
