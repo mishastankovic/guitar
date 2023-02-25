@@ -1,5 +1,5 @@
 # Woodstock by Joni Mitchell
-- Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel major [G flat](https://www.guitarscale.org/g-flat-major.html)
+Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel major [G flat](https://www.guitarscale.org/g-flat-major.html)
 ### Video
 - video Joni Mitchell: https://www.youtube.com/watch?v=cRjQCvfcXn0&ab_channel=sonicboy19
 - guitar cover with chords: https://chordify.net/chords/eva-cassidy-songs/woodstock-chords
@@ -18,7 +18,7 @@
 - video Los Incas: https://youtu.be/fRgZA9K6Eos
 
 # Chan Chan
-- Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
+Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 ### Video
 - https://www.youtube.com/watch?v=3FTGxx9Y-00&ab_channel=xmanadan
 - https://www.youtube.com/watch?v=4vR9owntR9k&ab_channel=BalintPetz
@@ -28,14 +28,14 @@
 - backing track: https://youtu.be/Xue44HXVTHE
 
 # Wicked game - Chris Isaak
-- Key [b minor](https://www.guitarscale.org/b-minor.html), parallel major [A](https://www.guitarscale.org/a-major.html)
+Key [b minor](https://www.guitarscale.org/b-minor.html), parallel major [A](https://www.guitarscale.org/a-major.html)
 ### Video
 - video acoustic guitar cover: https://youtu.be/chPjiyonxeY
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-tabs-274609
 
 # Lžeš zlato, lažeš dušo - Bjelo Dugme
-- Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 ### Video
 - video: https://youtu.be/sREMRTAdh7c
 ### Tabs
