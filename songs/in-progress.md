@@ -1,3 +1,20 @@
+# Key to the highway by Eric Clapton
+Key [a major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
+### Video
+- cover and tutorial; https://www.youtube.com/watch?v=NT3xKmOYIAw&ab_channel=daddystovepipe
+- video guitar cover: https://youtu.be/NT3xKmOYIAw
+- video tutorial: https://youtu.be/4x4xmx3-90M
+- tutorial Joe'S guitar: https://youtu.be/Hjz67ClcBWM
+- another tutorial
+  - part 1: https://youtu.be/Y-K62mh0sso
+  - part 2: https://youtu.be/lG7RanpZRiA
+- video two guitars Tommy Hrtley: https://youtu.be/4OFv2xCl_z8
+- video Mark66 guitar cover: https://youtu.be/xIM5NdqT4NA
+- antoher acoustic guitar cover; https://youtu.be/hNXdG4fzP4Q
+### Tabs
+- chrods: https://www.e-chords.com/chords/eric-clapton/key-to-the-highway
+- tabs: https://www.azchords.com/e/ericclapton-tabs-1348/keytothehighway-tabs-13302.html
+
 # Woodstock by Joni Mitchell
 Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel major [G flat](https://www.guitarscale.org/g-flat-major.html)
 ### Video
@@ -59,19 +76,3 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
 - tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
 
-# Key to the highway by Eric Clapton
-Key [a major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
-### Video
-- cover and tutorial; https://www.youtube.com/watch?v=NT3xKmOYIAw&ab_channel=daddystovepipe
-- video guitar cover: https://youtu.be/NT3xKmOYIAw
-- video tutorial: https://youtu.be/4x4xmx3-90M
-- tutorial Joe'S guitar: https://youtu.be/Hjz67ClcBWM
-- another tutorial
-  - part 1: https://youtu.be/Y-K62mh0sso
-  - part 2: https://youtu.be/lG7RanpZRiA
-- video two guitars Tommy Hrtley: https://youtu.be/4OFv2xCl_z8
-- video Mark66 guitar cover: https://youtu.be/xIM5NdqT4NA
-- antoher acoustic guitar cover; https://youtu.be/hNXdG4fzP4Q
-### Tabs
-- chrods: https://www.e-chords.com/chords/eric-clapton/key-to-the-highway
-- tabs: https://www.azchords.com/e/ericclapton-tabs-1348/keytothehighway-tabs-13302.html
