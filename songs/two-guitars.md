@@ -118,7 +118,7 @@
 - tabs: https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-tabs-984061
 - tabs solo: https://www.e-chords.com/tabs/pink-floyd/wish-you-were-here
 	
-# And I Love Her – The Beatles
+# And I Love Her by Beatles
 - Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 ### Video
 - broj 9 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
@@ -131,7 +131,7 @@
 - backing track rhythm guitar only: https://youtu.be/5qasVEHhhK0
 - multi channel backing track: http://backtracks4all.com/backingtracks/the-beatles/and-i-love-her-3
 
-# Layla - Eric Clepton
+# Layla by Eric Clepton
 - Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 - broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
 ### Video
