@@ -58,3 +58,12 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 ### Tabs
 - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
 - tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
+
+# Key to the highway by Eric Clapton
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
+### Video
+- video two guitars Tommy Hrtley: https://youtu.be/4OFv2xCl_z8
+- video Mark66 guitar cover: https://youtu.be/xIM5NdqT4NA
+- antoher acoustic guitar cover; https://youtu.be/hNXdG4fzP4Q
+### Tabs
+- chrods: https://www.e-chords.com/chords/eric-clapton/key-to-the-highway
