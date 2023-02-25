@@ -87,14 +87,17 @@
 # Wish you were here by Pink Floyd 
 - Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 - Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
+### Tabs
 - tabs / turorial: https://rockguitaruniverse.com/wish-you-were-here/
+- tabs: https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-tabs-984061
+- tabs solo: https://www.e-chords.com/tabs/pink-floyd/wish-you-were-here
+### Video
 - video Pink Floyd: https://www.youtube.com/watch?v=IXdNnw99-Ic&ab_channel=chartrand
 - video Reina del Cid cover: https://www.youtube.com/watch?v=kIGrLseMuu0&ab_channel=ReinadelCid
 - video The Running Mates cover: https://youtu.be/GrvBYMTscmE
 - video tutorial: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
 - video tutorial: https://youtu.be/evQ8bM8O5A0
 - video boyce avenue: https://youtu.be/NoeI2TzlSbQ
-- [beleske](./beleske/wishYouWereHere.md) 
 	
 # And I Love Her – The Beatles
 - Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
