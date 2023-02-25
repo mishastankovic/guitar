@@ -37,7 +37,7 @@
 # Lžeš zlato, lažeš dušo - Bjelo Dugme
 - Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 ### Video
-' vide: https://youtu.be/sREMRTAdh7c
+- video: https://youtu.be/sREMRTAdh7c
 ### Tabs
 - tabs and lyrics: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/lazes-zlato-chords-1945415
 
