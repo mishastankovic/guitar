@@ -81,7 +81,7 @@
 - acoustic arrangement tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359
 - classical guitar tabs: https://www.guitarnick.com/samba-pa-ti-santana-acoustic-guitar-tab.html
 
-# Tears in heaven
+# Tears in heaven by Eric Clapton
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 ### Video
 - video: https://youtu.be/JxPj3GAYYZ0
@@ -158,7 +158,7 @@
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/hooverphonic/mad-about-you-chords-2480901
 
 
-# Private investigation - Dire Straits
+# Private investigation by Dire Straits
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 ### Video
 - video fingerstyle: https://youtu.be/y7LjyMqcGJ4
@@ -170,7 +170,7 @@
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-private-investigations-tab-s30091
 - tabs pdf: https://guitaralliance.com/justacoustic/songs/pi/private_investigations.pdf
 
-# Why worry - Dire Straits
+# Why worry by Dire Straits
 ### Video
 - video fingersytle guitar cover: https://youtu.be/UobN8QMUgsQ
 - video another finger style single guitar: https://youtu.be/3_Crr78eI54
