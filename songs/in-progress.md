@@ -60,7 +60,7 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 - tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
 
 # Key to the highway by Eric Clapton
-Key [a major](https://www.guitarscale.org/a-major.html), parallel major [f#](https://www.guitarscale.org/f-sharp-minor.html)
+Key [a major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 ### Video
 - video tutorial: https://youtu.be/4x4xmx3-90M
 - tutorial Joe'S guitar: https://youtu.be/Hjz67ClcBWM
