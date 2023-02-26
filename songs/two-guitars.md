@@ -136,7 +136,7 @@
 - broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
 ### Video
 - video, chords, tabs and solo - Eric Clepton live version with single guitar: https://www.guitardownunder.com/songs/layla.php
-- video Eric Clepton unplugged: https://youtu.be/DbFBXxTxXvY
+- video Eric Clepton unplugged: https://youtu.be/IEcUc0NdM1A
 - video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
 - video tutorial - rhythm: https://youtu.be/BPXQcyLzPeA
 - video tutorial - solo: https://youtu.be/YZEMOvwX4wQ
