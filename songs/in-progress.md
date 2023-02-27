@@ -2,7 +2,6 @@
 Key [a major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 ### Video
 - cover and tutorial; https://www.youtube.com/watch?v=NT3xKmOYIAw&ab_channel=daddystovepipe
-- video guitar cover: https://youtu.be/NT3xKmOYIAw
 - video tutorial: https://youtu.be/4x4xmx3-90M
 - tutorial Joe'S guitar: https://youtu.be/Hjz67ClcBWM
 - another tutorial
