@@ -1,5 +1,7 @@
 # Key to the highway by Eric Clapton
-Key [a major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
+Key
+  - Original version [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
+  - Eric Clapton version [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 ### Video
 - cover and tutorial; https://www.youtube.com/watch?v=NT3xKmOYIAw&ab_channel=daddystovepipe
 - video tutorial: https://youtu.be/4x4xmx3-90M
