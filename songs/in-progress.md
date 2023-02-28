@@ -3,18 +3,18 @@ Key
   - Original version [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
   - Eric Clapton version [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 ### Video
-- cover and tutorial; https://www.youtube.com/watch?v=NT3xKmOYIAw&ab_channel=daddystovepipe
-- video tutorial: https://youtu.be/4x4xmx3-90M
-- tutorial Joe'S guitar: https://youtu.be/Hjz67ClcBWM
-- another tutorial
+- cover and tutorial in E major: https://www.youtube.com/watch?v=NT3xKmOYIAw&ab_channel=daddystovepipe
+- video tutorial in A major: https://youtu.be/4x4xmx3-90M
+- tutorial Joe'S guitar in A major: https://youtu.be/Hjz67ClcBWM
+- another tutorial in A major
   - part 1: https://youtu.be/Y-K62mh0sso
   - part 2: https://youtu.be/lG7RanpZRiA
-- video two guitars Tommy Hrtley: https://youtu.be/4OFv2xCl_z8
+- video two guitars in A major Tommy Hrtley: https://youtu.be/4OFv2xCl_z8
 - video Mark66 guitar cover: https://youtu.be/xIM5NdqT4NA
-- antoher acoustic guitar cover; https://youtu.be/hNXdG4fzP4Q
+- antoher acoustic guitar cover in A major; https://youtu.be/hNXdG4fzP4Q
 ### Tabs
-- chrods: https://www.e-chords.com/chords/eric-clapton/key-to-the-highway
-- tabs: https://www.azchords.com/e/ericclapton-tabs-1348/keytothehighway-tabs-13302.html
+- chrods and lyrics in A major: https://www.e-chords.com/chords/eric-clapton/key-to-the-highway
+- tabs A major: https://www.azchords.com/e/ericclapton-tabs-1348/keytothehighway-tabs-13302.html
 
 # Woodstock by Joni Mitchell
 Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel major [G flat](https://www.guitarscale.org/g-flat-major.html)
