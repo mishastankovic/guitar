@@ -5,6 +5,7 @@ Key
   - E major pentatoic scale: https://www.guitar-chords.org.uk/guitarscales/e-majorpentatonic.html
 ### Video
 - cover and tutorial in E major: https://www.youtube.com/watch?v=NT3xKmOYIAw&ab_channel=daddystovepipe
+- tutorial in E major: https://youtu.be/xbC_5sej9Nw
 - video tutorial in A major: https://youtu.be/4x4xmx3-90M
 - tutorial Joe'S guitar in A major: https://youtu.be/Hjz67ClcBWM
 - another tutorial in A major
