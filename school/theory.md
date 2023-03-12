@@ -6,3 +6,8 @@
 # Chords
 - Guitar Lib : https://gtrlib.com/chords/
 - Scales and chords: https://www.guitarscale.org/a-minor.html
+
+# Scales
+- Pentatonic scale video: https://youtu.be/uuraAIKyPiQ
+- CAGED progression of chords on guitar fretboard: https://youtu.be/0Qp26KcDrGw
+- 
