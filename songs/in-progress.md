@@ -1,7 +1,7 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
 # Key to the highway by Eric Clapton
-Key
+### Key
   - Original version [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
   - Eric Clapton version [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
   - E major pentatoic scale: https://www.guitar-chords.org.uk/guitarscales/e-majorpentatonic.html
