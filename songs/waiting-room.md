@@ -208,5 +208,5 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 # In the Summertime by Mango Jerry
 ### Video
-- Singe acoustic guitar cover: https://youtu.be/Qywk2faCJpc
-- Fingerstyle cover" https://youtu.be/Qywk2faCJpc
+- Mango Jerry tutorial: https://youtu.be/um-xl9EVqvs
+- Fingerstyle cover:v https://youtu.be/Qywk2faCJpc
