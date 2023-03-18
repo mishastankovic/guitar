@@ -8,6 +8,9 @@
 - Scales and chords: https://www.guitarscale.org/a-minor.html
 
 # Scales
+### Video
 - Pentatonic scale video: https://youtu.be/uuraAIKyPiQ
 - CAGED progression of chords on guitar fretboard: https://youtu.be/0Qp26KcDrGw
+
+## Tabs
 - Pentatonic scales: https://www.guitar-chords.org.uk/guitarscales/e-majorpentatonic.html
