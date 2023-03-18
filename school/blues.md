@@ -10,7 +10,7 @@
 
 # Blues technique
 ### Video
-- Finger style blues lesson: https://youtu.be/V0FZzL9y55I
+- Finger style blues lesson by Paul Davids: https://youtu.be/V0FZzL9y55I
 - How to play Acoustic Blues Guitar by Joes Guitar
   - Part 1: https://youtu.be/3i4TtHIC_c4
   - Part 2: https://youtu.be/F_BDxYrmDWo
