@@ -11,10 +11,10 @@
 # Blues technique
 ### Video
 - Finger style blues lesson by Paul Davids: https://youtu.be/V0FZzL9y55I
-- How to play Acoustic Blues Guitar by Joes Guitar
+- How to play Acoustic Blues Guitar by Joe's Guitar
   - Part 1: https://youtu.be/3i4TtHIC_c4
   - Part 2: https://youtu.be/F_BDxYrmDWo
-- Blues scale position 1: https://youtu.be/X-uCp-5otiQ
+- Blues scale position 1 by Joe's Guitar: https://youtu.be/X-uCp-5otiQ
 
 
 # Scales and chords
