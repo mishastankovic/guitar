@@ -74,4 +74,9 @@
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/sta-bi-dao-da-si-na-mom-mjestu-guitar-pro-414588
 
+# In the Shallow by Lady Gaga
+### Video
+- guitara cover Justin Guitar: https://youtu.be/zz1wEPuRXyM
+### Tabs
+- tabs and lyrics on ultimate guitar: https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-tabs-2540916
 
