@@ -20,6 +20,8 @@
 ### Tabs
 - chrods and lyrics in A major: https://www.e-chords.com/chords/eric-clapton/key-to-the-highway
 - tabs A major: https://www.azchords.com/e/ericclapton-tabs-1348/keytothehighway-tabs-13302.html
+- tabs A major: https://tabs.ultimate-guitar.com/tab/eric-clapton/key-to-the-highway-tabs-279995
+- tabs songsterr: https://www.songsterr.com/a/wsa/eric-clapton-key-to-the-highway-tab-s4640
 
 # Woodstock by Joni Mitchell
 Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel major [G flat](https://www.guitarscale.org/g-flat-major.html)
