@@ -27,9 +27,10 @@
 Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel major [G flat](https://www.guitarscale.org/g-flat-major.html)
 ### Video
 - video Joni Mitchell: https://www.youtube.com/watch?v=cRjQCvfcXn0&ab_channel=sonicboy19
-- guitar cover with chords: https://chordify.net/chords/eva-cassidy-songs/woodstock-chords
+- video Eva Casidy: https://youtu.be/7Zx0lieOY1g
 
 ### Tabs
+- chords Eva Cassidy: https://chordify.net/chords/eva-cassidy-songs/woodstock-chords
 - chrods Scofield, Modeski: https://chordu.com/chords-tabs-dejohnette-grenadier-medeski-scofield-woodstock-id_4V-7mAQBpes
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/joni-mitchell/woodstock-chords-76741
 
