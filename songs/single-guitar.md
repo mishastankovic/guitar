@@ -8,8 +8,7 @@
 - video single guitar: https://youtu.be/ptUtVMAXyUc
 - video tutorial single guitar: https://www.youtube.com/watch?v=FfIP6KmTgIw&ab_channel=CharlieKager
 ### Tabs
-- acoustic arrangement tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359
-- classical guitar tabs: https://www.guitarnick.com/samba-pa-ti-santana-acoustic-guitar-tab.html
+- acoustic arrangement tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359l
 - classical guitar videos: https://www.classical-guitar-music.com/guitar-solo/modern/samba-pa-ti-santana-for-classical-guitar/
 - classical guitar video; https://youtu.be/k8_2E6EXwvQ
 
