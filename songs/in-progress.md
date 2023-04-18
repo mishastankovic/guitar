@@ -1,5 +1,17 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# Altamira by Mark Knopfler
+Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [B flat](https://www.guitarscale.org/b-flat-major.html)
+
+### Video
+- video cover: https://youtu.be/3EGeuMO_GK0
+- another video cover: https://youtu.be/JtMETfood6w
+
+### Tabs
+  - https://tabs.ultimate-guitar.com/tab/mark-knopfler/altamira-tabs-3288959
+  - https://www.guitartabsexplorer.com/knopfler-mark-Tabs/altamira-tab.php
+  - chordify original recording: https://chordify.net/chords/mark-knopfler-evelyn-glennie-songs/altamira-chords
+
 # Key to the highway by Eric Clapton
 ### Key
   - Original version [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
