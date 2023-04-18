@@ -1,7 +1,7 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
 # Altamira by Mark Knopfler
-Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [B flat](https://www.guitarscale.org/b-flat-major.html)
+Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
 
 ### Video
 - video cover: https://youtu.be/3EGeuMO_GK0
