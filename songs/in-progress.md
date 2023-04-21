@@ -1,5 +1,11 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# Como Una Flor by Gonzalo Bargera
+### Tabs
+- chordify: https://chordify.net/chords/gonzalo-bergara-como-una-flor-dc-music-school
+- pdf tabs preview: https://www.soundslice.com/slices/tKDcc/course-preview-616/
+- chords with original song - preview: https://www.yalp.io/chords/gonzalo-bergara-como-una-flor-22d3
+
 # Altamira by Mark Knopfler
 Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
 
