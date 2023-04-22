@@ -6,6 +6,9 @@
 - pdf tabs preview: https://www.soundslice.com/slices/tKDcc/course-preview-616/
 - chords with original song - preview: https://www.yalp.io/chords/gonzalo-bergara-como-una-flor-22d3
 
+### Video
+- gonzalo bergara video; https://youtu.be/6kdE8qL3n00
+
 # Altamira by Mark Knopfler
 Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
 
