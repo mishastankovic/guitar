@@ -1,6 +1,7 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
 # Como Una Flor by Gonzalo Bergera
+Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [e flat major](https://www.guitarscale.org/e-flat-major.html)
 ### Tabs
 - chordify: https://chordify.net/chords/gonzalo-bergara-como-una-flor-dc-music-school
 - pdf tabs preview: https://www.soundslice.com/slices/tKDcc/course-preview-616/
