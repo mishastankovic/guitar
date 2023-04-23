@@ -9,6 +9,7 @@ Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat 
 
 ### Video
 - gonzalo bergara video; https://youtu.be/6kdE8qL3n00
+- gonzalo bergara cd recording: https://www.youtube.com/watch?v=z5nYrZLONCg&ab_channel=GonzaloBergara
 
 # Altamira by Mark Knopfler
 Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
