@@ -52,6 +52,7 @@ Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel majo
 - video Joni Mitchell: https://www.youtube.com/watch?v=cRjQCvfcXn0&ab_channel=sonicboy19
 - video Eva Cassidy: https://youtu.be/7Zx0lieOY1g
 - video tutorial Eva Cassidy version: https://youtu.be/A-ZRlQiBK4M
+- john scofield album recording: https://youtu.be/4V-7mAQBpes
 
 ### Tabs
 - chords Eva Cassidy: https://chordify.net/chords/eva-cassidy-songs/woodstock-chords
