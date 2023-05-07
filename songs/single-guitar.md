@@ -14,7 +14,7 @@
 
 
 # Sve još miriše na nju - Parni Valjak
-- Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
+- Key [g minor](https://www.guitarscale.org/g-minor.html), parallel minor [B](https://www.guitarscale.org/b-major.html)
 ### Video
 - video: https://youtu.be/YrJvkquw7CM
 ### Tabs
