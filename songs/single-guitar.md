@@ -80,3 +80,17 @@
 ### Tabs
 - tabs and lyrics on ultimate guitar: https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-tabs-2540916
 
+# Ima neka tajna veza by Bjelo Dugme
+
+### Video
+- instrumental cover: https://youtu.be/tausz5PFT4A
+- cover with vocals: https://youtu.be/wOtZJn1Sd3g
+- original bjelo dume recording with chords: https://chordu.com/chords-tabs-bijelo-dugme-ima-neka-tajna-veza-official-lyric-video--id_ZBFhuVWw14o
+- yesiloveguitar video and tabs: https://www.yesiloveguitar.com/tablature/tablature-fingerstyle/ima-neka-tajna-veza/
+
+### Tabs
+- https://tabs.ultimate-guitar.com/tab/bijelo-dugme/ima-neka-tajna-veza-guitar-pro-1106737
+- songsterr: https://www.songsterr.com/a/wsa/bijelo-dugme-ima-neka-tajna-veza-tab-s86235
+- https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=28
+- tab creator: https://www.guitartabcreator.com/tabs/gitarile/ima-neka-tajna-veza
+
