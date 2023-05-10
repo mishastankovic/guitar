@@ -15,13 +15,16 @@ Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat 
 Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
 
 ### Video
+- mark knopfler original: https://youtu.be/xdAhSZB2lh8
 - video cover: https://youtu.be/3EGeuMO_GK0
 - another video cover: https://youtu.be/JtMETfood6w
+- another cover: https://youtu.be/QgiwSDwPC7g
 
 ### Tabs
   - https://tabs.ultimate-guitar.com/tab/mark-knopfler/altamira-tabs-3288959
   - https://www.guitartabsexplorer.com/knopfler-mark-Tabs/altamira-tab.php
   - chordify original recording: https://chordify.net/chords/mark-knopfler-evelyn-glennie-songs/altamira-chords
+  - https://www.azchords.com/m/markknopfler-tabs-2461/altamira-tabs-937501.html
 
 # Key to the highway by Eric Clapton
 ### Key
