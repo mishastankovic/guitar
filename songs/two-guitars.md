@@ -164,12 +164,16 @@
 ### Video
 - video fingerstyle: https://youtu.be/y7LjyMqcGJ4
 - video aleksandar obradovic: https://youtu.be/j_ooismoNsk
-- video two guitars: https://youtu.be/DokTPxlx4bg
-- video two guitars: https://youtu.be/DGusmSfyQ9M
+- video two guitars with vocals: https://youtu.be/DokTPxlx4bg
+- video two guitars with vocals: https://youtu.be/DGusmSfyQ9M
+- single guitar fingerstyle instrumental - yoni schlesinger: https://youtu.be/nugiQG03lN8
 ### Tabs
 - tabs solo: https://tabs.ultimate-guitar.com/tab/dire-straits/private-investigations-tabs-15436
 - tabs solo: https://www.songsterr.com/a/wsa/dire-straits-private-investigations-tab-s30091
 - tabs for two guitars pdf: https://guitaralliance.com/justacoustic/songs/pi/private_investigations.pdf
+
+### Backing tracks
+- https://youtu.be/CuvNfZxF5qo
 
 # Why worry by Dire Straits
 ### Video
