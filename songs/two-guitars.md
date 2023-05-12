@@ -167,9 +167,9 @@
 - video two guitars: https://youtu.be/DokTPxlx4bg
 - video two guitars: https://youtu.be/DGusmSfyQ9M
 ### Tabs
-- tabs: https://tabs.ultimate-guitar.com/tab/dire-straits/private-investigations-tabs-15436
-- tabs: https://www.songsterr.com/a/wsa/dire-straits-private-investigations-tab-s30091
-- tabs pdf: https://guitaralliance.com/justacoustic/songs/pi/private_investigations.pdf
+- tabs solo: https://tabs.ultimate-guitar.com/tab/dire-straits/private-investigations-tabs-15436
+- tabs solo: https://www.songsterr.com/a/wsa/dire-straits-private-investigations-tab-s30091
+- tabs for two guitars pdf: https://guitaralliance.com/justacoustic/songs/pi/private_investigations.pdf
 
 # Why worry by Dire Straits
 ### Video
