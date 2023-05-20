@@ -54,7 +54,7 @@
 - video vlatko stefanovski: https://youtu.be/0DCWZZahmQU
 - video yesiloveguitar: https://youtu.be/an2YX60xxH8
 - video pan madredeusz: https://youtu.be/7h7idUJl1to
-- video: https://www.youtube.com/watch?v=naR8Eg8DMdM&ab_channel=AkOrdinacija
+- video akordinacija: https://www.youtube.com/watch?v=naR8Eg8DMdM&ab_channel=AkOrdinacija
 - video: https://www.youtube.com/watch?v=an2YX60xxH8&ab_channel=yesiloveguitar
 - video: https://youtu.be/3pO5_mQAumw
 - video 2 guitars: https://youtu.be/XSnqFkNGv44
