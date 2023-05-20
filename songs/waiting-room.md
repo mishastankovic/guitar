@@ -1,3 +1,10 @@
+# Loše vino by Bjelo Dugme
+### Video
+- yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
+### Tabs
+- yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
+- chords and lyrics: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=38
+
 # Stardust
 ### Video
 - video guitar duet: https://youtu.be/2XTuF0pokYI
