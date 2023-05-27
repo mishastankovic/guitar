@@ -159,7 +159,7 @@
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/hooverphonic/mad-about-you-chords-2480901
 
 
-# Private investigation by Dire Straits
+# Private investigations by Dire Straits
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 ### Video
 - video fingerstyle: https://youtu.be/y7LjyMqcGJ4
