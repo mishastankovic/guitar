@@ -1,5 +1,15 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# East/West Highway
+### Tabs
+- chordify chords original recording: https://chordify.net/chords/shahin-sepehr-songs/east-west-highway-chords
+
+# In Sentimental Mood
+### Tabs
+- fingerstyle guitar: https://tabs.ultimate-guitar.com/tab/duke-ellington/in-a-sentimental-mood-tabs-14056
+- songsterr solo + chords: https://www.songsterr.com/a/wsa/duke-ellington-in-a-sentimental-mood-tab-s6976
+- jazz versoin fingerstyle tabs and music with player: https://www.soundslice.com/slices/frBcc/
+
 # Como Una Flor by Gonzalo Bergara
 Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat major](https://www.guitarscale.org/e-flat-major.html)
 ### Tabs
