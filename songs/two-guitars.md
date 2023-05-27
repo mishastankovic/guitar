@@ -162,6 +162,7 @@
 # Private investigations by Dire Straits
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 ### Video
+- Dire Straits concert: https://youtu.be/Rhs0AYQJbX4
 - video fingerstyle: https://youtu.be/y7LjyMqcGJ4
 - video aleksandar obradovic: https://youtu.be/j_ooismoNsk
 - video two guitars with vocals: https://youtu.be/DokTPxlx4bg
