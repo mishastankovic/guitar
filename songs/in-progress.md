@@ -1,6 +1,6 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
-# East/West Highway
+# East/West Highway by Shahin & Sepehr
 ### Tabs
 - chordify chords original recording: https://chordify.net/chords/shahin-sepehr-songs/east-west-highway-chords
 
