@@ -1,5 +1,21 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# The Shadow of Your Smile by Johnny Mandel
+### Video
+- Fingerstyle tabs on video: https://youtu.be/C5bcpVaGWOM
+- Two guitars tutorial: https://youtu.be/SDzEzEwlFZs
+- Figerstyle cover: https://youtu.be/aqQobELO6N8
+- Another fingerstyle cover: https://www.youtube.com/watch?v=o49WfGi_qd0&ab_channel=tonyrowden
+- chords Tonny Bennett: https://www.e-chords.com/chords/tony-bennett/the-shadow-of-your-smile
+
+### Tabs
+- https://www.popguitartabs.com/fingerstyle-guitar-tabs/shadow-of-your-smile-guitar-tabs/
+- https://musescore.com/user/29895931/scores/6905235
+- 
+
+### Backing tracks
+- piano, base: https://youtu.be/n1OUpZSDzuI
+
 # East/West Highway by Shahin & Sepehr
 ### Tabs
 - chordify chords original recording: https://chordify.net/chords/shahin-sepehr-songs/east-west-highway-chords
