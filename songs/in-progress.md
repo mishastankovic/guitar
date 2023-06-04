@@ -1,5 +1,16 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# Wild Theme by Mark Knopfler
+Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
+### Tabs
+- ChordU chords: https://chordu.com/chords-tabs-mark-knopfler-wild-theme-local-hero--id_4Y-FmsKz-fU
+- tabs: https://tabs.ultimate-guitar.com/tab/dire-straits/local-hero-wild-theme-tabs-178064 
+
+### Video
+- mattsellick classical guitar cover: https://youtu.be/Q_aqKr7TT-Y
+- yoni schlesinger classical guitar in d major: https://youtu.be/zufyFP-PjfY
+
+
 # The Shadow of Your Smile by Johnny Mandel
 ### Video
 - Fingerstyle tabs on video: https://youtu.be/C5bcpVaGWOM
