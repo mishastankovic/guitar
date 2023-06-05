@@ -2,6 +2,7 @@
 
 # Romeo and Juliet by Dire Straits
 ### Tabs
+- tabs without capo, standard tuning: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-tabs-49644
 
 ### Video
 - Fingerstyle video: https://youtu.be/bKj9zhPk0E4
