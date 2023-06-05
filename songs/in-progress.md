@@ -1,5 +1,14 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# Romeo and Juliet by Dire Straits
+### Tabs
+
+### Video
+- Fingerstyle video: https://youtu.be/bKj9zhPk0E4
+- Fingerstyle Michalea Regecova: https://youtu.be/pAiaLQCEbVY
+- fingersytle Yosi Schlesinger: https://youtu.be/WcEjrPvcz8E
+
+
 # Wild Theme by Mark Knopfler
 Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
 ### Tabs
