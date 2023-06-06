@@ -5,6 +5,7 @@
 - tabs without capo, standard tuning: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-tabs-49644
 
 ### Video
+- Fingerstyle video Sharon Saxton: https://youtu.be/Bem_3kYfgXY
 - Fingerstyle video: https://youtu.be/bKj9zhPk0E4
 - Fingerstyle Michalea Regecova: https://youtu.be/pAiaLQCEbVY
 - fingersytle Yosi Schlesinger: https://youtu.be/WcEjrPvcz8E
