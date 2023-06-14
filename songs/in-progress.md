@@ -21,6 +21,7 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 ### Video
 - mattsellick classical guitar cover: https://youtu.be/Q_aqKr7TT-Y
 - yoni schlesinger classical guitar in d major: https://youtu.be/zufyFP-PjfY
+- soren madsen classical guitar: https://youtu.be/5R_PUIWCi-w
 
 
 # The Shadow of Your Smile by Johnny Mandel
