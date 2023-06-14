@@ -178,6 +178,7 @@
 - https://youtu.be/CuvNfZxF5qo
 
 # Why worry by Dire Straits
+- Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [g](https://www.guitarscale.org/g-minor.html)
 ### Video
 - video fingersytle guitar cover: https://youtu.be/UobN8QMUgsQ
 - video another finger style single guitar: https://youtu.be/3_Crr78eI54
@@ -187,3 +188,4 @@
 ### Tabs
 - tabs: https://youtu.be/Y0oeqL2uvFA
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558 
+- soren madsen classival guitar: https://youtu.be/3_Crr78eI54
