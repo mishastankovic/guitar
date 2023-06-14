@@ -16,6 +16,7 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 ### Tabs
 - ChordU chords: https://chordu.com/chords-tabs-mark-knopfler-wild-theme-local-hero--id_4Y-FmsKz-fU
 - tabs: https://tabs.ultimate-guitar.com/tab/dire-straits/local-hero-wild-theme-tabs-178064 
+- songster tabs: https://www.songsterr.com/a/wsa/dire-straits-local-hero-wild-theme-tab-s29597
 
 ### Video
 - mattsellick classical guitar cover: https://youtu.be/Q_aqKr7TT-Y
