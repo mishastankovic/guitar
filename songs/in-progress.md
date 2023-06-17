@@ -4,6 +4,7 @@
 ### Tabs
 - tabs without capo, standard tuning: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-tabs-49644
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-chords-1166247
+- tab : https://www.gotabs.com/dire-straits/romeo-and-juliet-tab
 
 ### Video
 - Fingerstyle video Sharon Saxton: https://youtu.be/Bem_3kYfgXY
