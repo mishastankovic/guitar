@@ -140,6 +140,8 @@ Key [b minor](https://www.guitarscale.org/b-minor.html), parallel major [A](http
 - video acoustic guitar cover: https://youtu.be/chPjiyonxeY
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-tabs-274609
+- chords: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-chords-11066
+
 
 # Lžeš zlato, lažeš dušo - Bjelo Dugme
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
