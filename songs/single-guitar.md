@@ -12,6 +12,23 @@
 ### Tabs
 - acoustic arrangement tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359l
 
+# Layla by Eric Clepton
+- Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
+- broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
+### Video
+- video, chords, tabs and solo - Eric Clepton live version with single guitar: https://www.guitardownunder.com/songs/layla.php
+- video Eric Clepton unplugged: https://youtu.be/IEcUc0NdM1A
+- video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
+- video tutorial - rhythm: https://youtu.be/BPXQcyLzPeA
+- video tutorial - solo: https://youtu.be/YZEMOvwX4wQ
+- video guitar cover Joe Robinson: https://youtu.be/1PTjQtdL8Y4
+- video tutorial solo and rhythm: https://youtu.be/WHujjJEnZpI
+### Tabs
+- chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
+- tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-63657
+- tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-2254703
+- tabs songster solo and chords: https://www.songsterr.com/a/wsa/eric-clapton-layla-acoustic-tab-s23702
+- tabs chords and solo: https://www.guitartabsexplorer.com/clapton-eric-Tabs/layla-acoustic-tab.php
 
 # Sve još miriše na nju - Parni Valjak
 - Key [g minor](https://www.guitarscale.org/g-minor.html), parallel minor [B](https://www.guitarscale.org/b-major.html)
