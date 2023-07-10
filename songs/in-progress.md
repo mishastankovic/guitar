@@ -168,3 +168,15 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
 - tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
 
+# I sad me po tebi poznaju by Al Dino
+Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [d#](https://www.guitarscale.org/d-sharp-major.html)
+### Video
+- video guitar cover Nitro: https://youtu.be/S49XgC9MJbg
+- video for 2 guitars, chords and lysrics, yesiloverguitar - https://www.yesiloveguitar.com/akordi/sad-po-tebi-poznaju-al-dino-akordi/
+
+
+### Tabs & chords
+- chords on chordify: https://chordify.net/chords/al-dino-i-sad-me-po-tebi-poznaju-audio-2008-grandmusicofficial
+- chords in a-minor: https://tabs.ultimate-guitar.com/tab/al-dino/i-sad-me-po-tebi-poznaju-chords-2594724
+
+
