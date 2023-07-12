@@ -1,5 +1,26 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# Europa by Carlos Santana
+### Videos
+- Fingerstyle by Guido Mancino https://youtu.be/orwNFWVPbys
+- Classical guitar cover: https://youtu.be/Fe3ei2T4CyE
+- Parlor guitar cover by Sapient Sat: https://youtu.be/VE5za5zhX90
+- Dmytro cover: https://youtu.be/JsIb-v5QFyI
+- Igor Presnyakov: https://youtu.be/xmXAAVEYAQM
+- Nicolas Olivero: https://youtu.be/HQy3Ls6m4sM
+- Fingerdance: https://youtu.be/zQJ7uSTXsuw
+### Tabs
+- GuitarNick tabs and chords: https://www.guitarnick.com/europa-santana-acoustic-guitar-tab.html
+- Songsterr: https://www.songsterr.com/a/wsa/carlos-santana-europa-acoustic-tab-s87607
+- Electrical solo guitar: https://www.songsterr.com/a/wsa/carlos-santana-europa-tab-s451
+
+# Oye Como Va by Carlos Santana
+### Videos
+- https://youtu.be/wCfJee7Ss5M
+- Guitar Logic fingerstyle: https://youtu.be/m0x3zmcXIPI
+- 
+### Tabs
+
 # Romeo and Juliet by Dire Straits
 ### Tabs
 - tabs without capo, standard tuning: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-tabs-49644
