@@ -1,7 +1,7 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
 # Get Lucky by Daft Punk
-Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel minor [A major](https://www.guitarscale.org/a-major.html)
+Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel major [A major](https://www.guitarscale.org/a-major.html)
 ### Video
 - Origina Daft Punk video: https://youtu.be/CCHdMIEGaaM
 - Prudskiy Vadim fingerstyle cover: https://youtu.be/B7t6XYpK9hY
