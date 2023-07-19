@@ -1,7 +1,7 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
 # Europa by Carlos Santana
-
+Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
 ### Videos
 - Fingerstyle by Guido Mancino https://youtu.be/orwNFWVPbys
 - Classical guitar cover: https://youtu.be/Fe3ei2T4CyE
