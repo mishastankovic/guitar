@@ -1,5 +1,12 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# Get Lucky by Draft Punk
+Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel minor [B flat major](https://www.guitarscale.org/b-flat-major.html)
+### Video
+- Prudskiy Vadim fingerstyle cover: https://youtu.be/B7t6XYpK9hY
+### Tabs
+- https://tabs.ultimate-guitar.com/tab/daft-punk/get-lucky-chords-1239950
+
 # Europa by Carlos Santana
 Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
 ### Videos
