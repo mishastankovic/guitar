@@ -1,6 +1,7 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
 # Europa by Carlos Santana
+
 ### Videos
 - Fingerstyle by Guido Mancino https://youtu.be/orwNFWVPbys
 - Classical guitar cover: https://youtu.be/Fe3ei2T4CyE
@@ -15,6 +16,7 @@
 - Electrical solo guitar: https://www.songsterr.com/a/wsa/carlos-santana-europa-tab-s451
 
 # Oye Como Va by Carlos Santana
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 ### Videos
 - https://youtu.be/wCfJee7Ss5M
 - Guitar Logic fingerstyle: https://youtu.be/m0x3zmcXIPI
