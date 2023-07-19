@@ -21,7 +21,7 @@
 
 ### Tabs
 - Songsterr solo: https://www.songsterr.com/a/wsa/carlos-santana-oye-como-va-tab-s61155
-- Video with tabs
+- Video with tabs: https://www.guitarnick.com/oye-como-va-fingerstyle-guitar-tab.html
 - Ultimate guitar solo: https://tabs.ultimate-guitar.com/tab/santana/oye-como-va-tabs-2143
 - Songsterr fingerstyle tabs: https://www.songsterr.com/a/wsa/santana-oye-como-va-fingerstyle-tab-s435559
 - Solo and fingerstyle tabs PDF: https://guitaralliance.net/songs/S/santana/oye_como_va/santana_carlos-oye_como_va.pdf
