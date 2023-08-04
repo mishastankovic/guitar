@@ -6,6 +6,8 @@
 # Chords
 - Guitar Lib : https://gtrlib.com/chords/
 - Scales and chords: https://www.guitarscale.org/a-minor.html
+- Chord identifier: https://www.all-guitar-chords.com/chords/identifier
+- Another chord identifier: https://www.oolimo.com/en/guitar-chords/analyze
 
 # Scales
 ### Video
