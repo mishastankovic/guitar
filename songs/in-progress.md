@@ -1,5 +1,15 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 
+# Tisina by Bajaga
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
+
+### Tabs
+- Chords and lyrics: http://www.pesmarica.rs/Akordi/310/Bajaga--Ti%C5%A1ina
+- Tabs, lyrics and chords: http://www.pesmarica.rs/Akordi/2706/Bajaga--Tisina
+
+### Video
+- Solo https://m.youtube.com/watch?v=H-Y_5OAumlM 
+
 # Get Lucky by Daft Punk
 Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel major [A major](https://www.guitarscale.org/a-major.html)
 ### Video
