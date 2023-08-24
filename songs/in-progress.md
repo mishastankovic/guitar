@@ -18,6 +18,7 @@ Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel ma
 - Another Daft Funk live video: https://youtu.be/VIpd35yWDqk
 - Marty tutorial accoustic guitar: https://youtu.be/eAIrWJZY9Ck
 - Marty tutorial electrig guitar: https://youtu.be/eV7jnGAiFXM
+- Rick show tutorial accoustic guitar: https://youtu.be/P7CKwPizcVA
 ### Tabs
 - https://tabs.ultimate-guitar.com/tab/daft-punk/get-lucky-chords-1239950
 
