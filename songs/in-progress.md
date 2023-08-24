@@ -16,7 +16,8 @@ Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel ma
 - Origina Daft Punk video: https://youtu.be/CCHdMIEGaaM
 - Prudskiy Vadim fingerstyle cover: https://youtu.be/B7t6XYpK9hY
 - Another Daft Funk live video: https://youtu.be/VIpd35yWDqk
-- Marty tutorial: https://youtu.be/eV7jnGAiFXM
+- Marty tutorial accoustic guitar: https://youtu.be/eAIrWJZY9Ck
+- Marty tutorial electrig guitar: https://youtu.be/eV7jnGAiFXM
 ### Tabs
 - https://tabs.ultimate-guitar.com/tab/daft-punk/get-lucky-chords-1239950
 
