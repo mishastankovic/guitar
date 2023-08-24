@@ -18,6 +18,8 @@ Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel ma
 - Soloacoustic acoustic guitar cover
 - Prudskiy Vadim fingerstyle cover: https://youtu.be/B7t6XYpK9hY
 - Another Daft Funk live video: https://youtu.be/VIpd35yWDqk
+#### Tutorial
+- Easy 2 Play Music tutorial: https://youtu.be/WsbXq3YIIIU
 - Marty tutorial acoustic guitar: https://youtu.be/eAIrWJZY9Ck
 - Marty tutorial electrig guitar: https://youtu.be/eV7jnGAiFXM
 - Rick show tutorial acoustic guitar: https://youtu.be/P7CKwPizcVA
