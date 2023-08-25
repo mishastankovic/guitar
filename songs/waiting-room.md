@@ -1,4 +1,4 @@
-# Pink Punter
+# Pink Panther
 ### Video
 - Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
 
