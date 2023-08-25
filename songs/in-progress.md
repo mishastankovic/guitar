@@ -25,6 +25,7 @@ Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel ma
 - Rick show tutorial acoustic guitar: https://youtu.be/P7CKwPizcVA
 ### Tabs
 - https://tabs.ultimate-guitar.com/tab/daft-punk/get-lucky-chords-1239950
+- Gareth Evans fingerstyle tabs: https://fingertabs.com/fingertabs/daft-punk-get-lucky-fingerstyle-tabs-gareth-evans.html
 
 # Europa by Carlos Santana
 Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
