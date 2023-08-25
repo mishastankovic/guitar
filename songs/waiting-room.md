@@ -1,3 +1,10 @@
+# Pink Punter
+### Video
+- Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
+
+### Tabs
+- Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
+  
 # Loše vino by Bjelo Dugme
 ### Video
 - yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
