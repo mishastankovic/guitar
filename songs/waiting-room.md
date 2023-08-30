@@ -164,7 +164,7 @@ $$$ Tabs
 # Summertime
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 ### Video
-- video gitar duet: https://youtu.be/d5mvIqSlXdo
+- Bruskers Guitar Duo: https://youtu.be/d5mvIqSlXdo
 - video guitar duet: https://youtu.be/HqW-_rKqrNU
 - video tutorial: https://youtu.be/zqxr-i6kYrQ
 - video tutorial: https://youtu.be/WvZ4xfCboyY
