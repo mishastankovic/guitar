@@ -164,15 +164,16 @@ $$$ Tabs
 # Summertime
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 ### Video
+- Adam Rafferty fingerstyle: https://www.youtube.com/watch?v=e-yqrDS0q3o
 - Bruskers Guitar Duo: https://youtu.be/d5mvIqSlXdo
-- video guitar duet: https://youtu.be/HqW-_rKqrNU
-- video tutorial: https://youtu.be/zqxr-i6kYrQ
-- video tutorial: https://youtu.be/WvZ4xfCboyY
-- video tutorial fingerstyle: https://youtu.be/IgaXZfVwaHk
+- Le Pumpe Gypsy Jazz Guitar Duo: https://youtu.be/HqW-_rKqrNU
+- Two guitars tutorial - TheGuitarNick: https://youtu.be/zqxr-i6kYrQ
+- Beginner Lesson chord strumming and vocal: https://youtu.be/WvZ4xfCboyY
+- LickNRiff fingerstyle tutorial fingerstyle: https://youtu.be/IgaXZfVwaHk
 - video Doc Watson: https://youtu.be/Cas83JlPctc
-- video Billy String: https://youtu.be/1RNNQYpnukA
-- video : https://youtu.be/ARklsaQI0b4
-- video Doc Watson style tutorial: https://youtu.be/YSYiHNd9GK4
+- Billy Strings & Marcus King - electric and acoustic guitar and vocal: https://youtu.be/1RNNQYpnukA
+- Kucas Brar fingerstyle: https://youtu.be/ARklsaQI0b4
+
 ### Tabs
 - single guitar tabs: https://www.guitartabsexplorer.com/gershwin-george-Tabs/summertime-acoustic-tab.php
 - chords: https://tabs.ultimate-guitar.com/tab/george-gershwin/summertime-chords-1053545
