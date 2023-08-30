@@ -165,6 +165,7 @@ $$$ Tabs
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 ### Video
 - Adam Rafferty fingerstyle: https://www.youtube.com/watch?v=e-yqrDS0q3o
+- Adam Rafferty another version - as per tabs: https://www.youtube.com/watch?v=1DwZHV5cbYI
 - Bruskers Guitar Duo: https://youtu.be/d5mvIqSlXdo
 - Le Pumpe Gypsy Jazz Guitar Duo: https://youtu.be/HqW-_rKqrNU
 - Two guitars tutorial - TheGuitarNick: https://youtu.be/zqxr-i6kYrQ
