@@ -170,7 +170,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - Two guitars tutorial - TheGuitarNick: https://youtu.be/zqxr-i6kYrQ
 - Beginner Lesson chord strumming and vocal: https://youtu.be/WvZ4xfCboyY
 - LickNRiff fingerstyle tutorial fingerstyle: https://youtu.be/IgaXZfVwaHk
-- video Doc Watson: https://youtu.be/Cas83JlPctc
 - Billy Strings & Marcus King - electric and acoustic guitar and vocal: https://youtu.be/1RNNQYpnukA
 - Kucas Brar fingerstyle: https://youtu.be/ARklsaQI0b4
 
