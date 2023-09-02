@@ -8,6 +8,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Tabs, lyrics and chords: http://www.pesmarica.rs/Akordi/2706/Bajaga--Tisina
 
 ### Video
+- Bajga Instruktori live: https://youtu.be/nuZRxWvAKEg
 - Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
 - Two guitars: https://youtu.be/G0xKOBVwFok
 
