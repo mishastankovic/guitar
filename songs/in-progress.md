@@ -8,7 +8,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Tabs, lyrics and chords: http://www.pesmarica.rs/Akordi/2706/Bajaga--Tisina
 
 ### Video
-- Solo https://m.youtube.com/watch?v=H-Y_5OAumlM 
+- Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
+- Two guitars: https://youtu.be/G0xKOBVwFok
 
 # Get Lucky by Daft Punk
 Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel major [A major](https://www.guitarscale.org/a-major.html)
