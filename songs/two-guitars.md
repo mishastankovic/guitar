@@ -126,7 +126,8 @@
 - video Beatles original: https://youtu.be/9_c2XZd9mMo
 - video milos : https://youtu.be/4n0cPQf-HnU
 - video tutorial: https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons
-- video Pat Matheny: https://youtu.be/MYcZ6s3z1jg
+- video Pat Metheny: https://youtu.be/MYcZ6s3z1jg
+- video and tabs for Pat Metheny version: https://youtu.be/MTJpGTW1X38
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
 ### Backing tracks
