@@ -94,7 +94,6 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 ### Tabs
 - https://www.popguitartabs.com/fingerstyle-guitar-tabs/shadow-of-your-smile-guitar-tabs/
 - https://musescore.com/user/29895931/scores/6905235
-- 
 
 ### Backing tracks
 - piano, base: https://youtu.be/n1OUpZSDzuI
