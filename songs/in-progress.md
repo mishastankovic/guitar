@@ -4,7 +4,7 @@
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 
 ### Tabs
-- Chords and lyrics: http://www.pesmarica.rs/Akordi/310/Bajaga--Ti%C5%A1ina
+- Chords and lyrics: [http://www.pesmarica.rs/Akordi/310/Bajaga--Ti%C5%A1ina](https://2akordi.net/akordi.net?a=katalog&t=r&b=18&id=55)
 - Tabs, lyrics and chords: http://www.pesmarica.rs/Akordi/2706/Bajaga--Tisina
 
 ### Video
