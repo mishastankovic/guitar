@@ -7,6 +7,7 @@
   
 # Loše vino by Bjelo Dugme
 ### Video
+- SkOrdinacija: https://youtu.be/dXM9GGYmoEk
 - yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
 ### Tabs
 - yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
