@@ -4,14 +4,6 @@
 
 ### Tabs
 - Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
-  
-# Loše vino by Bjelo Dugme
-### Video
-- SkOrdinacija: https://youtu.be/dXM9GGYmoEk
-- yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
-### Tabs
-- yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
-- chords and lyrics: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=38
 
 # Stardust
 ### Video
