@@ -13,6 +13,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Two guitars: https://youtu.be/G0xKOBVwFok
 
 # Loše vino by Bjelo Dugme
+Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-
+
 ### Video
 - SkOrdinacija: https://youtu.be/dXM9GGYmoEk
 - yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
