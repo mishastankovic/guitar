@@ -18,6 +18,7 @@ Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major
 ### Video
 - SkOrdinacija: https://youtu.be/dXM9GGYmoEk
 - yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
+- Bjelo Dugme: https://youtu.be/KHzobAPbOJs
 ### Tabs
 - yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
 - chords and lyrics: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=38
