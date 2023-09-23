@@ -20,8 +20,9 @@ Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major
 - yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
 - Bjelo Dugme: https://youtu.be/KHzobAPbOJs
 ### Tabs
-- yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
+- https://tabs.ultimate-guitar.com/tab/bijelo-dugme/lose-vino-chords-1048160
 - chords and lyrics: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=38
+- yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
 
 # Get Lucky by Daft Punk
 Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel major [A major](https://www.guitarscale.org/a-major.html)
