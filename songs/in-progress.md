@@ -12,6 +12,14 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
 - Two guitars: https://youtu.be/G0xKOBVwFok
 
+# Loše vino by Bjelo Dugme
+### Video
+- SkOrdinacija: https://youtu.be/dXM9GGYmoEk
+- yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
+### Tabs
+- yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
+- chords and lyrics: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=38
+
 # Get Lucky by Daft Punk
 Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel major [A major](https://www.guitarscale.org/a-major.html)
 ### Video
