@@ -1,3 +1,5 @@
+Chords: https://gtrlib.com/chords/c-sharp-diminished
+
 
 # Samba Pa Ti by Carlos Stantana
 - Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
