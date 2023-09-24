@@ -1,3 +1,5 @@
+Chords: https://gtrlib.com/chords/c-sharp-diminished
+
 # Pink Panther
 ### Video
 - Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
