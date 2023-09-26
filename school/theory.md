@@ -11,6 +11,9 @@
 - Chord identifier: https://www.all-guitar-chords.com/chords/identifier
 - Another chord identifier: https://www.oolimo.com/en/guitar-chords/analyze
 
+# Solo
+- How to solo by Lead Guitar Workshop: https://youtu.be/riXKUUjJFK8
+
 # Scales
 ### Video
 - Pentatonic scale video: https://youtu.be/uuraAIKyPiQ
