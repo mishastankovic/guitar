@@ -11,6 +11,11 @@
 - Chord identifier: https://www.all-guitar-chords.com/chords/identifier
 - Another chord identifier: https://www.oolimo.com/en/guitar-chords/analyze
 
+# Chord progressions
+- Buiginners guide to jazz chord progression: https://www.jazzguitarlessons.net/blog/beginners-guide-jazz-chord-progressions
+- 7 common chord progressiong: https://blog.landr.com/common-chord-progressions/
+- Common chor progressions: https://www.musical-u.com/learn/exploring-common-chord-progressions/
+
 # Solo
 - How to solo by Lead Guitar Workshop: https://youtu.be/riXKUUjJFK8
 
