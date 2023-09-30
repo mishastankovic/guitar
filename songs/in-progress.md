@@ -73,6 +73,9 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Songsterr fingerstyle tabs: https://www.songsterr.com/a/wsa/santana-oye-como-va-fingerstyle-tab-s435559
 - Solo and fingerstyle tabs PDF: https://guitaralliance.net/songs/S/santana/oye_como_va/santana_carlos-oye_como_va.pdf
 
+### Backing tracks
+- https://youtu.be/K5owBsxSHBc
+
 # Romeo and Juliet by Dire Straits
 ### Tabs
 - tabs without capo, standard tuning: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-tabs-49644
