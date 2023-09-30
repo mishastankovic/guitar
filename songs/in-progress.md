@@ -57,6 +57,9 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 - Songsterr: https://www.songsterr.com/a/wsa/carlos-santana-europa-acoustic-tab-s87607
 - Electrical solo guitar: https://www.songsterr.com/a/wsa/carlos-santana-europa-tab-s451
 
+### Backing tracks
+- https://youtu.be/PfbxpOT8pYs
+
 # Oye Como Va by Carlos Santana
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 ### Videos
