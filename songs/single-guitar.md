@@ -73,7 +73,6 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - video pan madredeusz: https://youtu.be/7h7idUJl1to
 - video akordinacija: https://www.youtube.com/watch?v=naR8Eg8DMdM&ab_channel=AkOrdinacija
 - video denis kozlica: https://youtu.be/3pO5_mQAumw
-- video 2 guitars: https://youtu.be/XSnqFkNGv44
 ### Tabs
 - tabs songsterr: https://www.songsterr.com/a/wsa/bijelo-dugme-uspavanka-za-radmilu-m-tab-s26723
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/uspavanka-za-radmilu-m-tabs-1001129
