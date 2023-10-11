@@ -65,6 +65,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 ### Videos
 - https://youtu.be/wCfJee7Ss5M
 - Guitar Logic fingerstyle: https://youtu.be/m0x3zmcXIPI
+- Acoustic guitar tutorial in Spanish: https://youtu.be/q4a3hpFKOMQ
 - Dorian A version lesson: https://youtu.be/KpvEeE8EN4Y
 
 ### Tabs
