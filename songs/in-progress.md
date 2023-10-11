@@ -65,6 +65,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 ### Videos
 - https://youtu.be/wCfJee7Ss5M
 - Guitar Logic fingerstyle: https://youtu.be/m0x3zmcXIPI
+- Dorian A version lesson: https://youtu.be/KpvEeE8EN4Y
 
 ### Tabs
 - Songsterr solo: https://www.songsterr.com/a/wsa/carlos-santana-oye-como-va-tab-s61155
