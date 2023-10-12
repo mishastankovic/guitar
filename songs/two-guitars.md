@@ -51,6 +51,7 @@
 - video Santana: https://www.youtube.com/watch?v=lRWEDKaSLp0&ab_channel=Santana-Topic
 - video Joe Robinson acoustic guitar: https://www.youtube.com/watch?v=yEvGBe8pk70&ab_channel=JoeRobinson
 - Joe Robinson tutorial: https://youtu.be/IGAdJxO3Wuk
+- Single guitar fingerstyle: https://youtu.be/RcElzhPRZHg
 ### Tabs
 - tabs solo: https://tabs.ultimate-guitar.com/tab/santana/flor-d-luna-moonflower-tabs-57649
 - tabs songster: https://www.songsterr.com/a/wsa/carlos-santana-flor-dluna-tab-s18380
