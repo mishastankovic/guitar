@@ -91,7 +91,7 @@ Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](http
 
 # Michelle - Beatles
 
-- Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
+- Key [f minor](https://www.guitarscale.org/f-minor.html), parallel major [A-sharp major](https://www.guitarscale.org/a-sharp-major.html)
 
 
 ### Video
