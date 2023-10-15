@@ -90,11 +90,17 @@ Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](http
 - acoutstic guitar tutorial: https://youtu.be/ocP_LPeex0Q
 
 # Michelle - Beatles
-### Tabs
-- tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
+
+- Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
+
 
 ### Video
 - video original Beatles: https://youtu.be/WoBLi5eE-wY
+- fingerstyle cover: https://youtu.be/1X5aJ1_KZDU
+- fingerstyle cover with tabs: https://youtu.be/vuZrKTXYBS8
+  
+### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
 
 # Nocking on heaven's door by Bob Dylan
 ### Tabs
