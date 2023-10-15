@@ -48,6 +48,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 ### Video
 - video: https://www.youtube.com/watch?v=jErhaj3jMmk
 - video: https://youtu.be/kQIr-7kmjy0
+- cover by me: https://youtu.be/i8Eq_6DKtvg
 
 # Brown eyed girl - Ban Morison
 ### Video
