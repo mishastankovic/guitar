@@ -75,6 +75,8 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - rhythm tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-chords-15892 
 	
 # Hey Joe
+Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
+
 ### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-chords-667667
 - tabs 1: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-acoustic-tab-s391428
