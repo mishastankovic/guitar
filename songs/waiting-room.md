@@ -85,6 +85,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 ### Video
 - video tutorial 1: https://youtu.be/lLKL-nv0ut0
 - video tutorial 2: https://youtu.be/ocP_LPeex0Q
+- Jacques Stotzem fingerstyle cover: https://youtu.be/cMGwomp6oKM
 
 # Michelle - Beatles
 ### Tabs
