@@ -40,6 +40,7 @@ Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](http
 - Jacques Stotzem fingerstyle cover: https://youtu.be/cMGwomp6oKM
 - acoustic guitar cover: https://youtu.be/x-UZq57HJzM
 - acoutstic guitar tutorial: https://youtu.be/ocP_LPeex0Q
+- solo tutorial electrical guitar: https://youtu.be/Nxh1yB-uCtI
 
 # Get Lucky by Daft Punk
 Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel major [A major](https://www.guitarscale.org/a-major.html)
