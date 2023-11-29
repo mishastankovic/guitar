@@ -28,9 +28,9 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Bajaka, Bora uživoČ https://youtu.be/ZJCpZ5ceVCw
 - Bajaga audio sa albumaČ https://youtu.be/AKJTrGjfJZs
 
-\  
-\
 
+
+  
 # Riblja Čorba
 
 ## Neke Su Žene Pratile Vojnike
