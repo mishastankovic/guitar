@@ -29,11 +29,20 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Bajaga audio sa albumaČ https://youtu.be/AKJTrGjfJZs
 
 
+
 # Riblja Čorba
 
 ## Neke Su Žene Pratile Vojnike
 
-## 
+### Tabs
+- tekst i akordi: https://2akordi.net/akordi.net?a=katalog&t=r&b=216&id=108
+
+### Videos
+
+- Riblja Čorba official: https://youtu.be/ZBZ3oY8rjdY
+- yesiloveguitarČ https://youtu.be/J2bhC1Z5DFw
+
+
 
 # Bjelo Dugme
 
