@@ -29,7 +29,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Bajaga audio sa albumaČ https://youtu.be/AKJTrGjfJZs
 
 <br/>
-<br/>
 
 # Riblja Čorba
 
