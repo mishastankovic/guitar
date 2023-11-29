@@ -2,6 +2,8 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Chords: https://gtrlib.com/chords/c-sharp-diminished
 
+# Bajaga
+
 ## Tisina by Bajaga
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 
@@ -15,7 +17,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
 - Two guitars: https://youtu.be/G0xKOBVwFok
 
-# Loše vino by Bjelo Dugme
+
+# Bjelo Dugme
+
+## Loše Vino
 Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
 
 ### Video
@@ -27,33 +32,14 @@ Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major
 - chords and lyrics: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=38
 - yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
 
-# Lžeš zlato, lažeš dušo - Bjelo Dugme
+## Lžeš Zlato, Lažeš Dušo
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 ### Video
 - video: https://youtu.be/sREMRTAdh7c
 ### Tabs
 - tabs and lyrics: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/lazes-zlato-chords-1945415
-
-# Nedostaje mi naša ljubav - Djordje Balašević
-Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
-### Tabs
-- chords and lyrics: https://tabs.ultimate-guitar.com/tab/1410603
-### Video
-- video turorial solo by yesiloveguitar: https://www.yesiloveguitar.com/tablature/tablature-pop/nedostaje-mi-nasa-ljubav-d-balasevic-solo-tab/
-- vide Djordje Balasevic: https://www.youtube.com/watch?v=C_DCC2SRkPQ&ab_channel=%C4%90OR%C4%90EBALA%C5%A0EVI%C4%86OFFICIAL
-
-
-# Sve još miriše na nju - Parni Valjak
-- Key [g minor](https://www.guitarscale.org/g-minor.html), parallel minor [B](https://www.guitarscale.org/b-major.html)
-### Video
-- video: https://youtu.be/YrJvkquw7CM
-### Tabs
-- chords and tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=183&id=53
-- chords and lyrics: http://www.pesmarica.rs/Akordi/11612/Parni-Valjak--Sve-jos-mirise-na-nju
-- tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
-
 	
-# Uspavanka za Radmilu M - Bjelo Dugme
+## Uspavanka za Radmilu M
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 ### Video
 - video vlatko stefanovski: https://youtu.be/0DCWZZahmQU
@@ -69,7 +55,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=83
 - akordi bjelo dugme: https://chordify.net/chords/bijelo-dugme-uspavanka-za-radmilu-m-audio-jugoton-music
 
-# Šta bi dao da si na mom mjestu - Bjelo Dugme
+## Šta bi dao da si na mom mjestu
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 ### Video
 - video: https://youtu.be/SCp9D95Gga4
@@ -78,7 +64,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/sta-bi-dao-da-si-na-mom-mjestu-guitar-pro-414588
 
 
-# Ima neka tajna veza by Bjelo Dugme
+## Ima Neka Tajna Veza
 
 ### Video
 - instrumental cover: https://youtu.be/tausz5PFT4A
@@ -92,13 +78,36 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=28
 - tab creator: https://www.guitartabcreator.com/tabs/gitarile/ima-neka-tajna-veza
 
-# Lepa Protina Kći
+## Pristao sam biću sve što hoće - Bjelo Dugme
+
+# Djordje Balašević
+
+## Nedostaje Mi Naša Ljubav
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
+### Tabs
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/1410603
+### Video
+- video turorial solo by yesiloveguitar: https://www.yesiloveguitar.com/tablature/tablature-pop/nedostaje-mi-nasa-ljubav-d-balasevic-solo-tab/
+- vide Djordje Balasevic: https://www.youtube.com/watch?v=C_DCC2SRkPQ&ab_channel=%C4%90OR%C4%90EBALA%C5%A0EVI%C4%86OFFICIAL
+
+
+## Lepa Protina Kći
 
 
 
-# Letnja Pesma - Galija
+# Galija
 
+## Letnja Pesma
 
+# Parni Valjak
 
-# Pristao sam biću sve što hoće - Bjelo Dugme
+## Sve još miriše na nju
+- Key [g minor](https://www.guitarscale.org/g-minor.html), parallel minor [B](https://www.guitarscale.org/b-major.html)
+### Video
+- video: https://youtu.be/YrJvkquw7CM
+### Tabs
+- chords and tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=183&id=53
+- chords and lyrics: http://www.pesmarica.rs/Akordi/11612/Parni-Valjak--Sve-jos-mirise-na-nju
+- tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
+
 
