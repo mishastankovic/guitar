@@ -1,31 +1,6 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Chords: https://gtrlib.com/chords/c-sharp-diminished
 
-# Tisina by Bajaga
-Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
-
-### Tabs
-- Chords and lyrics: [http://www.pesmarica.rs/Akordi/310/Bajaga--Ti%C5%A1ina](https://2akordi.net/akordi.net?a=katalog&t=r&b=18&id=55)
-- Tabs, lyrics and chords: http://www.pesmarica.rs/Akordi/2706/Bajaga--Tisina
-- tekst: https://tekstovi-pesama.com/bajaga/tisina/14641/1
-
-### Video
-- Bajga Instruktori live: https://youtu.be/nuZRxWvAKEg
-- Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
-- Two guitars: https://youtu.be/G0xKOBVwFok
-
-# Loše vino by Bjelo Dugme
-Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
-
-### Video
-- SkOrdinacija: https://youtu.be/dXM9GGYmoEk
-- yesiloveguitar cover: https://youtu.be/ADwjL6eXAWE
-- Bjelo Dugme: https://youtu.be/KHzobAPbOJs
-### Tabs
-- https://tabs.ultimate-guitar.com/tab/bijelo-dugme/lose-vino-chords-1048160
-- chords and lyrics: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=38
-- yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
-
 # Hey Joe
 Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 
@@ -236,22 +211,6 @@ Key [b minor](https://www.guitarscale.org/b-minor.html), parallel major [A](http
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-tabs-274609
 - chords: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-chords-11066
-
-
-# Lžeš zlato, lažeš dušo - Bjelo Dugme
-Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
-### Video
-- video: https://youtu.be/sREMRTAdh7c
-### Tabs
-- tabs and lyrics: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/lazes-zlato-chords-1945415
-
-# Nedostaje mi naša ljubav - Djordje Balašević
-Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
-### Tabs
-- chords and lyrics: https://tabs.ultimate-guitar.com/tab/1410603
-### Video
-- video turorial solo by yesiloveguitar: https://www.yesiloveguitar.com/tablature/tablature-pop/nedostaje-mi-nasa-ljubav-d-balasevic-solo-tab/
-- vide Djordje Balasevic: https://www.youtube.com/watch?v=C_DCC2SRkPQ&ab_channel=%C4%90OR%C4%90EBALA%C5%A0EVI%C4%86OFFICIAL
 
 # Albatros by Fleetwood Mac
 Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
