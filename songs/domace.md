@@ -42,7 +42,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Riblja Čorba official: https://youtu.be/ZBZ3oY8rjdY
 - yesiloveguitarČ https://youtu.be/J2bhC1Z5DFw
 
-
+<br/>
 
 # Bjelo Dugme
 
@@ -89,7 +89,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/sta-bi-dao-da-si-na-mom-mjestu-guitar-pro-414588
 
-
 ## Ima Neka Tajna Veza
 
 ### Video
@@ -106,6 +105,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ## Pristao sam biću sve što hoće - Bjelo Dugme
 
+<br/>
+
 # Djordje Balašević
 
 ## Nedostaje Mi Naša Ljubav
@@ -116,14 +117,15 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - video turorial solo by yesiloveguitar: https://www.yesiloveguitar.com/tablature/tablature-pop/nedostaje-mi-nasa-ljubav-d-balasevic-solo-tab/
 - vide Djordje Balasevic: https://www.youtube.com/watch?v=C_DCC2SRkPQ&ab_channel=%C4%90OR%C4%90EBALA%C5%A0EVI%C4%86OFFICIAL
 
-
 ## Lepa Protina Kći
 
-
+<br/>
 
 # Galija
 
 ## Letnja Pesma
+
+<br/>
 
 # Parni Valjak
 
