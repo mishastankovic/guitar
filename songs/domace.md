@@ -4,7 +4,7 @@
 
 # Bajaga
 
-## Tisina
+## Tišina
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 
 ### Tabs
@@ -58,7 +58,7 @@ Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major
 - chords and lyrics: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=38
 - yesiloveguitar tabs and video: https://www.yesiloveguitar.com/akordi/sve-je-od-loseg-vina-bijelo-dugme-akordi/
 
-## Lžeš Zlato, Lažeš Dušo
+## Lažeš Zlato, Lažeš Dušo
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 ### Video
 - video: https://youtu.be/sREMRTAdh7c
@@ -119,6 +119,15 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ## Lepa Protina Kći
 
+### Tabs
+- akordi i tekst: http://www.pesmarica.rs/Akordi/5904/Đorđe-Balašević--Lepa-protina-kci
+
+### Videos
+
+- djordje balašević audio: https://youtu.be/X6S_-9I2Q_o
+- fingerstyle instrumental cover yesiloveguitar: https://youtu.be/SvRIlDPdDwE
+- two guitars instrumental: https://youtu.be/seTTooQSiqg
+- tutorial: https://youtu.be/Bl6UfHsywyE
 <br/>
 
 # Galija
