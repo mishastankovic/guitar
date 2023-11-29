@@ -30,6 +30,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 
 
 
+
 # Riblja Čorba
 
 ## Neke Su Žene Pratile Vojnike
