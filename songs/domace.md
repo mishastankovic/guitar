@@ -4,7 +4,7 @@
 
 # Bajaga
 
-## Tisina by Bajaga
+## Tisina
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 
 ### Tabs
@@ -17,6 +17,23 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
 - Two guitars: https://youtu.be/G0xKOBVwFok
 
+## Kad Hodaš
+
+### Tabs
+
+- https://tabs.ultimate-guitar.com/tab/bajaga-i-instruktori/kad-hodas-chords-1073394
+- tekst i akordi: http://www.pesmarica.rs/Akordi/1645/Bajaga--Kad-hodaš
+
+### Videos
+- Bajaka, Bora uživoČ https://youtu.be/ZJCpZ5ceVCw
+- Bajaga audio sa albumaČ https://youtu.be/AKJTrGjfJZs
+
+
+# Riblja Čorba
+
+## Neke Su Žene Pratile Vojnike
+
+## 
 
 # Bjelo Dugme
 
