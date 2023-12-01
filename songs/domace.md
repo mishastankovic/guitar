@@ -91,6 +91,9 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ## Ima Neka Tajna Veza
 
+### Video
+- guitar cover: https://youtu.be/wOtZJn1Sd3g
+
 ## Djurdjevdan
 
 ### Video
@@ -195,5 +198,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 # Indexi
 
 ## Balada
+
+## Žute Dunje
+
+### Video
+- yesiloveguitar instrumental cover 2 guitars: https://youtu.be/2ajO1SeGc-w
 
 
