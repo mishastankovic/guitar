@@ -94,12 +94,16 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ## Djurdjevdan
 
 ### Video
+- fingerstyle cover: https://youtu.be/ggr0ILXrT9o
+- another fingerstyl ecover: https://youtu.be/99w8u_45qNg
+- ederlezi fingerstyle cover: https://youtu.be/bYmerMYqIVs
 
 ## Tabs
 - akordi i tekst: http://www.pesmarica.rs/Akordi/322/Bijelo-Dugme--Đurđevdan
 - akordi i tekst v2: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=16
 - akordi i tekst v3: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/djurdjevdan-chords-714336
 - Fingerstyle tabs: https://youtu.be/N8JwOmqSbUo
+- fingerstyle tabs: https://youtu.be/RDLX8rqK3fc
 
 
 ### Video
