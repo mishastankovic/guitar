@@ -91,6 +91,17 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ## Ima Neka Tajna Veza
 
+## Djurdjevdan
+
+### Video
+
+## Tabs
+- akordi i tekst: http://www.pesmarica.rs/Akordi/322/Bijelo-Dugme--Đurđevdan
+- akordi i tekst v2: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=16
+- akordi i tekst v3: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/djurdjevdan-chords-714336
+- Fingerstyle tabs: https://youtu.be/N8JwOmqSbUo
+
+
 ### Video
 - instrumental cover: https://youtu.be/tausz5PFT4A
 - cover with vocals: https://youtu.be/wOtZJn1Sd3g
