@@ -98,6 +98,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - another fingerstyl ecover: https://youtu.be/99w8u_45qNg
 - ederlezi fingerstyle cover: https://youtu.be/bYmerMYqIVs
 - fingerstyle cover: https://youtu.be/knQHW9H3kT4
+- yesiloveguitar fingerstyle cover: https://youtu.be/RPkkNcWofwk
 
 ## Tabs
 - akordi i tekst: http://www.pesmarica.rs/Akordi/322/Bijelo-Dugme--Đurđevdan
