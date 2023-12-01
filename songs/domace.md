@@ -105,6 +105,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ## Pristao sam biću sve što hoće
 
+## Ružica si bila
+
 <br/>
 
 # Djordje Balašević
@@ -118,6 +120,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - vide Djordje Balasevic: https://www.youtube.com/watch?v=C_DCC2SRkPQ&ab_channel=%C4%90OR%C4%90EBALA%C5%A0EVI%C4%86OFFICIAL
 
 ## Lepa Protina Kći
+
+## Devojka sa čardaš nogama
 
 ### Tabs
 - akordi i tekst: http://www.pesmarica.rs/Akordi/5904/Đorđe-Balašević--Lepa-protina-kci
@@ -134,6 +138,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ## Letnja Pesma
 
+## Da li si spavala
+
 <br/>
 
 # Parni Valjak
@@ -146,5 +152,31 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - chords and tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=183&id=53
 - chords and lyrics: http://www.pesmarica.rs/Akordi/11612/Parni-Valjak--Sve-jos-mirise-na-nju
 - tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
+
+## Moja je pjesma lagana
+
+## Jesen u meni
+
+<br/>
+
+# Azra
+
+## Ljepe žene prolaze kroz grad
+
+## Gracija
+
+## Usne vrele višnje
+
+<br/>
+
+# Aerogrom
+
+## A šta da radim
+
+<br/>
+
+# Indexi
+
+## Balada
 
 
