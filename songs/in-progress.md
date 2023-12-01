@@ -60,6 +60,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Acoustic guitar tutorial in Spanish: https://youtu.be/q4a3hpFKOMQ
 - Dorian A version lesson: https://youtu.be/KpvEeE8EN4Y
 - Another fingerstyle: https://youtu.be/4bnICGpQCHA
+- Fingerstyle cover: https://youtu.be/4bnICGpQCHA
 
 ### Tabs
 - Songsterr solo: https://www.songsterr.com/a/wsa/carlos-santana-oye-como-va-tab-s61155
