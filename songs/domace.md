@@ -169,7 +169,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 <br/>
 
-# Aerogrom
+# Aerodrom
 
 ## A šta da radim
 
