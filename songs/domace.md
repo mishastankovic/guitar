@@ -103,7 +103,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=28
 - tab creator: https://www.guitartabcreator.com/tabs/gitarile/ima-neka-tajna-veza
 
-## Pristao sam biću sve što hoće - Bjelo Dugme
+## Pristao sam biću sve što hoće
 
 <br/>
 
