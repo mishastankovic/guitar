@@ -141,6 +141,12 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ## Lepa Protina Kći
 
+### Tabs
+- songsterr with video: https://www.songsterr.com/a/wsa/djordje-balasevic-lepa-pirotina-kci-tab-s385856
+- akordi i tekst: https://tabs.ultimate-guitar.com/tab/1066270
+- 
+### Videos
+
 ## Devojka sa čardaš nogama
 
 ### Tabs
