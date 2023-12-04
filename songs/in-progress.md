@@ -5,6 +5,10 @@
 ### Tabs
 - chords and lyrics: https://www.e-chords.com/chords/uriah-heep/july-morning-acoustic
 - Songster electrical buitar band: https://www.songsterr.com/a/wsa/uriah-heep-july-morning-tab-s57465
+- tabs: https://www.cifraclub.com.br/uriah-heep/july-morning/
+
+### Videos
+- fingerstyle cover: https://youtu.be/DkWdUFwO8bQ
 
 # Hey Joe
 Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
