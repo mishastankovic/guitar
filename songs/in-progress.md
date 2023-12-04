@@ -1,6 +1,11 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Chords: https://gtrlib.com/chords/c-sharp-diminished
 
+# July Morning by Uriah Heep
+### Tabs
+- chords and lyrics: https://www.e-chords.com/chords/uriah-heep/july-morning-acoustic
+- Songster electrical buitar band: https://www.songsterr.com/a/wsa/uriah-heep-july-morning-tab-s57465
+
 # Hey Joe
 Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 
