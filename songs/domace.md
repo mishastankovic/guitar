@@ -146,7 +146,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - akordi i tekst: https://tabs.ultimate-guitar.com/tab/1066270
 
 ### Videos
-- original udio djordje balasevic: https://youtu.be/jWkY-cFRptw
+- original video djordje balasevic: https://youtu.be/jWkY-cFRptw
 - tutorial: https://youtu.be/Df9x2V4nuGU
 
 ## Devojka sa čardaš nogama
