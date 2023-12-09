@@ -17,6 +17,7 @@ Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](http
 - chords: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-chords-667667
 - tabs 1: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-acoustic-tab-s391428
 - tabs 2: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-tabs-179233
+- solo songsterr: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-for-beginner-tab-s439161t2
 
 ### Video
 - video tutorial 1: https://youtu.be/lLKL-nv0ut0
