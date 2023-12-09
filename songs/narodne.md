@@ -35,3 +35,9 @@
 # Jesen prodje, ja se ne ozeni
 - text, chords, video: https://www.yesiloveguitar.com/akordi/r/radisa-urosevic/radisa-urosevic-jesen-prode-ja-se-ne-ozenih/
 
+# Haljinica boje lila
+
+### Tabs
+- akordi i tekst u Am: http://www.pesmarica.rs/Akordi/2211/Starogradske--haljinica-boje-lila
+- akordi i tekst u Cm: http://www.pesmarica.rs/Akordi/5883/Nikola-Pejaković--Haljinicu-boje-lila
+
