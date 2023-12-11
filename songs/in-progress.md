@@ -49,6 +49,7 @@ Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel ma
 # Europa by Carlos Santana
 Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
 ### Videos
+- Joe Robinson: https://youtu.be/UMAABrR2YLI
 - Fingerstyle by Guido Mancino https://youtu.be/orwNFWVPbys
 - Classical guitar cover: https://youtu.be/Fe3ei2T4CyE
 - Parlor guitar cover by Sapient Sat: https://youtu.be/VE5za5zhX90
