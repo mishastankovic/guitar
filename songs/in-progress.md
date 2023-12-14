@@ -8,6 +8,7 @@
 - tabs: https://www.cifraclub.com.br/uriah-heep/july-morning/
 
 ### Videos
+- Uriah Hip original: https://youtu.be/grSWdLdp7po
 - fingerstyle cover: https://youtu.be/DkWdUFwO8bQ
 
 # Hey Joe
