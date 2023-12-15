@@ -2,6 +2,20 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Chords: https://gtrlib.com/chords/c-sharp-diminished
 
+# Leb i Sol
+
+## Bistra Voda
+
+### Videos
+- acoustic guitar cover fingerstyle: https://youtu.be/llZlnfnoOXw
+- two guitar cover: https://youtu.be/hnqAf4kKCm8
+
+### Tabs
+- ultimate guitar: https://youtu.be/grSWdLdp7po
+- songsterr: https://www.songsterr.com/a/wsa/leb-i-sol-bistra-voda-tab-s41399
+
+<br/>
+
 # Bajaga
 
 ## Tišina
