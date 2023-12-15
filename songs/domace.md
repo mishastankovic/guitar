@@ -9,6 +9,7 @@
 ### Videos
 - acoustic guitar cover fingerstyle: https://youtu.be/llZlnfnoOXw
 - two guitar cover: https://youtu.be/hnqAf4kKCm8
+- vlatko stefanovski live: https://youtu.be/olfohVvMROM
 
 ### Tabs
 - ultimate guitar: https://youtu.be/grSWdLdp7po
