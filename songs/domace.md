@@ -138,7 +138,21 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=28
 - tab creator: https://www.guitartabcreator.com/tabs/gitarile/ima-neka-tajna-veza
 
-## Pristao sam biću sve što hoće
+## Da te bogdo ne volim
+
+### Videos
+- Bjelo Dugme originalni audio: https://youtu.be/KFtRqDMjbWU
+- Peldo i Vela guitar cover: https://youtu.be/9x6bkJskTko
+- Jasmin Hatunic single guitar cover: https://youtu.be/3BCBtA34xLs
+- Yesiloveguitar tutorial: https://youtu.be/gyoA6oqg5DU
+
+### Tabs
+- akordi i tekst: [http://milanjovicovers.blogspot.com/2014/08/bijelo-dugme-da-te-bogdo-ne-volim.html](https://tabs.ultimate-guitar.com/tab/bijelo-dugme/da-te-bogdo-ne-volim-chords-1201710)
+- completan tab solo, akordi i teks; https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=14
+
+  
+<br/>
+##Pristao sam biću sve što hoće
 
 ## Ružica si bila
 
