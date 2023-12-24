@@ -145,6 +145,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - Peldo i Vela guitar cover: https://youtu.be/9x6bkJskTko
 - Jasmin Hatunic single guitar cover: https://youtu.be/3BCBtA34xLs
 - Yesiloveguitar tutorial: https://youtu.be/gyoA6oqg5DU
+- Akordinacija cover: https://youtu.be/X7Izh9M3jjo
 
 ### Tabs
 - akordi i tekst: [http://milanjovicovers.blogspot.com/2014/08/bijelo-dugme-da-te-bogdo-ne-volim.html](https://tabs.ultimate-guitar.com/tab/bijelo-dugme/da-te-bogdo-ne-volim-chords-1201710)
