@@ -104,10 +104,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/sta-bi-dao-da-si-na-mom-mjestu-guitar-pro-414588
 
-## Ima Neka Tajna Veza
-
-### Video
-- guitar cover: https://youtu.be/wOtZJn1Sd3g
+<BR/>
 
 ## Djurdjevdan
 
@@ -126,8 +123,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - Fingerstyle tabs: https://youtu.be/N8JwOmqSbUo
 - fingerstyle tabs: https://youtu.be/RDLX8rqK3fc
 
+## Ima Neka Tajna Veza
 
 ### Video
+- guitar cover: https://youtu.be/wOtZJn1Sd3g
 - instrumental cover: https://youtu.be/tausz5PFT4A
 - cover with vocals: https://youtu.be/wOtZJn1Sd3g
 - original bjelo dume recording with chords: https://chordu.com/chords-tabs-bijelo-dugme-ima-neka-tajna-veza-official-lyric-video--id_ZBFhuVWw14o
