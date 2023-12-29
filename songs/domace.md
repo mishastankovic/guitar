@@ -261,6 +261,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ### Tabs
 - Akordinaciaj akordi: https://youtu.be/9eFM16Lj7rI
+- akordi i tekst: https://www.2akordi.net/?a=uploads&t=v&id=120531103855
+- akordi ultimate guitar: https://tabs.ultimate-guitar.com/tab/indexi/balada-chords-2961269
+- tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/indexi/balada-guitar-pro-3643712
+- akordi i tekst: https://www.akordi-za-gitaru.com/i/indexi-balada-akordi-za-gitaru/
 
 ## Žute Dunje
 
