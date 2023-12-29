@@ -127,6 +127,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
   
 <br/>
+
 ## Pristao sam biću sve što hoće
 
 ## Ružica si bila
