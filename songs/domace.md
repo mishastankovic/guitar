@@ -32,6 +32,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
 - Two guitars: https://youtu.be/G0xKOBVwFok
 
+<br/>
 
 # Bjelo Dugme
 
