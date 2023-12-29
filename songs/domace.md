@@ -232,6 +232,19 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 <br/>
 
+# Time
+
+## Pjesma br 3
+
+### Videos
+- Original Time audio: https://www.youtube.com/watch?v=0lDMDetUf90
+- Time ultimate audio: https://www.youtube.com/watch?v=06K1Y6NjJ34
+
+### Tabs
+- akordi i tekst: http://www.pesmarica.rs/Akordi/8371/Time--Pjesma-No3
+
+  
+<br/>
 # Aerodrom
 
 ## A šta da radim
