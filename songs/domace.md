@@ -255,6 +255,13 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ## Balada
 
+### Video
+- Original Indexi audio with lyrics: https://youtu.be/6l5tnbyapGA
+- Two guitars cover: https://youtu.be/GK2XgEn4RhU
+
+### Tabs
+- Akordinaciaj akordi: https://youtu.be/9eFM16Lj7rI
+
 ## Žute Dunje
 
 ### Video
