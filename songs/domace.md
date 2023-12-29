@@ -32,32 +32,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
 - Two guitars: https://youtu.be/G0xKOBVwFok
 
-## Kad Hodaš
-
-### Tabs
-
-- https://tabs.ultimate-guitar.com/tab/bajaga-i-instruktori/kad-hodas-chords-1073394
-- tekst i akordi: http://www.pesmarica.rs/Akordi/1645/Bajaga--Kad-hodaš
-
-### Videos
-- Bajaka, Bora uživoČ https://youtu.be/ZJCpZ5ceVCw
-- Bajaga audio sa albumaČ https://youtu.be/AKJTrGjfJZs
-
-<br/>
-
-# Riblja Čorba
-
-## Neke Su Žene Pratile Vojnike
-
-### Tabs
-- tekst i akordi: https://2akordi.net/akordi.net?a=katalog&t=r&b=216&id=108
-
-### Videos
-
-- Riblja Čorba official: https://youtu.be/ZBZ3oY8rjdY
-- yesiloveguitarČ https://youtu.be/J2bhC1Z5DFw
-
-<br/>
 
 # Bjelo Dugme
 
@@ -153,7 +127,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
   
 <br/>
-##Pristao sam biću sve što hoće
+## Pristao sam biću sve što hoće
 
 ## Ružica si bila
 
@@ -190,7 +164,32 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - fingerstyle instrumental cover yesiloveguitar: https://youtu.be/SvRIlDPdDwE
 - two guitars instrumental: https://youtu.be/seTTooQSiqg
 - tutorial: https://youtu.be/Bl6UfHsywyE
+
 <br/>
+
+# Riblja Čorba
+
+## Neke Su Žene Pratile Vojnike
+
+### Tabs
+- tekst i akordi: https://2akordi.net/akordi.net?a=katalog&t=r&b=216&id=108
+
+### Videos
+
+- Riblja Čorba official: https://youtu.be/ZBZ3oY8rjdY
+- yesiloveguitarČ https://youtu.be/J2bhC1Z5DFw
+
+<br/>
+## Kad Hodaš
+
+### Tabs
+
+- https://tabs.ultimate-guitar.com/tab/bajaga-i-instruktori/kad-hodas-chords-1073394
+- tekst i akordi: http://www.pesmarica.rs/Akordi/1645/Bajaga--Kad-hodaš
+
+### Videos
+- Bajaka, Bora uživoČ https://youtu.be/ZJCpZ5ceVCw
+- Bajaga audio sa albumaČ https://youtu.be/AKJTrGjfJZs
 
 # Galija
 
