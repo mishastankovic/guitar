@@ -195,6 +195,11 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 # Galija
 
 ## Letnja Pesma
+### Videos
+- Galija audio sa tekstom: https://www.youtube.com/watch?v=lJGxYFYi7YY
+### Tabs
+- akordi chordi: https://chordify.net/chords/letnja-pesma-galija-topic
+- akordi chrdify: https://chordify.net/chords/galija-letnja-pesma-audio-1979-hd-pgp-rts-zvanicni-kanal
 
 ## Da li si spavala
 
