@@ -222,16 +222,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 <br/>
 
-# Azra
-
-## Ljepe žene prolaze kroz grad
-
-## Gracija
-
-## Usne vrele višnje
-
-<br/>
-
 # Time
 
 ## Pjesma br 3
@@ -243,11 +233,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Tabs
 - akordi i tekst: http://www.pesmarica.rs/Akordi/8371/Time--Pjesma-No3
 
-  
-<br/>
-# Aerodrom
-
-## A šta da radim
 
 <br/>
 
