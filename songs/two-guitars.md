@@ -88,7 +88,6 @@
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 ### Video
 - video: https://youtu.be/JxPj3GAYYZ0
-- video Eric Clapton 2 guitars: https://youtu.be/aRjxNj-NchU
 - video tutorial for 2 guitars:
 	-  part 1: https://www.youtube.com/watch?v=wzzkhqTsk2w
 	-  part 2: https://youtu.be/YqMUrBQ2KRY
