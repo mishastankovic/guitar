@@ -87,7 +87,8 @@
 # Tears in heaven by Eric Clapton
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 ### Video
-- Eric Clapton unplagged version audio: https://www.youtube.com/watch?v=CoOp12ayIVg
+- Eric Clapton unplagged audio: https://www.youtube.com/watch?v=CoOp12ayIVg
+- Eric Clapton unplagged video: https://youtu.be/svzR5_UEMTs
 - video Eric Clapton live: https://youtu.be/JxPj3GAYYZ0
 - video tutorial for 2 guitars:
 	-  part 1: https://www.youtube.com/watch?v=wzzkhqTsk2w
