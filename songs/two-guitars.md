@@ -96,6 +96,7 @@
 - video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
 - Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o
 - joe robinson single guitar: https://youtu.be/IuZ_Un3a1oo
+- Jan Kysela single guitar gingerstyle: https://youtu.be/qCSknyI4Blk
 ### Tabs
 - chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
