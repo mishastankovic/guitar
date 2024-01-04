@@ -32,6 +32,14 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Solo https://m.youtube.com/watch?v=H-Y_5OAumlM
 - Two guitars: https://youtu.be/G0xKOBVwFok
 
+## Dobro Jutro Džezeri
+
+### Videos
+- Akordinacija video with chords: https://youtu.be/occCVd5q-1k
+
+### Tabs
+- Akordi i tekst: https://www.2akordi.net/?a=uploads&t=v&id=090117101409
+  
 <br/>
 
 # Bjelo Dugme
