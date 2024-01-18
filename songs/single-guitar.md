@@ -36,6 +36,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 ### Video
 - video Tracy Chapman live: https://youtu.be/8XL6C3vY0jM
 - video Tracy Chapman official: https://youtu.be/7SNiezOBWPs
+- Tutorial Tracy Chapman version: https://youtu.be/ym_pFHCu0rc
 ### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/tracy-chapman/stand-by-me-chords-2954426
 	
