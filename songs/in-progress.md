@@ -1,7 +1,7 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Chords: https://gtrlib.com/chords/c-sharp-diminished
 
-# Smooth Operator by Shade
+# Smooth Operator by Sade
 Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
 ### Tabs
 
