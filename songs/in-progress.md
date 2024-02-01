@@ -15,7 +15,7 @@ Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major
 
 
 # July Morning by Uriah Heep
-Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E-flat](https://www.guitarscale.org/e-flat-major.html)
+Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat major](https://www.guitarscale.org/e-flat-major.html)
 ### Tabs
 - chords and lyrics: https://www.e-chords.com/chords/uriah-heep/july-morning-acoustic
 - Songster electrical buitar band: https://www.songsterr.com/a/wsa/uriah-heep-july-morning-tab-s57465
