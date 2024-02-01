@@ -13,6 +13,7 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 - Cover by Indigo Dreamers: https://youtu.be/F1dUAvcBjhc
 - Turoial for acoustic guitar: https://www.youtube.com/watch?v=27YjXAd9iMA
 - Another single guitar cover with vovals: https://youtu.be/6KkseRXxQFk
+- Cover Juliya Liyer and Constantine Kessove: https://youtu.be/Z9xhg20Rmgg
 
 # Mad World by Gary Jules
 Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
