@@ -2,7 +2,7 @@
 - Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 # Mad World by Gary Jules
-Key [e](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
+Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
 
 ### Tabs
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/gary-jules/mad-world-chords-1087918
