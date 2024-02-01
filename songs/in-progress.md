@@ -1,6 +1,12 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Chords: https://gtrlib.com/chords/c-sharp-diminished
 
+# Smooth Operator by Shade
+Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
+### Tabs
+
+### Videos
+
 # Mad World by Gary Jules
 Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
 
