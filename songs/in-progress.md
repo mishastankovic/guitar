@@ -26,7 +26,7 @@ Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat 
 - fingerstyle cover: https://youtu.be/DkWdUFwO8bQ
 
 # Hey Joe
-Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
+Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e minor](https://www.guitarscale.org/e-minor.html)
 
 ### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-chords-667667
