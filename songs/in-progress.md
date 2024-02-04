@@ -57,6 +57,7 @@ Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e minor
 - acoutstic guitar tutorial: https://youtu.be/ocP_LPeex0Q
 - solo tutorial electrical guitar: https://youtu.be/Nxh1yB-uCtI
 - solo on acoustic guitar: https://youtu.be/JM9jJhm2hfw
+- fingers tyle: https://youtu.be/N1dX-38ySLw
 
 # Get Lucky by Daft Punk
 Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel major [A major](https://www.guitarscale.org/a-major.html)
