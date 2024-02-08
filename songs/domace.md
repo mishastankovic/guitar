@@ -174,6 +174,16 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - two guitars instrumental: https://youtu.be/seTTooQSiqg
 - tutorial: https://youtu.be/Bl6UfHsywyE
 
+## Ringišpil
+### Tabs
+- Pemsarica akordi i tekst: http://www.pesmarica.rs/Akordi/5905/Đorđe-Balašević--Ringispil
+- Akordi i tekst 2ACORDI: https://2akordi.net/akordi.net?a=katalog&t=r&b=67&id=135
+- Akordi i tekst Ultimate Guitar: https://tabs.ultimate-guitar.com/tab/3209213
+
+## Videos
+- Chordify akordi i audio: https://chordify.net/chords/dorde-balasevic-songs/ringispil-2-chords
+
+- 
 <br/>
 
 # Riblja Čorba
