@@ -180,10 +180,18 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - Akordi i tekst 2ACORDI: https://2akordi.net/akordi.net?a=katalog&t=r&b=67&id=135
 - Akordi i tekst Ultimate Guitar: https://tabs.ultimate-guitar.com/tab/3209213
 
-## Videos
+### Videos
 - Chordify akordi i audio: https://chordify.net/chords/dorde-balasevic-songs/ringispil-2-chords
 
-- 
+## Pesma o jednom petlu
+### Videos
+- Djordje Balasevic original audio: https://youtu.be/RbjlPbURaB0
+- Guitar cover: https://youtu.be/c3vEpGSJgMI
+
+### Tabs
+- akordi i tekst Pemsarica: http://www.pesmarica.rs/Akordi/413/Đorđe-Balašević--Pesma-o-Jednom-Petlu
+- akordi i tekst Ultimate Guitar: https://tabs.ultimate-guitar.com/tab/2995430
+  
 <br/>
 
 # Riblja Čorba
@@ -196,7 +204,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Videos
 
 - Riblja Čorba official: https://youtu.be/ZBZ3oY8rjdY
-- yesiloveguitarČ https://youtu.be/J2bhC1Z5DFw
+- yesiloveguitar: https://youtu.be/J2bhC1Z5DFw
 
 <br/>
 ## Kad Hodaš
