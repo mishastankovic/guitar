@@ -5,6 +5,7 @@
 
 ## I don't want to talk about it by Rod Stewart
   - plan for fingerstyle single guitar
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
 ## Perfect by Ed Sheran
   - Could be singl or two guitars
