@@ -19,3 +19,11 @@
 
 ## Black Magic Woman
   - plan for solo only with backing track
+
+## I don't know why I didn't come by Nora Jones, Jesse Harris
+  - fingerstyle single guitar
+  - example cover: https://youtu.be/LDEy7wSlweI
+  - cover video with tabs: https://youtu.be/dmruviU-WAE
+  - tutorial bt shut up and play: https://youtu.be/LuzBhfTofeQ
+  - tabs: https://tabs.ultimate-guitar.com/tab/norah-jones/dont-know-why-chords-57811
+
