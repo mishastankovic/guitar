@@ -32,3 +32,8 @@
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/10cc/im-not-in-love-chords-1774226
   - video tutorial with chord diagrms: https://youtu.be/ohKfQDicQnw
 
+## Ain't No Sunshine
+  - Fingerstyle
+  - example fingerstyle cover: https://youtu.be/VADiIqcxmtg
+  - Guitar Logic finterstyle cover: https://youtu.be/bkVDdn5FjiM
+
