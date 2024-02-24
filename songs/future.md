@@ -9,7 +9,7 @@
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
 ## Perfect by Ed Sheran
-  - Could be singl or two guitars
+  - Could be single or two guitars
   - example by Naudo on electric guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
   - chrods and lyrics: https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589
 
@@ -26,4 +26,9 @@
   - cover video with tabs: https://youtu.be/dmruviU-WAE
   - tutorial bt shut up and play: https://youtu.be/LuzBhfTofeQ
   - tabs: https://tabs.ultimate-guitar.com/tab/norah-jones/dont-know-why-chords-57811
+
+## I'm not in love by 10cc
+  - strumming, vocal single guitar
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/10cc/im-not-in-love-chords-1774226
+  - video tutorial with chord diagrms: https://youtu.be/ohKfQDicQnw
 
