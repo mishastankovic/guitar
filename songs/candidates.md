@@ -10,8 +10,9 @@
 
 ## Perfect by Ed Sheran
   - Could be single or two guitars
-  - example by Naudo on electric guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
+  - example by Naudo on acoustic-electrig guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
   - chrods and lyrics: https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589
+  - trumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
 
 ## Wonderful Tonight
   - plan for two guitars
