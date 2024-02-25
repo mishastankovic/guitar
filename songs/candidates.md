@@ -41,4 +41,11 @@
 ## <i>Feelings</i> by Morris Albert 
   - Fingerstyle or strumming / voice
   - Fingerstyle by Naudo: https://youtu.be/6UwNav9emT8
+
+## <i>A White Shade of Pale</i> by Procol Harum
+  - Single fingerstyle or two guitars with vocals
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/procol-harum/a-whiter-shade-of-pale-chords-958255
+  - Cover with vovals: https://youtu.be/NUuDQkZi1gA
+  - Fingerstyle by Antonio Baldassarre: https://youtu.be/4-7WhGJYtCQ
+  - Fingerstyle cover by Naudo: https://youtu.be/-CF9DyWR5wI
     
