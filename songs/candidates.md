@@ -3,7 +3,7 @@
   - start with backing track
   - example by Naudo: https://www.youtube.com/watch?v=4P4mEeGuw3U
 
-## I Don't Want to Talk About It by Rod Stewart
+## <i>I Don't Want to Talk About It</i> by Rod Stewart
   - plan for fingerstyle single guitar
   - Naudo cover: https://youtu.be/R16_6yCt4W4
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
