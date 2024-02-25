@@ -37,3 +37,7 @@
   - example fingerstyle cover: https://youtu.be/VADiIqcxmtg
   - Guitar Logic finterstyle cover: https://youtu.be/bkVDdn5FjiM
 
+## Feelings
+  - Fingerstyle or strumming / voice
+  - Fingerstyle by Naudo: https://youtu.be/6UwNav9emT8
+  - 
