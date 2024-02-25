@@ -48,4 +48,5 @@
   - Cover with vovals: https://youtu.be/NUuDQkZi1gA
   - Fingerstyle by Antonio Baldassarre: https://youtu.be/4-7WhGJYtCQ
   - Fingerstyle cover by Naudo: https://youtu.be/-CF9DyWR5wI
+  - Fingerstyle cover Melania Goertz: https://youtu.be/_QnS1QLZw9o
     
