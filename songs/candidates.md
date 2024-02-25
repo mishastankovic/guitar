@@ -9,10 +9,10 @@
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
 ## Perfect by Ed Sheran
-  - Could be single or two guitars
-  - example by Naudo on acoustic-electrig guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
-  - chrods and lyrics: https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589
-  - trumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
+  - Fingerstyle guitar, original in G major
+  - example by Naudo in A-major on acoustic-electrig guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
+  - chords in G-major and lyrics: https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589
+  - Strumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
 
 ## Wonderful Tonight
   - plan for two guitars
