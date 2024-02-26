@@ -2,6 +2,8 @@
   - plan for two guitars
   - start with backing track
   - example by Naudo: https://www.youtube.com/watch?v=4P4mEeGuw3U
+  - fingerstyle cover: https://youtu.be/Rwa8vYxp_Bc
+  - Igor Presnyakov cover: https://youtu.be/7bPmyHD0oRg
 
 ## <i>I Don't Want to Talk About It</i> by Rod Stewart
   - plan for fingerstyle single guitar
