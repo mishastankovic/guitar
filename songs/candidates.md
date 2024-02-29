@@ -39,6 +39,10 @@
   - Fingerstyle
   - example fingerstyle cover: https://youtu.be/VADiIqcxmtg
   - Guitar Logic finterstyle cover: https://youtu.be/bkVDdn5FjiM
+  - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-chords-468744
+  - songsterr tabs with bill Withers original audio
+  - another fingerstyle video and tab: https://www.rynaylorguitar.com/guitar-lesson/aint-no-sunshine-bill-withers
 
 ## <i>Feelings</i> by Morris Albert 
   - Fingerstyle or strumming / voice
