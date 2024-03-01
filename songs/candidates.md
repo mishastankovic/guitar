@@ -43,6 +43,9 @@
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-chords-468744
   - songsterr tabs with bill Withers original audio
   - another fingerstyle video and tab: https://www.rynaylorguitar.com/guitar-lesson/aint-no-sunshine-bill-withers
+  - fingerstyle cover by Guitar Logic: https://youtu.be/bkVDdn5FjiM
+  - fingerstyle cover by Adam Rafferty: https://youtu.be/OLF7-Ui94AI
+  - fingerstyle cover by Igor Presnyakov: https://youtu.be/d_dt2ZsCU9U
 
 ## <i>Feelings</i> by Morris Albert 
   - Fingerstyle or strumming / voice
