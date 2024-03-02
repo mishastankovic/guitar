@@ -58,4 +58,5 @@
   - Fingerstyle by Antonio Baldassarre: https://youtu.be/4-7WhGJYtCQ
   - Fingerstyle cover by Naudo: https://youtu.be/-CF9DyWR5wI
   - Fingerstyle cover Melania Goertz: https://youtu.be/_QnS1QLZw9o
+  - fingerstyle cover by Kelly Valeau: https://youtu.be/to4oIliDaGY
     
