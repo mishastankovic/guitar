@@ -59,4 +59,13 @@
   - Fingerstyle cover by Naudo: https://youtu.be/-CF9DyWR5wI
   - Fingerstyle cover Melania Goertz: https://youtu.be/_QnS1QLZw9o
   - fingerstyle cover by Kelly Valeau: https://youtu.be/to4oIliDaGY
+
+## Classical Gas
+  - Tommy Emanuel: https://youtu.be/S33tWZqXhnk
+  - Lucas Imbiriba cover: https://youtu.be/5z-ZMx-WGGw
+  - Gabriella Quevedo: https://youtu.be/nHje3Fh4GJo
+  - MArcus Lirthus: https://youtu.be/9K42szt4PLw
+  - Tabs Tommy Emanuel version: https://tommyemmanuel.files.wordpress.com/2007/09/tommy-emmanuel-classical-gas.pdf
+  - Tutorial / cover by Tim Van Roy: https://youtu.be/Y2_GvbZdcWQ
+  - Tutorial for Tommy Emanuel version intro: https://youtu.be/HcJcDjInc-E
     
