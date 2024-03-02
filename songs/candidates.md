@@ -4,6 +4,8 @@
   - example by Naudo: https://www.youtube.com/watch?v=4P4mEeGuw3U
   - fingerstyle cover: https://youtu.be/Rwa8vYxp_Bc
   - Igor Presnyakov cover: https://youtu.be/7bPmyHD0oRg
+  - Travis picking tutorial by All Guitars: https://youtu.be/DMPHU2PV36k
+  - Travis picking tutorial; https://youtu.be/E1l4T7sa4lE
 
 ## <i>I Don't Want to Talk About It</i> by Rod Stewart
   - plan for fingerstyle single guitar
