@@ -11,9 +11,10 @@
   - Tommy Emanuel tutorial and tabs: https://truefire.com/tommy-emmanuel-guitar-lessons/fingestyle-breakthroughs/house-of-the-rising-sun-performance/v34235
 
 ## <i>I Don't Want to Talk About It</i> by Rod Stewart
+  - Original key G major, my version D major
   - plan for fingerstyle single guitar
-  - Naudo cover: https://youtu.be/R16_6yCt4W4
-  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
+  - Naudo cover in D major: https://youtu.be/R16_6yCt4W4
+  - chords and lyrics in G major: https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
 ## <i>Perfect</i> by Ed Sheran
   - Fingerstyle guitar, original in G major
