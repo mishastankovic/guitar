@@ -1,5 +1,5 @@
 ## <i>The House of The Rising Sun</i> by Animals
-  - key a minor
+  - key a minor, parallel major C
   - plan for two guitars
   - start with backing track
   - example by Naudo: https://www.youtube.com/watch?v=4P4mEeGuw3U
@@ -37,6 +37,7 @@
   - tabs: https://tabs.ultimate-guitar.com/tab/norah-jones/dont-know-why-chords-57811
 
 ## <i>I'm Not in Love</i> by 10cc
+  - 
   - strumming, vocal single guitar
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/10cc/im-not-in-love-chords-1774226
   - video tutorial with chord diagrms: https://youtu.be/ohKfQDicQnw
@@ -74,4 +75,9 @@
   - Tabs Tommy Emanuel version: https://tommyemmanuel.files.wordpress.com/2007/09/tommy-emmanuel-classical-gas.pdf
   - Tutorial / cover by Tim Van Roy: https://youtu.be/Y2_GvbZdcWQ
   - Tutorial for Tommy Emanuel version intro: https://youtu.be/HcJcDjInc-E
+
+## Oceans
+  - key b minor, parallel major D
+  - Luca Silva / Liv Harland live; https://www.youtube.com/watch?v=tOZ0Tlyl_3s
+
     
