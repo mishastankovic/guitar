@@ -23,8 +23,13 @@
   - Strumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
 
 ## <i>Wonderful Tonight</i> by Eric Clapton
+  - key G major
   - plan for two guitars
   - example cover by Naudo: https://youtu.be/XmfqpQk9ok8
+  - chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/wonderful-tonight-chords-666288
+  - Finderstyle single guitar: https://youtu.be/TovZA09hryE
+  - Fingerstyle tabs single guitar; https://www.songsterr.com/a/wsa/daria-semikina-eric-clapton-wonderful-tonight-fingerstyle-tab-s396809
+  - Fingerstyle cover by Gareth Evans: https://youtu.be/0ZIqdiHlEdw
 
 ## <i>Black Magic Woman</i> by Santana
   - plan for solo only with backing track
