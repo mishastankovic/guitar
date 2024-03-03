@@ -1,4 +1,5 @@
 ## <i>The House of The Rising Sun</i> by Animals
+  - key a minor
   - plan for two guitars
   - start with backing track
   - example by Naudo: https://www.youtube.com/watch?v=4P4mEeGuw3U
