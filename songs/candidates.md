@@ -1,6 +1,6 @@
 ## <i>The House of The Rising Sun</i> by Animals
-  - key a minor, parallel major C
   - plan for two guitars
+  - key a minor, parallel major C
   - start with backing track
   - example by Naudo: https://www.youtube.com/watch?v=4P4mEeGuw3U
   - fingerstyle cover: https://youtu.be/Rwa8vYxp_Bc
@@ -11,8 +11,8 @@
   - Tommy Emanuel tutorial and tabs: https://truefire.com/tommy-emmanuel-guitar-lessons/fingestyle-breakthroughs/house-of-the-rising-sun-performance/v34235
 
 ## <i>I Don't Want to Talk About It</i> by Rod Stewart
-  - Original key B-flat major, my version D major
   - plan for fingerstyle single guitar
+  - Original key B-flat major, my version D major
   - Naudo cover in D major: https://youtu.be/R16_6yCt4W4
   - chords and lyrics in B-flat major: https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
@@ -23,8 +23,8 @@
   - Strumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
 
 ## <i>Wonderful Tonight</i> by Eric Clapton
-  - key G major
   - plan for two guitars
+  - key G-major, parallel minor e-minor
   - example cover by Naudo: https://youtu.be/XmfqpQk9ok8
   - chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/wonderful-tonight-chords-666288
   - Finderstyle single guitar: https://youtu.be/TovZA09hryE
@@ -36,19 +36,21 @@
 
 ## <i>I Don't Know Why I Didn't Come</i> by Nora Jones, Jesse Harris
   - fingerstyle single guitar
+  - key b-flat minor, parallel major D-major
   - example cover: https://youtu.be/LDEy7wSlweI
   - cover video with tabs: https://youtu.be/dmruviU-WAE
   - tutorial bt shut up and play: https://youtu.be/LuzBhfTofeQ
   - tabs: https://tabs.ultimate-guitar.com/tab/norah-jones/dont-know-why-chords-57811
 
 ## <i>I'm Not in Love</i> by 10cc
-  - 
   - strumming, vocal single guitar
+  - key E-major, parallel minor c-sharp minor
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/10cc/im-not-in-love-chords-1774226
   - video tutorial with chord diagrms: https://youtu.be/ohKfQDicQnw
 
 ## <i>Ain't No Sunshine</i> by Bill Withers
   - Fingerstyle
+  - key a-mainor
   - example fingerstyle cover: https://youtu.be/VADiIqcxmtg
   - Guitar Logic finterstyle cover: https://youtu.be/bkVDdn5FjiM
   - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
@@ -61,10 +63,12 @@
 
 ## <i>Feelings</i> by Morris Albert 
   - Fingerstyle or strumming / voice
+  - key E-major, parallel minor c-sharp-minot
   - Fingerstyle by Naudo: https://youtu.be/6UwNav9emT8
 
 ## <i>A White Shade of Pale</i> by Procol Harum
   - Single fingerstyle or two guitars with vocals
+  - key C-major, parallel minor a-minor
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/procol-harum/a-whiter-shade-of-pale-chords-958255
   - Cover with vocals: https://youtu.be/NUuDQkZi1gA
   - Fingerstyle by Antonio Baldassarre: https://youtu.be/4-7WhGJYtCQ
@@ -73,6 +77,8 @@
   - fingerstyle cover by Kelly Valeau: https://youtu.be/to4oIliDaGY
 
 ## Classical Gas
+  - single guitar fingerstyle
+  - key E-major, parrelel minor c-sharp-minor
   - Tommy Emanuel: https://youtu.be/S33tWZqXhnk
   - Lucas Imbiriba cover: https://youtu.be/5z-ZMx-WGGw
   - Gabriella Quevedo: https://youtu.be/nHje3Fh4GJo
