@@ -21,6 +21,7 @@
   - example by Naudo in A-major on acoustic-electrig guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
   - chords in G-major and lyrics: https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589
   - Strumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
+  - Ed SHeeran audio: https://youtu.be/cNGjD0VG4R8
 
 ## <i>Wonderful Tonight</i> by Eric Clapton
   - plan for two guitars
