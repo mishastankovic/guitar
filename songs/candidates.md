@@ -57,7 +57,7 @@
   - Guitar Logic finterstyle cover: https://youtu.be/bkVDdn5FjiM
   - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-chords-468744
-  - songsterr tabs with bill Withers original audio
+  - songsterr tabs eva cassidy: https://www.songsterr.com/a/wsa/eva-cassidy-aint-no-sunshine-tab-s4181
   - another fingerstyle video and tab: https://www.rynaylorguitar.com/guitar-lesson/aint-no-sunshine-bill-withers
   - fingerstyle cover by Adam Rafferty: https://youtu.be/OLF7-Ui94AI
   - fingerstyle cover by Igor Presnyakov: https://youtu.be/d_dt2ZsCU9U
