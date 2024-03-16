@@ -90,6 +90,7 @@
 
 ## Oceans
   - key b minor, parallel major D
+  - chords and lyricsČ https://www.worshiptogether.com/songs/oceans-where-feet-may-fail-united/
   - Luca Silva / Liv Harland live; https://www.youtube.com/watch?v=tOZ0Tlyl_3s
 
     
