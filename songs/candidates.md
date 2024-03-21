@@ -61,6 +61,8 @@
   - another fingerstyle video and tab: https://www.rynaylorguitar.com/guitar-lesson/aint-no-sunshine-bill-withers
   - fingerstyle cover by Adam Rafferty: https://youtu.be/OLF7-Ui94AI
   - fingerstyle cover by Igor Presnyakov: https://youtu.be/d_dt2ZsCU9U
+  - DocHolloway fingerstyle: https://youtu.be/BQ964kjGKS8
+  - Daryl Shawn fingerstyle cover: https://youtu.be/m0oNII8YVzk
 
 ## <i>Feelings</i> by Morris Albert 
   - Fingerstyle or strumming / voice
