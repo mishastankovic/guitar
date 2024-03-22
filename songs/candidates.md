@@ -95,4 +95,8 @@
   - chords and lyrics: https://www.worshiptogether.com/songs/oceans-where-feet-may-fail-united/
   - Luca Silva / Liv Harland live; https://www.youtube.com/watch?v=tOZ0Tlyl_3s
 
+## Windy ad Warm
+  - Tommy Emanuel video: https://www.youtube.com/watch?v=HO_KvavFEhA&t=3s
+  - Tutorial with tabs: https://youtu.be/74m0rG33GEg 
+
     
