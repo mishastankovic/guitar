@@ -1,1 +1,2 @@
+- Boom-Chick tutorial video by Tommy Emanuel: Boom-Chick tutorial
 - Boom-Chick tutorial video by TrueFire: https://youtu.be/NmQDnd6VNiw
