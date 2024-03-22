@@ -95,8 +95,10 @@
   - chords and lyrics: https://www.worshiptogether.com/songs/oceans-where-feet-may-fail-united/
   - Luca Silva / Liv Harland live; https://www.youtube.com/watch?v=tOZ0Tlyl_3s
 
-## Windy ad Warm
+## Windy ad Warm by John Loudermilk
   - Tommy Emanuel video: https://www.youtube.com/watch?v=HO_KvavFEhA&t=3s
-  - Tutorial with tabs: https://youtu.be/74m0rG33GEg 
+  - Tutorial with tabs: https://youtu.be/74m0rG33GEg
+  - Camilo James cover with tabs: https://youtu.be/VdAIiWXtTb4
+  - Tabs Tommy Emanuel version PDF: https://tommyemmanuel.files.wordpress.com/2007/09/tommy-emmanuel-windy-and-warm.pdf
 
     
