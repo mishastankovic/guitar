@@ -1,2 +1,3 @@
 - Boom-Chick tutorial video by Tommy Emanuel: https://www.youtube.com/watch?v=elZa14HUKdA
+- Tommy Emanuel master class on tumb picking: https://youtu.be/Xm2ODiNUhac
 - Boom-Chick tutorial video by TrueFire: https://youtu.be/NmQDnd6VNiw
