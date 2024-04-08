@@ -16,6 +16,3 @@
   - Part 2: https://youtu.be/F_BDxYrmDWo
 - Blues scale position 1 by Joe's Guitar: https://youtu.be/X-uCp-5otiQ
 
-
-# Scales and chords
-- pentatonic scales: https://www.guitar-chords.org.uk/guitarscales/e-majorpentatonic.html
