@@ -1,0 +1,1 @@
+- https://www.guitarorb.com/guitar-scales/
