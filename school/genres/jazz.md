@@ -11,8 +11,4 @@
 - Buiginners guide to jazz chord progression: https://www.jazzguitarlessons.net/blog/beginners-guide-jazz-chord-progressions
 - 6th cords: https://www.jazzguitarlessons.net/blog/6-maj6-chords
 
-# Scales
-- General scales and chords: https://www.guitarscale.org/a-minor.html
-- Dorian scales theory: https://www.guitarlessons.com/guitar-lessons/guitar-scales/dorian-guitar-mode#:~:text=All%20that%20you%20have%20to,3G%204A%205B%206C%23%207D.
-- Dorian scales: https://www.jazz-guitar-licks.com/pages/guitar-scales-modes/modes-of-the-major-scale/dorian-mode-guitar-diagrams-theory-licks.html
 
