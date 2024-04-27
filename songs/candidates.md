@@ -104,4 +104,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Camilo James cover with tabs: https://youtu.be/VdAIiWXtTb4
   - Tabs Tommy Emanuel version PDF: https://tommyemmanuel.files.wordpress.com/2007/09/tommy-emmanuel-windy-and-warm.pdf
 
+## Serenade by Saro Tribastone
+  - Audio: https://www.youtube.com/watch?v=zNtHUZxNxRI
+
     
