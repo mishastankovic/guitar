@@ -1,3 +1,6 @@
+Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
+Chords: https://gtrlib.com/chords/c-sharp-diminished
+
 ## <i>The House of The Rising Sun</i> by Animals
   - plan for two guitars
   - key a minor, parallel major C
