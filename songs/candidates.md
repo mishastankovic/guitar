@@ -105,6 +105,9 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Tabs Tommy Emanuel version PDF: https://tommyemmanuel.files.wordpress.com/2007/09/tommy-emmanuel-windy-and-warm.pdf
 
 ## Serenade by Saro Tribastone
+  - key b-minor
+  - single guitar, could be played with two guitars as well
   - Audio: https://www.youtube.com/watch?v=zNtHUZxNxRI
+  - Chords: https://chordify.net/chords/serenade-saro-tribastone-topic
 
     
