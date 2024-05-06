@@ -10,7 +10,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Igor Presnyakov cover: https://youtu.be/7bPmyHD0oRg
   - Travis picking tutorial by All Guitars: https://youtu.be/DMPHU2PV36k
   - Travis picking tutorial; https://youtu.be/E1l4T7sa4lE
-  - Another Travids picking with tabs: https://youtu.be/_WJavaW-lcY
+  - Another Travis picking with tabs: https://youtu.be/_WJavaW-lcY
   - Tommy Emanuel tutorial and tabs: https://truefire.com/tommy-emmanuel-guitar-lessons/fingestyle-breakthroughs/house-of-the-rising-sun-performance/v34235
 
 ## <i>I Don't Want to Talk About It</i> by Rod Stewart
