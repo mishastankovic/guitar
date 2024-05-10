@@ -12,6 +12,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Travis picking tutorial; https://youtu.be/E1l4T7sa4lE
   - Another Travis picking with tabs: https://youtu.be/_WJavaW-lcY
   - Tommy Emanuel tutorial and tabs: https://truefire.com/tommy-emmanuel-guitar-lessons/fingestyle-breakthroughs/house-of-the-rising-sun-performance/v34235
+  - Backing track: https://youtu.be/Nngof8rMs68
 
 ## <i>I Don't Want to Talk About It</i> by Rod Stewart
   - plan for fingerstyle single guitar
