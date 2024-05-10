@@ -14,6 +14,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Tommy Emanuel tutorial and tabs: https://truefire.com/tommy-emmanuel-guitar-lessons/fingestyle-breakthroughs/house-of-the-rising-sun-performance/v34235
   - Backing track: https://youtu.be/Nngof8rMs68
   - Improvisation tutorial by Stefac Schyga: https://youtu.be/aVt3C3WpctM
+  - Another backing track: https://youtu.be/z7-KJQLHQDE
 
 ## <i>I Don't Want to Talk About It</i> by Rod Stewart
   - plan for fingerstyle single guitar
