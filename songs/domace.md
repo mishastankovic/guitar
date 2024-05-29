@@ -72,7 +72,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - video akordinacija: https://www.youtube.com/watch?v=naR8Eg8DMdM&ab_channel=AkOrdinacija
 - video denis kozlica: https://youtu.be/3pO5_mQAumw
 ### Tabs
-- tabs songsterr: https://www.songsterr.com/a/wsa/bijelo-dugme-uspavanka-za-radmilu-m-tab-s26723
+- tabs songsterr melodija: https://www.songsterr.com/a/wsa/bijelo-dugme-uspavanka-za-radmilu-m-tab-s26723
+- tabs songsterr pratnja: https://www.songsterr.com/a/wsa/bijelo-dugme-uspavanka-za-radmilu-m-tab-s26723t1
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/uspavanka-za-radmilu-m-tabs-1001129
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/uspavanka-za-radmilu-m-guitar-pro-465020
 - chords: https://chordu.com/chords-tabs-stefanovski-uspavanka-za-radmilu-m-live-in-baska-2019-id_vjJ8lpqJLZI
