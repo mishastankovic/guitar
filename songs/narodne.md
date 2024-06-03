@@ -71,3 +71,26 @@
 
 <br/>
 
+
+## Kafana na Balkanu - Aca Lukas
+
+### Videos
+- Original Aca Lukas  https://www.youtube.com/watch?v=kmg-tnQBopE
+- Sa tekstom https://www.youtube.com/watch?v=IXoCwT6N4qc
+
+### Tabs
+- akordi i tekst in Hm: http://www.pesmarica.rs/Akordi/5788/Aca-Lukas--Kafana-na-balkanu
+- akordi: https://chordify.net/chords/aca-lukas-songs/kafana-na-balkanu-chords
+
+<br/>
+
+## Pesme moje - Toma Zdravkovic
+
+### Videos
+- Original Toma Zdravkovic https://www.youtube.com/watch?v=cwksLpCswR0
+- Sa tekstom karaoke https://www.youtube.com/watch?v=U9IxPMOiNbU
+
+### Tabs
+- akordi i tekst in Em: http://www.pesmarica.rs/Akordi/2032/Toma-Zdravkovi%C4%87--Pesme-Moje
+- akordi: https://tabs.ultimate-guitar.com/tab/misc-unsigned-bands/toma-zdravkovic-pesme-moje-chords-1421911
+
