@@ -12,7 +12,7 @@
 - vlatko stefanovski live: https://youtu.be/olfohVvMROM
 
 ### Tabs
-- ultimate guitar: https://youtu.be/grSWdLdp7po
+- ultimate guitar: https://tabs.ultimate-guitar.com/tab/leb-i-sol/bistra-voda-tabs-1394579
 - songsterr: https://www.songsterr.com/a/wsa/leb-i-sol-bistra-voda-tab-s41399
 
 <br/>
