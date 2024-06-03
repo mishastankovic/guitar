@@ -17,6 +17,17 @@
 
 <br/>
 
+## Čuvam noć od budnih
+
+### Videos
+- vlatko stefanovski live acoustic guitar: https://youtu.be/iaeinln1ooM
+- acoustic guitar cover: https://youtu.be/fyJIAHs5Ifs
+- yesiloveguitar cover and tabs: https://youtu.be/plx_y_nLV0c
+
+### Tabs
+- akordi i tekst - pesmarica: http://www.pesmarica.rs/Akordi/1120/Leb-i-Sol--Čuvam-noć-od-budnih
+- 
+
 # Bajaga
 
 ## Tišina
