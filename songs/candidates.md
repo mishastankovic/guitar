@@ -6,6 +6,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - key a minor, parallel major C
   - start with backing track
   - example by Naudo: https://www.youtube.com/watch?v=4P4mEeGuw3U
+  - Justin Johnson fingerstyle cover: https://youtu.be/8D-mMQr3kJ0
   - fingerstyle cover: https://youtu.be/Rwa8vYxp_Bc
   - Igor Presnyakov cover: https://youtu.be/7bPmyHD0oRg
   - Travis picking tutorial by All Guitars: https://youtu.be/DMPHU2PV36k
