@@ -24,6 +24,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - DenFingerstyle cover: https://youtu.be/CNYN8oHg9Dg
   - X-Steller guitar fingerstyle cover: https://youtu.be/l68uuYwXbso
   - Ricardo Pacha finterstyle cover: https://youtu.be/3wXOfduNn98
+  - tabs: https://www.myguitarsongbook.ca/songs/song_detail.asp?id=257
   - chords and lyrics in B-flat major: https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
 ## <i>Perfect</i> by Ed Sheran
