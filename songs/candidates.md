@@ -63,7 +63,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 ## <i>Ain't No Sunshine</i> by Bill Withers
   - Fingerstyle
-  - key a-mainor
+  - key a-minor
   - example fingerstyle cover: https://youtu.be/VADiIqcxmtg
   - Guitar Logic finterstyle cover: https://youtu.be/bkVDdn5FjiM
   - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
@@ -90,7 +90,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Fingerstyle cover Melania Goertz: https://youtu.be/_QnS1QLZw9o
   - fingerstyle cover by Kelly Valeau: https://youtu.be/to4oIliDaGY
 
-## Classical Gas
+## <i>Classical Gas</i>
   - single guitar fingerstyle
   - key E-major, parrelel minor c-sharp-minor
   - Tommy Emanuel: https://youtu.be/S33tWZqXhnk
@@ -101,24 +101,24 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Tutorial / cover by Tim Van Roy: https://youtu.be/Y2_GvbZdcWQ
   - Tutorial for Tommy Emanuel version intro: https://youtu.be/HcJcDjInc-E
 
-## Oceans
+## <i>Oceans</i>
   - key b minor, parallel major D
   - chords and lyrics: https://www.worshiptogether.com/songs/oceans-where-feet-may-fail-united/
   - Luca Silva / Liv Harland live; https://www.youtube.com/watch?v=tOZ0Tlyl_3s
 
-## Windy ad Warm by John Loudermilk
+## <i>Windy ad Warm by John Loudermilk</i>
   - Tommy Emanuel video: https://www.youtube.com/watch?v=HO_KvavFEhA&t=3s
   - Tutorial with tabs: https://youtu.be/74m0rG33GEg
   - Camilo James cover with tabs: https://youtu.be/VdAIiWXtTb4
   - Tabs Tommy Emanuel version PDF: https://tommyemmanuel.files.wordpress.com/2007/09/tommy-emmanuel-windy-and-warm.pdf
 
-## Serenade by Saro Tribastone
+## <i>Serenade by Saro Tribastone</i>
   - key b-minor
   - single guitar, could be played with two guitars as well
   - Audio: https://www.youtube.com/watch?v=zNtHUZxNxRI
   - Chords: https://chordify.net/chords/serenade-saro-tribastone-topic
 
-## Gnosienne No 1
+## <i>Gnosienne No 1</i>
   - Songsterr tabs: https://www.songsterr.com/a/wsa/erik-satie-gnossienne-no-1-tab-s17767
   - Music sheet and tabs: https://www.classicalguitarshed.com/wp-content/uploads/2018/11/AAA-Satie-Gnossienne_-No_1-ClassicalGuitarShed.pdf?_gl=1*1xdrwjt*_ga*MjAyODY0NTA2My4xNzE0NTY4MTg2*_ga_44KL7RQLZ2*MTcxNDU2ODE4Ni4xLjAuMTcxNDU2ODE4Ni4wLjAuMA..
   - Music sheet, tabs and audio on youtube: https://youtu.be/ljOzEMKfjTw
