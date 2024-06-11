@@ -124,4 +124,9 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Music sheet, tabs and audio on youtube: https://youtu.be/ljOzEMKfjTw
   - One of many video performances: https://youtu.be/75GAmvrhcMM
 
+## <i>Evel Ways</i> by Stantana
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/santana/evil-ways-chords-852821
+  - video cover: https://youtu.be/UhJdONqQhuc
+
+
     
