@@ -125,6 +125,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - One of many video performances: https://youtu.be/75GAmvrhcMM
 
 ## <i>Evel Ways</i> by Stantana
+  - Joe Robinson cover: https://youtu.be/dVcKBirGCok
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/santana/evil-ways-chords-852821
   - video cover: https://youtu.be/UhJdONqQhuc
 
