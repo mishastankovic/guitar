@@ -31,7 +31,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - tabs chords and solo: https://www.guitartabsexplorer.com/clapton-eric-Tabs/layla-acoustic-tab.php
 
 # Stand by me by Ben King
-- Original key [A major](https://www.guitarscale.org/a-major.html), parallel minor [e](https://www.guitarscale.org/b-minor.html)
+- Original key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 - Tracy Chapman version key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 ### Video
 - video Tracy Chapman live: https://youtu.be/8XL6C3vY0jM
