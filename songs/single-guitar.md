@@ -1,4 +1,6 @@
 Chords: https://gtrlib.com/chords/c-sharp-diminished
+Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
+Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 
 # Samba Pa Ti by Carlos Stantana
