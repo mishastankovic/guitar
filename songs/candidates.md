@@ -46,6 +46,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 ## <i>Black Magic Woman</i> by Santana
   - plan for solo only with backing track
+  - solo tutorial electric guitar: https://youtu.be/xAXJPPylnkM
 
 ## <i>I Don't Know Why I Didn't Come</i> by Nora Jones, Jesse Harris
   - fingerstyle single guitar
