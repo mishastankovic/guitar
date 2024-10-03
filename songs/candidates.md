@@ -131,5 +131,10 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/santana/evil-ways-chords-852821
   - video cover: https://youtu.be/UhJdONqQhuc
 
+## Sultans of Swing by Dire Straits
+  - Ismael cover: https://youtu.be/ikUBr-7svb4
+  - Shut Up & Play Tutorial: https://youtu.be/PpnrD8-GZkg
+  - Two guitars cover by Marko Karhu: https://youtu.be/BUAICkOSry8
+
 
     
