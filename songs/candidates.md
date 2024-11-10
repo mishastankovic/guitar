@@ -139,6 +139,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 ## When a blind man cries by Deep Durple
   - key b-minor, parralel major D
   - Chords and lyrics: http://www.pesmarica.rs/Akordi/6595/Deep-Purple--When-a-blind-man-cries
+  - Tabs: https://www.songsterr.com/a/wsa/deep-purple-when-a-blind-man-cries-tab-s29188
   - Tutorial solo: https://www.youtube.com/watch?v=_It8ZyZ16SI
   - guitar cover: https://www.youtube.com/watch?v=4j5TvN5Gy4I
 
