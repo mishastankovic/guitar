@@ -136,7 +136,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Shut Up & Play Tutorial: https://youtu.be/PpnrD8-GZkg
   - Two guitars cover by Marko Karhu: https://youtu.be/BUAICkOSry8
 
-## When a bling man cries by Deep Durple
+## When a blind man cries by Deep Durple
   - key b-minor, parralel major D
   - Chords and lyrics: http://www.pesmarica.rs/Akordi/6595/Deep-Purple--When-a-blind-man-cries
   - Tutorial solo: https://www.youtube.com/watch?v=_It8ZyZ16SI
