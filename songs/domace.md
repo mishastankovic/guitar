@@ -98,6 +98,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - video: https://youtu.be/nvGEGROQcPU
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/sta-bi-dao-da-si-na-mom-mjestu-guitar-pro-414588
+- songsterr: https://www.songsterr.com/a/wsa/bijelo-dugme-sta-bi-dao-da-si-na-mom-mjestu-tab-s26728
+- tabs: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=72
 
 
 ## Djurdjevdan
