@@ -54,7 +54,6 @@ Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e minor
 - video tutorial 2: https://youtu.be/ocP_LPeex0Q
 - Jacques Stotzem fingerstyle cover: https://youtu.be/cMGwomp6oKM
 - acoustic guitar cover: https://youtu.be/x-UZq57HJzM
-- acoutstic guitar tutorial: https://youtu.be/ocP_LPeex0Q
 - solo tutorial electrical guitar: https://youtu.be/Nxh1yB-uCtI
 - solo on acoustic guitar: https://youtu.be/JM9jJhm2hfw
 - fingers tyle: https://youtu.be/N1dX-38ySLw
