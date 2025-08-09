@@ -71,18 +71,6 @@
 - Songsterr solo tabs: https://www.songsterr.com/a/wsa/carlos-santana-samba-pa-ti-tab-s17329
 ### Backing tracks
 - backing track: https://youtu.be/gO229rQDpqY
-## Single guitar
-### Video
-- video single guitar: https://youtu.be/b3YRgaXJL0Y
-- video single guitar: https://youtu.be/H7wunS9vGWg
-- video single guitar: https://youtu.be/IiVssLIvW1k
-- video single guitar: https://youtu.be/ptUtVMAXyUc
-- video tutorial single guitar: https://www.youtube.com/watch?v=FfIP6KmTgIw&ab_channel=CharlieKager
-- classical guitar videos: https://www.classical-guitar-music.com/guitar-solo/modern/samba-pa-ti-santana-for-classical-guitar/
-- classical guitar video; https://youtu.be/k8_2E6EXwvQ
-### Tabs
-- acoustic arrangement tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359
-- classical guitar tabs: https://www.guitarnick.com/samba-pa-ti-santana-acoustic-guitar-tab.html
 
 # Tears in heaven by Eric Clapton
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
