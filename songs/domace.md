@@ -221,6 +221,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - yesiloveguitar: https://youtu.be/J2bhC1Z5DFw
 
 <br/>
+
 ## Kad Hodaš
 
 ### Tabs
