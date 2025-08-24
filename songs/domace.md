@@ -274,6 +274,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Tabs
 - akordi i tekst: http://www.pesmarica.rs/Akordi/8371/Time--Pjesma-No3
 
+## Da li znaš da te volim
+
+### Tabs
+- akordi i tekst http://www.pesmarica.rs/Akordi/355/Dado-Topi%C4%87--Da-Li-Zna%C5%A1-Da-Te-Volim
 
 <br/>
 
