@@ -276,4 +276,15 @@ Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [d#](htt
 - chords on chordify: https://chordify.net/chords/al-dino-i-sad-me-po-tebi-poznaju-audio-2008-grandmusicofficial
 - chords in a-minor: https://tabs.ultimate-guitar.com/tab/al-dino/i-sad-me-po-tebi-poznaju-chords-2594724
 
+# Love and Affection by Joan Armatrading
+
+Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
+
+### Tabs
+- Ultimate Guitar - https://tabs.ultimate-guitar.com/tab/joan-armatrading/love-and-affection-tabs-921846
+
+### Videos
+- Lesson https://www.youtube.com/watch?v=q_7mAF1tDVE
+- Joan Armatrading live performance: https://www.youtube.com/watch?v=4tMlwvJi6n0&list=RD4tMlwvJi6n0&start_radio=1
+
 
