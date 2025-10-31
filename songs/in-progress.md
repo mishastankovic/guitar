@@ -286,5 +286,6 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 ### Videos
 - Lesson https://www.youtube.com/watch?v=q_7mAF1tDVE
 - Joan Armatrading live performance: https://www.youtube.com/watch?v=4tMlwvJi6n0&list=RD4tMlwvJi6n0&start_radio=1
+- Joan Armatrading solo cover: https://youtu.be/Mhcl__CTOTI
 
 
