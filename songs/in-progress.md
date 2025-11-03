@@ -140,7 +140,7 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 - soren madsen classical guitar: https://youtu.be/5R_PUIWCi-w
 
 # Brothers in Arms by Dire Straits
-Key [G sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [b major](https://www.guitarscale.org/b-major.html)
+Key [g sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [B major](https://www.guitarscale.org/b-major.html)
 
 ### Tabs
 - Ultimate guirar: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-tabs-1706644
