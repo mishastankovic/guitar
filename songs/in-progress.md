@@ -139,6 +139,20 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 - yoni schlesinger classical guitar in d major: https://youtu.be/zufyFP-PjfY
 - soren madsen classical guitar: https://youtu.be/5R_PUIWCi-w
 
+# Brothers in Arms by Dire Straits
+Key [G sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [b major](https://www.guitarscale.org/b-major.html)
+
+### Tabs
+- Ultimate guirar: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-tabs-1706644
+- Songsterr tabs: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-tab-s5798
+- Songsterr for accoustic guitar: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-acoustic-tab-s59690
+
+### Videos
+- Two guitar accoustic guitar cover + voice: https://www.youtube.com/watch?v=Mmkju12aVEI
+- Single acoustic guitar with voice: https://www.youtube.com/watch?v=LBHYRs2-_O0
+
+
+
 
 # The Shadow of Your Smile by Johnny Mandel
 ### Video
