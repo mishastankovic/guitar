@@ -26,7 +26,8 @@
 
 ### Tabs
 - akordi i tekst - pesmarica: http://www.pesmarica.rs/Akordi/1120/Leb-i-Sol--Čuvam-noć-od-budnih
-- 
+
+  <br>
 
 # Bajaga
 
@@ -52,7 +53,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Akordi i tekst: https://www.2akordi.net/?a=uploads&t=v&id=090117101409
 
 ## Kad Hodaš
-Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f sharp minor](https://www.guitarscale.org/f-sharp--minor.html)
+Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html)
 
 ### Tabs
 - Chords and lyrics - https://tabs.ultimate-guitar.com/tab/950823
