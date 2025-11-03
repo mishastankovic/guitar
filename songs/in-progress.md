@@ -150,6 +150,7 @@ Key [G sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel ma
 ### Videos
 - Two guitar accoustic guitar cover + voice: https://www.youtube.com/watch?v=Mmkju12aVEI
 - Single acoustic guitar with voice: https://www.youtube.com/watch?v=LBHYRs2-_O0
+- Mark Knopfler live: https://www.youtube.com/watch?v=EMRJT2ebvAk&list=RDEMRJT2ebvAk&start_radio=1
 
 
 
