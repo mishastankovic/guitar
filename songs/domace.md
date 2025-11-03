@@ -50,6 +50,12 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 
 ### Tabs
 - Akordi i tekst: https://www.2akordi.net/?a=uploads&t=v&id=090117101409
+
+## Kad Hodaš
+Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f sharp minor](https://www.guitarscale.org/f-sharp--minor.html)
+
+### Tabs
+- Chords and lyrics - https://tabs.ultimate-guitar.com/tab/950823
   
 <br/>
 
@@ -211,6 +217,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 # Riblja Čorba
 
 ## Neke Su Žene Pratile Vojnike
+
+Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
 
 ### Tabs
 - tekst i akordi: https://2akordi.net/akordi.net?a=katalog&t=r&b=216&id=108
