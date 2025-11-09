@@ -152,6 +152,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 
 ### Tabs
 - akordi i tekst: [http://milanjovicovers.blogspot.com/2014/08/bijelo-dugme-da-te-bogdo-ne-volim.html](https://tabs.ultimate-guitar.com/tab/bijelo-dugme/da-te-bogdo-ne-volim-chords-1201710)
+- tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/da-te-bogdo-ne-volim-tabs-5222775
 - completan tab solo, akordi i teks; https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=14
 
   
