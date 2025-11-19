@@ -155,6 +155,17 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - tabs: https://tabs.ultimate-guitar.com/tab/bijelo-dugme/da-te-bogdo-ne-volim-tabs-5222775
 - completan tab solo, akordi i teks; https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=14
 
+
+## Ipak poželim neko pismo
+
+### Tabs
+- Tekst i akordi - 2akordi: https://2akordi.net/akordi.net?a=katalog&t=r&b=28&id=29
+- Tekst i akordi - Ultimate guitar: https://tabs.ultimate-guitar.com/tab/3293987
+
+### Videos
+- Tutorial: https://www.youtube.com/watch?v=P31Ovu56L2I
+- Bjelo dugme audio: https://www.youtube.com/watch?v=RiKaanWGgUI
+- Djusi Kovac cover: https://www.youtube.com/watch?v=M1gbfxuKnWw
   
 <br/>
 
