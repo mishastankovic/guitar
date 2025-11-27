@@ -224,6 +224,14 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Tabs
 - akordi i tekst Pemsarica: http://www.pesmarica.rs/Akordi/413/Đorđe-Balašević--Pesma-o-Jednom-Petlu
 - akordi i tekst Ultimate Guitar: https://tabs.ultimate-guitar.com/tab/2995430
+
+## Bezdan
+
+### Tabs
+- Tekst i akordi: https://2akordi.net/akordi.net?a=katalog&t=r&b=67&id=12
+
+### Videos
+- Guitar cover: https://www.youtube.com/watch?v=EOMpQPYKwNw
   
 <br/>
 
