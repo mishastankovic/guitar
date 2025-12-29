@@ -144,5 +144,11 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - guitar cover: https://www.youtube.com/watch?v=4j5TvN5Gy4I
 
 
+## Despacito by Luis Fonsi
+  - key b-minor
+  - Tutorial video: https://m.youtube.com/watch?v=ryuq1JcSaeY
+  - Another tutorial: https://m.youtube.com/watch?v=DOW--kK1gh4
+
+
 
     
