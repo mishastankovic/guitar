@@ -148,6 +148,7 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - key b-minor
   - Tutorial video: https://m.youtube.com/watch?v=ryuq1JcSaeY
   - Another tutorial: https://m.youtube.com/watch?v=DOW--kK1gh4
+  - Solo tabs: https://tabs.ultimate-guitar.com/tab/luis-fonsi/despacito-tabs-1987763
 
 
 
