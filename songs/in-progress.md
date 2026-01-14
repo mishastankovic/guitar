@@ -312,4 +312,18 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 ### Videos
 - LickNRiff fingerstyle video: https://m.youtube.com/watch?v=HtPUEZsm1R4
 
+# Angie by Rolling Stones
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
+
+### Videos
+- Nikola Gugoski - tutorial with tabs: https://www.youtube.com/watch?v=mYCaYlnSfJw
+- Zero2Hero cover with tabs: https://www.youtube.com/watch?v=7oqpJKjW7nE
+- Stephane Bernard finterstyle cover: https://www.youtube.com/watch?v=Oi_CR7KH8WI
+- Guitar Pilgram cover with chords: https://www.youtube.com/watch?v=IsDEveFxlv8
+- Shut Up and Play tutorial: https://www.youtube.com/watch?v=wS_i91qxQYM
+
+### Tabs
+- Ultimate guitar: https://tabs.ultimate-guitar.com/tab/the-rolling-stones/angie-tabs-271517
+- Songsterr tabs: https://www.songsterr.com/a/wsa/rolling-stones-angie-tab-s61
+- Lytics with chords and intro tabs: https://www.tabs4acoustic.com/en/guitar-tabs/the-rolling-stones-tabs/angie-acoustic-tab-15.html
 
