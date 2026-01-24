@@ -1,3 +1,4 @@
+# Fingerstyle solo
 - LickNRiff: https://www.youtube.com/watch?v=VIDKfJGnj1s
 - 6 solos fingerstyle: https://www.youtube.com/watch?v=126AboM860s
 - Fingerstyle blues solo: https://www.youtube.com/watch?v=xB_rlK0BM-U
