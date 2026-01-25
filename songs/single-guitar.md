@@ -67,4 +67,10 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 ### Tabs
 - tabs and lyrics on ultimate guitar: https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-tabs-2540916
 
+# Sleep Walk
+### Video
+
+### Tabs
+- https://musescore.com/user/28322913/scores/6282421
+
 
