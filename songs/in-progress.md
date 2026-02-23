@@ -327,3 +327,12 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Songsterr tabs: https://www.songsterr.com/a/wsa/rolling-stones-angie-tab-s61
 - Lytics with chords and intro tabs: https://www.tabs4acoustic.com/en/guitar-tabs/the-rolling-stones-tabs/angie-acoustic-tab-15.html
 
+# Diamonds and Rust by Joan Baez
+
+### Videos
+- Joan Baez: https://www.youtube.com/watch?v=PXP1m0Y78WU
+- Tutorial : https://www.youtube.com/watch?v=FMQdb-34PfI
+
+### Tabs
+- Chords and lyrics: https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-chords-1044414
+
