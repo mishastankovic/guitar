@@ -334,5 +334,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Tutorial : https://www.youtube.com/watch?v=FMQdb-34PfI
 
 ### Tabs
-- Chords and lyrics: https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-chords-1044414
+- Utimate guitar tabs: https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-tabs-61553
+- Ultimate guitare chords and lyrics: https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-chords-1044414
 
