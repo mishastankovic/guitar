@@ -299,6 +299,7 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 ### Videos
 - Original Time audio: https://www.youtube.com/watch?v=0lDMDetUf90
 - Time ultimate audio: https://www.youtube.com/watch?v=06K1Y6NjJ34
+- Electric guitar cover: https://m.youtube.com/watch?v=qmLxCeyBFyk
 
 ### Tabs
 - akordi i tekst: http://www.pesmarica.rs/Akordi/8371/Time--Pjesma-No3
