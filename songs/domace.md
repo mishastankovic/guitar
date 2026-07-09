@@ -331,4 +331,16 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 ### Video
 - yesiloveguitar instrumental cover 2 guitars: https://youtu.be/2ajO1SeGc-w
 
+# Piloti
+
+##  Kao ptica na mom dlanu
+
+### Tabs
+
+- akordi i tekst: https://tabs.ultimate-guitar.com/tab/piloti/kao-ptica-na-mom-dlanu-chords-1074272
+
+### Video
+
+- Piloti audio: https://m.youtube.com/watch?v=1n8QbTlULkI
+
 
