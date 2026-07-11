@@ -343,4 +343,12 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 
 - Piloti audio: https://m.youtube.com/watch?v=1n8QbTlULkI
 
+## Leto
+
+### Tabs
+
+- akordi i tekst: https://www.pesmarica.rs/akordi/842/Piloti--Leto
+
+### Video
+
 
