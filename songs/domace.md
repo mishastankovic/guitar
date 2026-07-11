@@ -348,7 +348,10 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 ### Tabs
 
 - akordi i tekst: https://www.pesmarica.rs/akordi/842/Piloti--Leto
+- https://www.pesmarica.rs/akordi/842/Piloti--Leto
 
 ### Video
+
+- idoli koncert: https://m.youtube.com/watch?v=p2GwoAZ-2YM
 
 
