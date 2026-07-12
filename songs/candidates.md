@@ -150,6 +150,12 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - Another tutorial: https://m.youtube.com/watch?v=DOW--kK1gh4
   - Solo tabs: https://tabs.ultimate-guitar.com/tab/luis-fonsi/despacito-tabs-1987763
 
+## Vincent by Don McLean
+
+  - key G major
+  - Fingerstyle by Melanie Goetz: https://m.youtube.com/watch?v=RzVBorugHd0&ra=m
+  - songsterr tabs: https://m.youtube.com/watch?v=RzVBorugHd0&ra=m
+
 
 
     
