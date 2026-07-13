@@ -154,7 +154,8 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 
   - key G major
   - Fingerstyle by Melanie Goetz: https://m.youtube.com/watch?v=RzVBorugHd0&ra=m
-  - songsterr tabs: https://m.youtube.com/watch?v=RzVBorugHd0&ra=m
+  - songsterr tabs: https://www.songsterr.com/a/wsa/don-mclean-vincent-tab-s33393
+  - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/don-mclean/vincent-tabs-139225
 
 
 
