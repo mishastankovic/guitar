@@ -305,7 +305,7 @@ key f# minor
 - Parni Valjak live: https://m.youtube.com/watch?v=PSQzoY2UE2Y&list=RDPSQzoY2UE2Y&start_radio=1&pp=oAcB&ra=m
 
 ### Tabs
-- 
+- akordi i tekst: https://tacnaharmonija.rs/parni_valjak/dodji_1/
 
 <br/>
 
