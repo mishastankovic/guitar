@@ -287,8 +287,25 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 - tab solo: https://www.songsterr.com/a/wsa/parni-valjak-sve-jos-mirise-na-nju-1-solo-tab-s389647
 
 ## Moja je pjesma lagana
+key f# minor
+
+### Video
+- Parni Valjak video: https://www.zabrenkaj.si/moja-je-pjesma-lagana-parni-valjak
+
+### Tabs
+- akordi i tekst: https://www.zabrenkaj.si/moja-je-pjesma-lagana-parni-valjak
+- akordi i tabs: https://www.pesmarica.rs/akordi/161/Parni-Valjak--Moja-Je-Pjesma-Lagana
+- songsterr tabs: https://www.songsterr.com/a/wsa/parni-valjak-moja-je-pjesma-lagana-tab-s1130953
 
 ## Jesen u meni
+
+## Dodji
+
+### Video
+- Parni Valjak live: https://m.youtube.com/watch?v=PSQzoY2UE2Y&list=RDPSQzoY2UE2Y&start_radio=1&pp=oAcB&ra=m
+
+### Tabs
+- 
 
 <br/>
 
