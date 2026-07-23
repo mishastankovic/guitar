@@ -319,7 +319,7 @@ key f# minor
 - Electric guitar cover: https://m.youtube.com/watch?v=qmLxCeyBFyk
 
 ### Tabs
-- akordi i tekst: http://www.pesmarica.rs/Akordi/8371/Time--Pjesma-No3
+- akordi i tekst: https://2akordi.net/akordi.net?a=katalog&t=r&b=49&id=12
 
 ## Da li znaš da te volim
 
