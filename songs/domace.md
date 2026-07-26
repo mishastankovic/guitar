@@ -262,8 +262,8 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 - tekst i akordi: http://www.pesmarica.rs/Akordi/1645/Bajaga--Kad-hodaš
 
 ### Videos
-- Bajaka, Bora uživoČ https://youtu.be/ZJCpZ5ceVCw
-- Bajaga audio sa albumaČ https://youtu.be/AKJTrGjfJZs
+- Bajaga, Bora uživo: https://youtu.be/ZJCpZ5ceVCw
+- Bajaga audio sa albuma: https://youtu.be/AKJTrGjfJZs
 
 # Galija
 
