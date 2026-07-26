@@ -231,7 +231,9 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - Tekst i akordi: https://2akordi.net/akordi.net?a=katalog&t=r&b=67&id=12
 
 ### Videos
+- Djordje Balasevic audio: https://m.youtube.com/watch?v=ImaVn--mFXA
 - Guitar cover: https://www.youtube.com/watch?v=EOMpQPYKwNw
+- Instrumental cover: https://m.youtube.com/watch?v=DIc71ju5_jc
   
 <br/>
 
@@ -248,6 +250,7 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 
 - Riblja Čorba official: https://youtu.be/ZBZ3oY8rjdY
 - yesiloveguitar: https://youtu.be/J2bhC1Z5DFw
+- cover sa pevanjem: https://m.youtube.com/watch?v=kziq4323K6k
 
 <br/>
 
