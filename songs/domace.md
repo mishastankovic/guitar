@@ -374,4 +374,11 @@ key f# minor
 
 - idoli koncert: https://m.youtube.com/watch?v=p2GwoAZ-2YM
 
+# Oliver Dragojević
+
+## Galeb i ja
+
+### Tabs
+- https://tabs.ultimate-guitar.com/tab/1941307
+
 
