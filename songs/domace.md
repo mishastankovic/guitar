@@ -368,7 +368,6 @@ key f# minor
 ### Tabs
 
 - akordi i tekst: https://www.pesmarica.rs/akordi/842/Piloti--Leto
-- https://www.pesmarica.rs/akordi/842/Piloti--Leto
 
 ### Video
 
