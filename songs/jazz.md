@@ -53,21 +53,21 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - jazz tabs PDF: https://www.guitarjazztabs.com/Stardust/Stardust.pdf
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/nat-king-cole/stardust-chords-1481820
 
-## All of me
+## <i>All of me</i>
 ### Video
 - video cover: https://youtu.be/1EMLmzMQuIo
 - vide tutorial and tabs: https://www.jazzguitar.be/blog/all-of-me/
 ### Tabs
 - https://www.guitarjazztabs.com/All%20of%20Me.pdf
 
-## Autumn leaves
+## <i>Autumn leaves</i>
 ### Tabs
 - Key [e minor](https://www.guitarscale.org/e-minor.html)
 - chrds and solo study: https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
 - chords with French lyrics: https://www.e-chords.com/chords/jacques-brel/les-feuilles-mortes
 
 
-## I Don't Know Why I Didn't Come by Nora Jones, Jesse Harris
+## <i>I Don't Know Why I Didn't Come</i> by Nora Jones, Jesse Harris
   - fingerstyle single guitar
   - key b-flat minor, parallel major D-major
   - example cover: https://youtu.be/LDEy7wSlweI
