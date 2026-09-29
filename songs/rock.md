@@ -409,6 +409,17 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 #### Video
 - guitar cover: https://youtu.be/U6FSLtHhxpg
 
+### Knock on Heaven's Door by Bob Dylan
+#### Tabs
+- Guns and Roses tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
+- Bob Dylan chords and lyrics: https://tabs.ultimate-guitar.com/tab/bob-dylan/knockin-on-heavens-door-chords-66587
+#### Videos
+- LickNRiff fingerstyle video: https://m.youtube.com/watch?v=HtPUEZsm1R4
+
+# Rolling Stones
+### Angie
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
+
 # Neil Young
 ### Down by the river
 #### Video
