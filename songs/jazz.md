@@ -41,7 +41,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - guitar backing track: https://youtu.be/P2KuJCZuEso
 - piano backing track: https://youtu.be/pm1oeUqzsog
 
-# Pink Panther
+## Pink Panther
 ### Video
 - Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
 
