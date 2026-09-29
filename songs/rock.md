@@ -289,6 +289,12 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - tabs: https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-tabs-179799
 
 
+# Mango Jerry
+### In the Summertime
+#### Video
+- Mango Jerry tutorial: https://youtu.be/um-xl9EVqvs
+- Fingerstyle cover:v https://youtu.be/Qywk2faCJpc
+
 # Hooverphonic
 ### Mad About You 
 #### Video
