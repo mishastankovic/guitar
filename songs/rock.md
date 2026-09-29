@@ -27,6 +27,21 @@
 - video Mark Knopfler: https://youtu.be/Y0oeqL2uvFA
 #### Tabs
 - tabs: https://youtu.be/Y0oeqL2uvFA
-- tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558 
+- tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
+
+
+# Van Morison
+
+### Moondance 
+- Key [a minor](https://www.guitarscale.org/a-minor.html)
+### Video
+- video multi guitar: https://youtu.be/kfwhxSV_H3U
+- video van morison with chords: https://youtu.be/UpWGmaTKHXs
+- video guitar duet: https://www.facebook.com/watch/?v=387648762203408
+### Tabs
+- tabs: https://www.songsterr.com/a/wsa/van-morrison-moondance-tab-s12585t0
+- chords: https://www.chords-and-tabs.net/song/name/van-morrison-moondance-10
+### Backing tracks
+- backing track: https://youtu.be/mEet_EQQ0R4
 - soren madsen classival guitar: https://youtu.be/3_Crr78eI54
 
