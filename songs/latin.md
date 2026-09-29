@@ -54,3 +54,10 @@
 - video with chords g-minor: https://youtu.be/TLeN4opl5Ng
 - video: https://youtu.be/vGUNiwOZFIU
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
+
+
+### Despacito by Luis Fonsi
+  - key b-minor
+  - Tutorial video: https://m.youtube.com/watch?v=ryuq1JcSaeY
+  - Another tutorial: https://m.youtube.com/watch?v=DOW--kK1gh4
+  - Solo tabs: https://tabs.ultimate-guitar.com/tab/luis-fonsi/despacito-tabs-1987763
