@@ -287,9 +287,18 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 # Bill Withers
 ### Ain't no sunshine
-#### Video
-- tutorial video: https://youtu.be/DngT6PiTNvk
-- guitar cover: https://youtu.be/Pef1iUYBc-Y
+  - Fingerstyle
+  - key a-minor
+  - example fingerstyle cover: https://youtu.be/VADiIqcxmtg
+  - Guitar Logic finterstyle cover: https://youtu.be/bkVDdn5FjiM
+  - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-chords-468744
+  - songsterr tabs eva cassidy: https://www.songsterr.com/a/wsa/eva-cassidy-aint-no-sunshine-tab-s4181
+  - another fingerstyle video and tab: https://www.rynaylorguitar.com/guitar-lesson/aint-no-sunshine-bill-withers
+  - fingerstyle cover by Adam Rafferty: https://youtu.be/OLF7-Ui94AI
+  - fingerstyle cover by Igor Presnyakov: https://youtu.be/d_dt2ZsCU9U
+  - DocHolloway fingerstyle: https://youtu.be/BQ964kjGKS8
+  - Daryl Shawn fingerstyle cover: https://youtu.be/m0oNII8YVzk
 
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
@@ -375,6 +384,13 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Tabs
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/hooverphonic/mad-about-you-chords-2480901
 
+
+# 10cc
+### <i>I'm Not in Love</i>
+  - strumming, vocal single guitar
+  - key E-major, parallel minor c-sharp minor
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/10cc/im-not-in-love-chords-1774226
+  - video tutorial with chord diagrms: https://youtu.be/ohKfQDicQnw
 	
 # Kansas
 ### Dust in the wind
