@@ -309,7 +309,12 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-tabs-179799
 
+# Eagles
+### Hotel California
+#### Video
+- video: https://youtu.be/1opgh7ky2nU
 
+- 
 # Mango Jerry
 ### In the Summertime
 #### Video
