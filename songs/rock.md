@@ -144,7 +144,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - tabs songster solo and chords: https://www.songsterr.com/a/wsa/eric-clapton-layla-acoustic-tab-s23702
 - tabs chords and solo: https://www.guitartabsexplorer.com/clapton-eric-Tabs/layla-acoustic-tab.php
 
-### Wonderful Tonight by Eric Clapton
+### Wonderful Tonight
   - plan for two guitars
   - key G-major, parallel minor e-minor
   - example cover by Naudo: https://youtu.be/XmfqpQk9ok8
@@ -153,6 +153,24 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
   - Finderstyle single guitar: https://youtu.be/TovZA09hryE
   - Fingerstyle tabs single guitar; https://www.songsterr.com/a/wsa/daria-semikina-eric-clapton-wonderful-tonight-fingerstyle-tab-s396809
   - Fingerstyle cover by Gareth Evans: https://youtu.be/0ZIqdiHlEdw
+
+# Jimy Hendrix
+### Hey Joe
+Key [E major](https://www.guitarscale.org/e-major.html)
+### Tabs
+- chords: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-chords-667667
+- tabs 1: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-acoustic-tab-s391428
+- tabs 2: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-tabs-179233
+- solo songsterr: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-for-beginner-tab-s439161t2
+- songterr full band including guitar solo: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-tab-s22556
+### Video
+- video tutorial 1: https://youtu.be/lLKL-nv0ut0
+- video tutorial 2: https://youtu.be/ocP_LPeex0Q
+- Jacques Stotzem fingerstyle cover: https://youtu.be/cMGwomp6oKM
+- acoustic guitar cover: https://youtu.be/x-UZq57HJzM
+- solo tutorial electrical guitar: https://youtu.be/Nxh1yB-uCtI
+- solo on acoustic guitar: https://youtu.be/JM9jJhm2hfw
+- fingers tyle: https://youtu.be/N1dX-38ySLw
 
 #  Pink Floyd   
 ### Wish you were here
