@@ -20,3 +20,12 @@
 # Pink Panther
 ### Video
 - Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
+
+# Stardust
+### Video
+- video guitar duet: https://youtu.be/2XTuF0pokYI
+- video single guitar: https://www.youtube.com/watch?v=NJy03cJnfmc&ab_channel=Ma-toshi
+
+### Tabs
+- jazz tabs PDF: https://www.guitarjazztabs.com/Stardust/Stardust.pdf
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/nat-king-cole/stardust-chords-1481820
