@@ -99,3 +99,18 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 - Turoial for acoustic guitar: https://www.youtube.com/watch?v=27YjXAd9iMA
 - Another single guitar cover with vovals: https://youtu.be/6KkseRXxQFk
 - Cover Juliya Liyer and Constantine Kessove: https://youtu.be/Z9xhg20Rmgg
+
+## The Shadow of Your Smile by Johnny Mandel
+#### Video
+- Fingerstyle tabs on video: https://youtu.be/C5bcpVaGWOM
+- Two guitars tutorial: https://youtu.be/SDzEzEwlFZs
+- Figerstyle cover: https://youtu.be/aqQobELO6N8
+- Another fingerstyle cover: https://www.youtube.com/watch?v=o49WfGi_qd0&ab_channel=tonyrowden
+- chords Tonny Bennett: https://www.e-chords.com/chords/tony-bennett/the-shadow-of-your-smile
+
+#### Tabs
+- https://www.popguitartabs.com/fingerstyle-guitar-tabs/shadow-of-your-smile-guitar-tabs/
+- https://musescore.com/user/29895931/scores/6905235
+
+#### Backing tracks
+- piano, base: https://youtu.be/n1OUpZSDzuI
