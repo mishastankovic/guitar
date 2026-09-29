@@ -16,3 +16,7 @@
 ### Backing tracks
 - guitar backing track: https://youtu.be/P2KuJCZuEso
 - piano backing track: https://youtu.be/pm1oeUqzsog
+
+# Pink Panther
+### Video
+- Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
