@@ -438,3 +438,10 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - key b minor, parallel major D
   - chords and lyrics: https://www.worshiptogether.com/songs/oceans-where-feet-may-fail-united/
   - Luca Silva / Liv Harland live; https://www.youtube.com/watch?v=tOZ0Tlyl_3s
+
+# Don McLean
+### <i>Vincent</i>
+  - key G major
+  - Fingerstyle by Melanie Goetz: https://m.youtube.com/watch?v=RzVBorugHd0&ra=m
+  - songsterr tabs: https://www.songsterr.com/a/wsa/don-mclean-vincent-tab-s33393
+  - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/don-mclean/vincent-tabs-139225
