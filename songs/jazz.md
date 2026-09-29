@@ -75,6 +75,12 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
   - tutorial bt shut up and play: https://youtu.be/LuzBhfTofeQ
   - tabs: https://tabs.ultimate-guitar.com/tab/norah-jones/dont-know-why-chords-57811
 
+## <i>Windy ad Warm</i> by John Loudermilk
+  - Tommy Emanuel video: https://www.youtube.com/watch?v=HO_KvavFEhA&t=3s
+  - Tutorial with tabs: https://youtu.be/74m0rG33GEg
+  - Camilo James cover with tabs: https://youtu.be/VdAIiWXtTb4
+  - Tabs Tommy Emanuel version PDF: https://tommyemmanuel.files.wordpress.com/2007/09/tommy-emmanuel-windy-and-warm.pdf
+
 
 ## <i>Feelings</i> by Morris Albert 
   - Fingerstyle or strumming / voice
