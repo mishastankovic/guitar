@@ -17,7 +17,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Tabs
 - single guitar tabs: https://www.guitartabsexplorer.com/gershwin-george-Tabs/summertime-acoustic-tab.php
 - chords: https://tabs.ultimate-guitar.com/tab/george-gershwin/summertime-chords-1053545
-## Fingersylt guitar cover
+### Fingersylt guitar cover
 ### Video
 - https://youtu.be/8kzW_K9R10Q
 - https://youtu.be/bt8DuZFDkEU
