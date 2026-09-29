@@ -2,19 +2,19 @@
 
 ## Private investigations
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
-### Video
+#### Video
 - Dire Straits concert: https://youtu.be/Rhs0AYQJbX4
 - video fingerstyle: https://youtu.be/y7LjyMqcGJ4
 - video aleksandar obradovic: https://youtu.be/j_ooismoNsk
 - video two guitars with vocals: https://youtu.be/DokTPxlx4bg
 - video two guitars with vocals: https://youtu.be/DGusmSfyQ9M
 - single guitar fingerstyle instrumental - yoni schlesinger: https://youtu.be/nugiQG03lN8
-### Tabs
+#### Tabs
 - tabs solo: https://tabs.ultimate-guitar.com/tab/dire-straits/private-investigations-tabs-15436
 - tabs solo: https://www.songsterr.com/a/wsa/dire-straits-private-investigations-tab-s30091
 - tabs for two guitars pdf: https://guitaralliance.com/justacoustic/songs/pi/private_investigations.pdf
 
-### Backing tracks
+#### Backing tracks
 - https://youtu.be/CuvNfZxF5qo
 
 ## Why worry
