@@ -1,3 +1,6 @@
+Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
+Chords: https://gtrlib.com/chords/c-sharp-diminished
+
 ## Entre Dos Aguas - Paco de Lucia
 ### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/49030
