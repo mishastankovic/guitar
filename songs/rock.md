@@ -53,11 +53,21 @@
 
 #### Video
 - video guitar duet: https://youtu.be/IEg8DrVJcxU
+- video single guitar: https://youtu.be/b3YRgaXJL0Y
+- video single guitar: https://youtu.be/H7wunS9vGWg
+- video single guitar: https://youtu.be/IiVssLIvW1k
+- video single guitar: https://youtu.be/ptUtVMAXyUc
+- video tutorial single guitar: https://www.youtube.com/watch?v=FfIP6KmTgIw&ab_channel=CharlieKager
+- classical guitar videos: https://www.classical-guitar-music.com/guitar-solo/modern/samba-pa-ti-santana-for-classical-guitar/
+- classical guitar video; https://youtu.be/k8_2E6EXwvQ
+- video Guitar Logic: https://youtu.be/k8_2E6EXwvQ
+- video Paolo Mari: https://youtu.be/cauPBp85JLw
 #### Tabs
 - tabs: https://www.chordsound.com/chords-SANTANA_CARLOS-Samba_pa_ti-21014.html
 - tabs and chords PDF: https://guitaralliance.com/instant-song-library-download/Instant%20Song%20Library%20PDF/S-Z/S/Samba%20Pa%20Ti%20-%20Santana.pdf
 - Chrods / solo tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2121
 - Songsterr solo tabs: https://www.songsterr.com/a/wsa/carlos-santana-samba-pa-ti-tab-s17329
+- acoustic arrangement tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2077359l
 #### Backing tracks
 - backing track: https://youtu.be/gO229rQDpqY
 
@@ -76,6 +86,7 @@
 - Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o
 - joe robinson single guitar: https://youtu.be/IuZ_Un3a1oo
 - Jan Kysela single guitar fingerstyle: https://youtu.be/qCSknyI4Blk
+
 #### Tabs
 - chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
@@ -85,6 +96,7 @@
 	- guitar 2: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-duet-tab-s394284 
 - single guitar tabs with solo: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-by-redtabber-tab-s446758
 - backing track: https://www.youtube.com/watch?v=LkDwOlqAZyk
+
 #### Backing tracks
 - backing track : https://www.youtube.com/watch?v=HKYUXyIAgP8&ab_channel=OGTMachinima
 
@@ -100,6 +112,11 @@
 - video guitar cover Joe Robinson: https://youtu.be/1PTjQtdL8Y4
 - video tutorial solo and rhythm: https://youtu.be/WHujjJEnZpI
 #### Tabs
+- chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
+- tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-63657
+- tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-2254703
+- tabs songster solo and chords: https://www.songsterr.com/a/wsa/eric-clapton-layla-acoustic-tab-s23702
+- tabs chords and solo: https://www.guitartabsexplorer.com/clapton-eric-Tabs/layla-acoustic-tab.php
 - chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-63657
 - tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-2254703
