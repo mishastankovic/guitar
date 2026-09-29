@@ -114,3 +114,9 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 
 #### Backing tracks
 - piano, base: https://youtu.be/n1OUpZSDzuI
+
+## In Sentimental Mood
+#### Tabs
+- fingerstyle guitar: https://tabs.ultimate-guitar.com/tab/duke-ellington/in-a-sentimental-mood-tabs-14056
+- songsterr solo + chords: https://www.songsterr.com/a/wsa/duke-ellington-in-a-sentimental-mood-tab-s6976
+- jazz versoin fingerstyle tabs and music with player: https://www.soundslice.com/slices/frBcc/
