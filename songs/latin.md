@@ -1,6 +1,26 @@
 - Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Chords: https://gtrlib.com/chords/c-sharp-diminished
 
+
+# Guajira
+### Video
+- video tutorial part 1: https://youtu.be/o8l-PkX90oc
+- video part 2: https://youtu.be/KIinS2joMGY
+- video performance: https://youtu.be/KIinS2joMGY?list=RDo8l-PkX90oc
+### Tabs
+- tabs for above video: https://www.songsterr.com/a/wsa/jesus-hernandez-guajira-son-tab-s451902
+- video Los Incas: https://youtu.be/fRgZA9K6Eos
+
+# Chan Chan
+Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
+### Video
+- https://www.youtube.com/watch?v=3FTGxx9Y-00&ab_channel=xmanadan
+- https://www.youtube.com/watch?v=4vR9owntR9k&ab_channel=BalintPetz
+- video tutorial: https://youtu.be/DB78QCrV-ys?list=TLPQMzEwMTIwMjMc3xDVPP-Hvg
+### Backing tracks
+- backing track: https://youtu.be/cAjsbec1Plw
+- backing track: https://youtu.be/Xue44HXVTHE
+  
 # Maria Elena by Los Indios Tabajaras
 - Key [B major](https://www.guitarscale.org/b-major.html), parallel minor [g#](https://www.guitarscale.org/g-sharp-minor.html)
 ### Video
