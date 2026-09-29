@@ -39,6 +39,11 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/dire-straits/walk-of-life-chords-15421
 
+### <i>Sultans of Swing</i>
+  - Ismael cover: https://youtu.be/ikUBr-7svb4
+  - Shut Up & Play Tutorial: https://youtu.be/PpnrD8-GZkg
+  - Two guitars cover by Marko Karhu: https://youtu.be/BUAICkOSry8
+
 # Carlos Santana
 
 ### Flor d'Luna (Moonflower)
@@ -84,6 +89,11 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
   - plan for solo only with backing track
   - solo tutorial electric guitar: https://youtu.be/xAXJPPylnkM
   - tabs songsterr: https://www.songsterr.com/a/wsa/carlos-santana-black-magic-woman-tab-s357
+
+### <i>Evel Ways</i>
+  - Joe Robinson cover: https://youtu.be/dVcKBirGCok
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/santana/evil-ways-chords-852821
+  - video cover: https://youtu.be/UhJdONqQhuc
 
 # Eric Clapton
 
@@ -413,6 +423,15 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - tabs: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-tabs-72957
 - chords: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-chords-874870
 - tabs songsterr: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64
+
+
+# Deep Durple
+### <i>When a blind man cries</i> 
+  - key b-minor, parralel major D
+  - Chords and lyrics: http://www.pesmarica.rs/Akordi/6595/Deep-Purple--When-a-blind-man-cries
+  - Tabs: https://www.songsterr.com/a/wsa/deep-purple-when-a-blind-man-cries-tab-s29188
+  - Tutorial solo: https://www.youtube.com/watch?v=_It8ZyZ16SI
+  - guitar cover: https://www.youtube.com/watch?v=4j5TvN5Gy4I
 
 # Hillsong UNITED
 ### <i>Oceans</i>
