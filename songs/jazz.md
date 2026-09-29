@@ -45,11 +45,23 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 ### Video
 - Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
 
-# Stardust
+## Stardust
 ### Video
 - video guitar duet: https://youtu.be/2XTuF0pokYI
 - video single guitar: https://www.youtube.com/watch?v=NJy03cJnfmc&ab_channel=Ma-toshi
-
 ### Tabs
 - jazz tabs PDF: https://www.guitarjazztabs.com/Stardust/Stardust.pdf
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/nat-king-cole/stardust-chords-1481820
+
+## All of me
+### Video
+- video cover: https://youtu.be/1EMLmzMQuIo
+- vide tutorial and tabs: https://www.jazzguitar.be/blog/all-of-me/
+### Tabs
+- https://www.guitarjazztabs.com/All%20of%20Me.pdf
+
+## Autumn leaves
+### Tabs
+- Key [e minor](https://www.guitarscale.org/e-minor.html)
+- chrds and solo study: https://www.jazzguitar.be/blog/autumn-leaves-melody-and-solo/
+- chords with French lyrics: https://www.e-chords.com/chords/jacques-brel/les-feuilles-mortes
