@@ -30,18 +30,49 @@
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
 
 
+# Carlos Santana
+
+### Flor d'Luna (Moonflower)
+- Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
+#### Video
+- video totorial with chords: https://youtu.be/c-oeXL4zltc
+- video gipsy guitar solo sa pratnjom: https://www.youtube.com/watch?v=3M34FEEwP9Y&ab_channel=DjangoKOR
+- video Santana: https://www.youtube.com/watch?v=lRWEDKaSLp0&ab_channel=Santana-Topic
+- video Joe Robinson acoustic guitar: https://www.youtube.com/watch?v=yEvGBe8pk70&ab_channel=JoeRobinson
+- Joe Robinson tutorial: https://youtu.be/IGAdJxO3Wuk
+- Single guitar fingerstyle: https://youtu.be/RcElzhPRZHg
+#### Tabs
+- tabs solo: https://tabs.ultimate-guitar.com/tab/santana/flor-d-luna-moonflower-tabs-57649
+- tabs songster: https://www.songsterr.com/a/wsa/carlos-santana-flor-dluna-tab-s18380
+- tabs solo: https://www.rockmagic.net/guitar-tabs/santana/flor_d_luna.tab
+#### Backing tracks
+- backing track: https://youtu.be/CFu-GYUeMTs
+
+### Samba Pa Ti
+- Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
+
+#### Video
+- video guitar duet: https://youtu.be/IEg8DrVJcxU
+#### Tabs
+- tabs: https://www.chordsound.com/chords-SANTANA_CARLOS-Samba_pa_ti-21014.html
+- tabs and chords PDF: https://guitaralliance.com/instant-song-library-download/Instant%20Song%20Library%20PDF/S-Z/S/Samba%20Pa%20Ti%20-%20Santana.pdf
+- Chrods / solo tabs: https://tabs.ultimate-guitar.com/tab/santana/samba-pa-ti-tabs-2121
+- Songsterr solo tabs: https://www.songsterr.com/a/wsa/carlos-santana-samba-pa-ti-tab-s17329
+#### Backing tracks
+- backing track: https://youtu.be/gO229rQDpqY
+
 # Van Morison
 
 ### Moondance 
 - Key [a minor](https://www.guitarscale.org/a-minor.html)
-### Video
+#### Video
 - video multi guitar: https://youtu.be/kfwhxSV_H3U
 - video van morison with chords: https://youtu.be/UpWGmaTKHXs
 - video guitar duet: https://www.facebook.com/watch/?v=387648762203408
-### Tabs
+#### Tabs
 - tabs: https://www.songsterr.com/a/wsa/van-morrison-moondance-tab-s12585t0
 - chords: https://www.chords-and-tabs.net/song/name/van-morrison-moondance-10
-### Backing tracks
+#### Backing tracks
 - backing track: https://youtu.be/mEet_EQQ0R4
 - soren madsen classival guitar: https://youtu.be/3_Crr78eI54
 
