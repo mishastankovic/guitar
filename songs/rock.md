@@ -387,34 +387,16 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - tabs: https://tabs.ultimate-guitar.com/tab/metallica/nothing-else-matters-tabs-8519
 
 
-# Lady Gaga
-### In the Shallow
-#### Video
-- guitara cover Justin Guitar: https://youtu.be/zz1wEPuRXyM
-#### Tabs
-- tabs and lyrics on ultimate guitar: https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-tabs-2540916
-
-# Ed Sheran
-### Perfect
-  - Fingerstyle guitar, original in G major
-  - example by Naudo in A-major on acoustic-electrig guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
-  - chords in G-major and lyrics: https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589
-  - Strumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
-  - Ed SHeeran audio: https://youtu.be/cNGjD0VG4R8
-
 # Bob Dylan
-### Nocking on heaven's door by 
+
+### Knock on Heaven's Door
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
-#### Video
-- guitar cover: https://youtu.be/U6FSLtHhxpg
-
-### Knock on Heaven's Door by Bob Dylan
-#### Tabs
 - Guns and Roses tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
 - Bob Dylan chords and lyrics: https://tabs.ultimate-guitar.com/tab/bob-dylan/knockin-on-heavens-door-chords-66587
 #### Videos
 - LickNRiff fingerstyle video: https://m.youtube.com/watch?v=HtPUEZsm1R4
+- guitar cover: https://youtu.be/U6FSLtHhxpg
 
 # Rolling Stones
 
@@ -426,7 +408,6 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Stephane Bernard finterstyle cover: https://www.youtube.com/watch?v=Oi_CR7KH8WI
 - Guitar Pilgram cover with chords: https://www.youtube.com/watch?v=IsDEveFxlv8
 - Shut Up and Play tutorial: https://www.youtube.com/watch?v=wS_i91qxQYM
-
 #### Tabs
 - Ultimate guitar: https://tabs.ultimate-guitar.com/tab/the-rolling-stones/angie-tabs-271517
 - Songsterr tabs: https://www.songsterr.com/a/wsa/rolling-stones-angie-tab-s61
@@ -434,6 +415,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 
 
 # Neil Young
+
 ### Down by the river
 #### Video
 - video Neil Young: https://youtu.be/TiX8Rz5C3LY
@@ -443,7 +425,8 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 
 
 # Procol Harum
-### <i>A White Shade of Pale</i>
+
+### A White Shade of Pale
   - Single fingerstyle or two guitars with vocals
   - key C-major, parallel minor a-minor
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/procol-harum/a-whiter-shade-of-pale-chords-958255
@@ -466,11 +449,11 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - fingerstyle cover by Igor Presnyakov: https://youtu.be/d_dt2ZsCU9U
   - DocHolloway fingerstyle: https://youtu.be/BQ964kjGKS8
   - Daryl Shawn fingerstyle cover: https://youtu.be/m0oNII8YVzk
-
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
 
 # Wishbone Ash
+
 ### Leaf and stream
 #### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/wishbone-ash/leaf-and-stream-chords-482092
@@ -498,23 +481,25 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 ### Brown eyed girl
 #### Video
 - video: https://youtu.be/UfmkgQRmmeE
-
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-tabs-179799
 
 # Eagles
+
 ### Hotel California
 #### Video
 - video: https://youtu.be/1opgh7ky2nU
 
-- 
+
 # Mango Jerry
+
 ### In the Summertime
 #### Video
 - Mango Jerry tutorial: https://youtu.be/um-xl9EVqvs
 - Fingerstyle cover:v https://youtu.be/Qywk2faCJpc
 
 # Animals
+
 ### The House of The Rising Sun
   - plan for two guitars
   - key a minor, parallel major C
@@ -532,6 +517,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - Another backing track: https://youtu.be/z7-KJQLHQDE
 
 # Rod Stewart
+
 ### I Don't Want to Talk About It
   - Fingerstyle single guitar
   - Original key B-flat major, my version D major
@@ -545,6 +531,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
 # Hooverphonic
+
 ### Mad About You 
 #### Video
 - vide gover by Accoustic Afternoon: https://www.youtube.com/watch?v=AeAk0c-EnzY&ab_channel=AcousticAfternoon
@@ -555,6 +542,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 
 
 # 10cc
+
 ### <i>I'm Not in Love</i>
   - strumming, vocal single guitar
   - key E-major, parallel minor c-sharp minor
@@ -562,6 +550,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - video tutorial with chord diagrms: https://youtu.be/ohKfQDicQnw
 	
 # Kansas
+
 ### Dust in the wind
 #### Video
 - video original Kansas: https://youtu.be/tH2w6Oxx0kQ
@@ -574,6 +563,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 
 
 # Deep Durple
+
 ### <i>When a blind man cries</i> 
   - key b-minor, parralel major D
   - Chords and lyrics: http://www.pesmarica.rs/Akordi/6595/Deep-Purple--When-a-blind-man-cries
@@ -581,7 +571,21 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - Tutorial solo: https://www.youtube.com/watch?v=_It8ZyZ16SI
   - guitar cover: https://www.youtube.com/watch?v=4j5TvN5Gy4I
 
-# Hillsong UNITED
+
+# Uriah Heep
+
+### July Morning
+Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat major](https://www.guitarscale.org/e-flat-major.html)
+#### Tabs
+- chords and lyrics: https://www.e-chords.com/chords/uriah-heep/july-morning-acoustic
+- Songster electrical buitar band: https://www.songsterr.com/a/wsa/uriah-heep-july-morning-tab-s57465
+- tabs: https://www.cifraclub.com.br/uriah-heep/july-morning/
+#### Videos
+- Uriah Hip original: https://youtu.be/grSWdLdp7po
+- fingerstyle cover: https://youtu.be/DkWdUFwO8bQ
+- 
+# Hillsong United
+
 ### <i>Oceans</i>
   - key b minor, parallel major D
   - chords and lyrics: https://www.worshiptogether.com/songs/oceans-where-feet-may-fail-united/
