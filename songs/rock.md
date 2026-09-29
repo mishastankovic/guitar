@@ -417,8 +417,21 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - LickNRiff fingerstyle video: https://m.youtube.com/watch?v=HtPUEZsm1R4
 
 # Rolling Stones
+
 ### Angie
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
+#### Videos
+- Nikola Gugoski - tutorial with tabs: https://www.youtube.com/watch?v=mYCaYlnSfJw
+- Zero2Hero cover with tabs: https://www.youtube.com/watch?v=7oqpJKjW7nE
+- Stephane Bernard finterstyle cover: https://www.youtube.com/watch?v=Oi_CR7KH8WI
+- Guitar Pilgram cover with chords: https://www.youtube.com/watch?v=IsDEveFxlv8
+- Shut Up and Play tutorial: https://www.youtube.com/watch?v=wS_i91qxQYM
+
+#### Tabs
+- Ultimate guitar: https://tabs.ultimate-guitar.com/tab/the-rolling-stones/angie-tabs-271517
+- Songsterr tabs: https://www.songsterr.com/a/wsa/rolling-stones-angie-tab-s61
+- Lytics with chords and intro tabs: https://www.tabs4acoustic.com/en/guitar-tabs/the-rolling-stones-tabs/angie-acoustic-tab-15.html
+
 
 # Neil Young
 ### Down by the river
@@ -614,3 +627,24 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 #### Tabs
 - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
 - tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
+
+# Joan Baez
+
+### Diamonds and Rust by 
+#### Videos
+- Joan Baez: https://www.youtube.com/watch?v=PXP1m0Y78WU
+- Tutorial : https://www.youtube.com/watch?v=FMQdb-34PfI
+#### Tabs
+- Utimate guitar tabs: https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-tabs-61553
+- Ultimate guitare chords and lyrics: https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-chords-1044414
+
+# Joan Armatrading
+
+### Love and Affection
+Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
+#### Tabs
+- Ultimate Guitar - https://tabs.ultimate-guitar.com/tab/joan-armatrading/love-and-affection-tabs-921846
+#### Videos
+- Lesson https://www.youtube.com/watch?v=q_7mAF1tDVE
+- Joan Armatrading live performance: https://www.youtube.com/watch?v=4tMlwvJi6n0&list=RD4tMlwvJi6n0&start_radio=1
+- Joan Armatrading solo cover: https://youtu.be/Mhcl__CTOTI
