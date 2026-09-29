@@ -33,6 +33,11 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - tabs: https://youtu.be/Y0oeqL2uvFA
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
 
+### Walk Of Life by Dire Straits
+#### Video
+- video: https://youtu.be/jSeh1JtYUzs
+#### Tabs
+- chords: https://tabs.ultimate-guitar.com/tab/dire-straits/walk-of-life-chords-15421
 
 # Carlos Santana
 
@@ -144,6 +149,25 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - tabs: https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-tabs-984061
 - tabs solo: https://www.e-chords.com/tabs/pink-floyd/wish-you-were-here
 
+# Sting
+
+### Fragile
+- Key [e](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
+
+#### Video
+- video Sting original: https://youtu.be/lB6a-iD6ZOY
+- video sting later: https://youtu.be/LT2a8Bdo8sQ
+- video tutorial: https://youtu.be/8a1gXKQKvcE
+- video two guitars: https://youtu.be/5hOnYtswmzQ
+- video two guitars; https://youtu.be/RRcseUpSAr8
+- video jazz cover: https://youtu.be/A19Vt9542P8
+- video single guitar cover: https://youtu.be/oH-yJLGP1KA
+- video fingerstyle cover: https://youtu.be/oHnWdrKb1tc
+
+#### Tabs
+- tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
+- tabs songsterr: https://www.songsterr.com/a/wsa/sting-fragile-tab-s23952t0
+
 # Beatles
 ### And I Love Her
 - Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
@@ -160,12 +184,33 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - backing track rhythm guitar only: https://youtu.be/5qasVEHhhK0
 - multi channel backing track: http://backtracks4all.com/backingtracks/the-beatles/and-i-love-her-3
 
-### Imagine by Beatles
+### Imagine
 - Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a](https://www.guitarscale.org/a-minor.html)
 #### Video
 - video tutorial: https://youtu.be/sNXxzVd5qBY
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-9306
+
+### Michelle
+- Key [f minor](https://www.guitarscale.org/f-minor.html), parallel major [A-flat major](https://www.guitarscale.org/a-flat-major.html)
+#### Video
+- video original Beatles: https://youtu.be/WoBLi5eE-wY
+- fingerstyle cover: https://youtu.be/1X5aJ1_KZDU
+- fingerstyle cover with tabs: https://youtu.be/vuZrKTXYBS8
+#### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
+
+### Twist And Shout
+#### Videos
+- https://youtu.be/RpwlhdaXx1Y
+#### Tabs
+- https://tabs.ultimate-guitar.com/tab/the-beatles/twist-and-shout-chords-489173
+
+### While My Guitar Gently Weeps chords by The Beatles
+#### Tabs
+- chords: https://tabs.ultimate-guitar.com/tab/the-beatles/while-my-guitar-gently-weeps-chords-17446
+- tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/while-my-guitar-gently-weeps-tabs-60662
+- video: https://youtu.be/8bRyWedF1MM
 
 
 # Tracey Chapman
@@ -200,6 +245,26 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - guitara cover Justin Guitar: https://youtu.be/zz1wEPuRXyM
 #### Tabs
 - tabs and lyrics on ultimate guitar: https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-tabs-2540916
+
+
+# Bill Withers
+### Ain't no sunshine
+#### Video
+- tutorial video: https://youtu.be/DngT6PiTNvk
+- guitar cover: https://youtu.be/Pef1iUYBc-Y
+
+#### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
+
+# Wishbone Ash
+### Leaf and stream
+#### Tabs
+- chords: https://tabs.ultimate-guitar.com/tab/wishbone-ash/leaf-and-stream-chords-482092
+- lead tabs: https://tabs.ultimate-guitar.com/tab/wishbone-ash/leaf-and-stream-tabs-101797
+#### Video
+- video: https://www.youtube.com/watch?v=jErhaj3jMmk
+- video: https://youtu.be/kQIr-7kmjy0
+- cover by me: https://youtu.be/i8Eq_6DKtvg
   
 # Van Morison
 
@@ -215,6 +280,13 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Backing tracks
 - backing track: https://youtu.be/mEet_EQQ0R4
 - soren madsen classival guitar: https://youtu.be/3_Crr78eI54
+
+### Brown eyed girl
+#### Video
+- video: https://youtu.be/UfmkgQRmmeE
+
+#### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-tabs-179799
 
 
 # Hooverphonic
