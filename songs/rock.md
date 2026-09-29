@@ -80,6 +80,11 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Backing tracks
 - backing track: https://youtu.be/gO229rQDpqY
 
+### Black Magic Woman
+  - plan for solo only with backing track
+  - solo tutorial electric guitar: https://youtu.be/xAXJPPylnkM
+  - tabs songsterr: https://www.songsterr.com/a/wsa/carlos-santana-black-magic-woman-tab-s357
+
 # Eric Clapton
 
 ### Tears in heaven 
@@ -95,7 +100,6 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o
 - joe robinson single guitar: https://youtu.be/IuZ_Un3a1oo
 - Jan Kysela single guitar fingerstyle: https://youtu.be/qCSknyI4Blk
-
 #### Tabs
 - chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
 - tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
@@ -105,7 +109,6 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 	- guitar 2: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-duet-tab-s394284 
 - single guitar tabs with solo: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-by-redtabber-tab-s446758
 - backing track: https://www.youtube.com/watch?v=LkDwOlqAZyk
-
 #### Backing tracks
 - backing track : https://www.youtube.com/watch?v=HKYUXyIAgP8&ab_channel=OGTMachinima
 
@@ -132,6 +135,15 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - tabs songster solo and chords: https://www.songsterr.com/a/wsa/eric-clapton-layla-acoustic-tab-s23702
 - tabs chords and solo: https://www.guitartabsexplorer.com/clapton-eric-Tabs/layla-acoustic-tab.php
 
+### Wonderful Tonight by Eric Clapton
+  - plan for two guitars
+  - key G-major, parallel minor e-minor
+  - example cover by Naudo: https://youtu.be/XmfqpQk9ok8
+  - chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/wonderful-tonight-chords-666288
+  - Fingerstyle by Gabriella Quevedo: https://youtu.be/zZOdBR-BKTc
+  - Finderstyle single guitar: https://youtu.be/TovZA09hryE
+  - Fingerstyle tabs single guitar; https://www.songsterr.com/a/wsa/daria-semikina-eric-clapton-wonderful-tonight-fingerstyle-tab-s396809
+  - Fingerstyle cover by Gareth Evans: https://youtu.be/0ZIqdiHlEdw
 
 #  Pink Floyd   
 ### Wish you were here
@@ -150,10 +162,8 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - tabs solo: https://www.e-chords.com/tabs/pink-floyd/wish-you-were-here
 
 # Sting
-
 ### Fragile
 - Key [e](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
-
 #### Video
 - video Sting original: https://youtu.be/lB6a-iD6ZOY
 - video sting later: https://youtu.be/LT2a8Bdo8sQ
@@ -163,7 +173,6 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - video jazz cover: https://youtu.be/A19Vt9542P8
 - video single guitar cover: https://youtu.be/oH-yJLGP1KA
 - video fingerstyle cover: https://youtu.be/oHnWdrKb1tc
-
 #### Tabs
 - tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 - tabs songsterr: https://www.songsterr.com/a/wsa/sting-fragile-tab-s23952t0
@@ -253,6 +262,14 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Tabs
 - tabs and lyrics on ultimate guitar: https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-tabs-2540916
 
+# Ed Sheran
+### Perfect
+  - Fingerstyle guitar, original in G major
+  - example by Naudo in A-major on acoustic-electrig guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
+  - chords in G-major and lyrics: https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589
+  - Strumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
+  - Ed SHeeran audio: https://youtu.be/cNGjD0VG4R8
+
 # Bob Dylan
 ### Nocking on heaven's door by 
 #### Tabs
@@ -320,6 +337,34 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Video
 - Mango Jerry tutorial: https://youtu.be/um-xl9EVqvs
 - Fingerstyle cover:v https://youtu.be/Qywk2faCJpc
+
+# Animals
+### The House of The Rising Sun
+  - plan for two guitars
+  - key a minor, parallel major C
+  - start with backing track
+  - example by Naudo: https://www.youtube.com/watch?v=4P4mEeGuw3U
+  - Justin Johnson fingerstyle cover: https://youtu.be/8D-mMQr3kJ0
+  - fingerstyle cover: https://youtu.be/Rwa8vYxp_Bc
+  - Igor Presnyakov cover: https://youtu.be/7bPmyHD0oRg
+  - Travis picking tutorial by All Guitars: https://youtu.be/DMPHU2PV36k
+  - Travis picking tutorial; https://youtu.be/E1l4T7sa4lE
+  - Another Travis picking with tabs: https://youtu.be/_WJavaW-lcY
+  - Tommy Emanuel tutorial and tabs: https://truefire.com/tommy-emmanuel-guitar-lessons/fingestyle-breakthroughs/house-of-the-rising-sun-performance/v34235
+  - Backing track: https://youtu.be/Nngof8rMs68
+  - Improvisation tutorial by Stefac Schyga: https://youtu.be/aVt3C3WpctM
+  - Another backing track: https://youtu.be/z7-KJQLHQDE
+
+# Rod Stewart
+### I Don't Want to Talk About It
+  - plan for fingerstyle single guitar
+  - Original key B-flat major, my version D major
+  - Naudo cover in D major: https://youtu.be/R16_6yCt4W4
+  - DenFingerstyle cover: https://youtu.be/CNYN8oHg9Dg
+  - X-Steller guitar fingerstyle cover: https://youtu.be/l68uuYwXbso
+  - Ricardo Pacha finterstyle cover: https://youtu.be/3wXOfduNn98
+  - tabs: https://www.myguitarsongbook.ca/songs/song_detail.asp?id=257
+  - chords and lyrics in B-flat major
 
 # Hooverphonic
 ### Mad About You 
