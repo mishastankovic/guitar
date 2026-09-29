@@ -94,3 +94,10 @@
 - akordi i tekst in Em: http://www.pesmarica.rs/Akordi/2032/Toma-Zdravkovi%C4%87--Pesme-Moje
 - akordi: https://tabs.ultimate-guitar.com/tab/misc-unsigned-bands/toma-zdravkovic-pesme-moje-chords-1421911
 
+## I sad me po tebi poznaju by Al Dino
+Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [d#](https://www.guitarscale.org/d-sharp-major.html)
+### Video
+- video guitar cover Nitro: https://youtu.be/S49XgC9MJbg
+- video for 2 guitars, chords and lysrics, yesiloverguitar - https://www.yesiloveguitar.com/akordi/sad-po-tebi-poznaju-al-dino-akordi/
+
+
