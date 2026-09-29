@@ -27,3 +27,30 @@
 - tabs: https://www.songsterr.com/a/wsa/antonio-carlos-jobim-wave-tab-s402171
 - tutorial: http://www.jamieholroydguitar.com/how-to-play-wave-on-guitar/
 - music sheet: https://tommyemmanuel.files.wordpress.com/2008/11/antonio-carlos-jobim-for-guitar-tab.pdf
+
+### Besame mucho
+#### Video
+- video: https://youtu.be/IPFVkbCeK_A
+- video tutorial: https://youtu.be/q1hLjr6uK6c
+#### Tabs
+- chords: https://www.jazzguitar.be/blog/besame-mucho-chords/
+
+### Historia de un amor
+#### Video
+- video voice and guitar with chords: https://youtu.be/8MU8VAvlP4Q
+- video + tabs: https://www.guitartabmaker.com/2019/12/historia-de-un-amor-classical-guitar-tab.html
+- video with chords and tabs a-minor: https://www.guitarnick.com/historia-de-un-amor-easy-guitar-chords-tab.html
+
+#### Tabs
+- tabs and chords PDF: https://musescore.com/user/30668156/scores/6085067
+- chords and lyrics e-minor: https://www.e-chords.com/chords/trio-los-panchos/historia-de-un-amor
+
+#### Single guitar
+#### Video
+- video: https://youtu.be/XMGm_Xcdkgs
+- video clasical guitar, from pdf book: https://youtu.be/fT8RzDcQsaI
+#### Two guitars
+#### Video
+- video with chords g-minor: https://youtu.be/TLeN4opl5Ng
+- video: https://youtu.be/vGUNiwOZFIU
+- video with tabs and chords: https://youtu.be/2dMMs-uX700
