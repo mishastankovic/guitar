@@ -99,5 +99,8 @@ Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [d#](htt
 ### Video
 - video guitar cover Nitro: https://youtu.be/S49XgC9MJbg
 - video for 2 guitars, chords and lysrics, yesiloverguitar - https://www.yesiloveguitar.com/akordi/sad-po-tebi-poznaju-al-dino-akordi/
+### Tabs & chords
+- chords on chordify: https://chordify.net/chords/al-dino-i-sad-me-po-tebi-poznaju-audio-2008-grandmusicofficial
+- chords in a-minor: https://tabs.ultimate-guitar.com/tab/al-dino/i-sad-me-po-tebi-poznaju-chords-2594724
 
 
