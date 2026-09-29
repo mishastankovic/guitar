@@ -22,7 +22,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - https://youtu.be/8kzW_K9R10Q
 - https://youtu.be/bt8DuZFDkEU
 
-## Mercy, Mercy by Joe Zawinul
+## <i>Mercy, Mercy</i> by Joe Zawinul
 - Guitar Logic cover: https://youtu.be/8imHeqV_r7s
 - Charlie Kager cover: https://youtu.be/P2z5OW59PMo
 - Sandra She tutorial single guitar electric: https://youtu.be/ayECz7wvAOs
@@ -41,11 +41,11 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](http
 - guitar backing track: https://youtu.be/P2KuJCZuEso
 - piano backing track: https://youtu.be/pm1oeUqzsog
 
-## Pink Panther
+## <i>Pink Panther</i>
 ### Video
 - Video and tabs fingerstyle: https://fingertabs.com/fingertabs/ost-pink-pantera-fingerstyle-tabs.html
 
-## Stardust
+## <i>Stardust</i>
 ### Video
 - video guitar duet: https://youtu.be/2XTuF0pokYI
 - video single guitar: https://www.youtube.com/watch?v=NJy03cJnfmc&ab_channel=Ma-toshi
