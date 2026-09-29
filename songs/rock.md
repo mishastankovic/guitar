@@ -61,6 +61,84 @@
 #### Backing tracks
 - backing track: https://youtu.be/gO229rQDpqY
 
+# Eric Clapton
+
+### Tears in heaven 
+- Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
+#### Video
+- Eric Clapton unplagged audio: https://www.youtube.com/watch?v=CoOp12ayIVg
+- Eric Clapton unplagged video: https://youtu.be/svzR5_UEMTs
+- video Eric Clapton live: https://youtu.be/JxPj3GAYYZ0
+- video tutorial for 2 guitars:
+	-  part 1: https://www.youtube.com/watch?v=wzzkhqTsk2w
+	-  part 2: https://youtu.be/YqMUrBQ2KRY
+- video Jeff Buckley: https://youtu.be/yhAlVxcE3QA
+- Tommy Emmanuel and Igor Prenyakov 2 guitars: https://youtu.be/9ExFsLH-O-o
+- joe robinson single guitar: https://youtu.be/IuZ_Un3a1oo
+- Jan Kysela single guitar fingerstyle: https://youtu.be/qCSknyI4Blk
+#### Tabs
+- chords: <https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-chords-627220>
+- tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-16131
+- 2 guitar tabs POGRESNO OD POCETKA DO KRAJA: https://tabs.ultimate-guitar.com/tab/eric-clapton/tears-in-heaven-tabs-21003
+- 2 guitar tabs
+	- guitar 1: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-tab-s4
+	- guitar 2: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-duet-tab-s394284 
+- single guitar tabs with solo: https://www.songsterr.com/a/wsa/eric-clapton-tears-in-heaven-by-redtabber-tab-s446758
+- backing track: https://www.youtube.com/watch?v=LkDwOlqAZyk
+#### Backing tracks
+- backing track : https://www.youtube.com/watch?v=HKYUXyIAgP8&ab_channel=OGTMachinima
+
+### Layla
+- Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
+- broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
+#### Video
+- video, chords, tabs and solo - Eric Clepton live version with single guitar: https://www.guitardownunder.com/songs/layla.php
+- video Eric Clepton unplugged  audio: [https://youtu.be/IEcUc0NdM1A](https://www.youtube.com/watch?v=iZV7akaSo0s)
+- video Eric Clepton live: https://youtu.be/FrtfZVDWC5k
+- video tutorial - rhythm: https://youtu.be/BPXQcyLzPeA
+- video tutorial - solo: https://youtu.be/YZEMOvwX4wQ
+- video guitar cover Joe Robinson: https://youtu.be/1PTjQtdL8Y4
+- video tutorial solo and rhythm: https://youtu.be/WHujjJEnZpI
+#### Tabs
+- chords: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-chords-971970
+- tabs: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-63657
+- tabs solo: https://tabs.ultimate-guitar.com/tab/eric-clapton/layla-tabs-2254703
+- tabs songster solo and chords: https://www.songsterr.com/a/wsa/eric-clapton-layla-acoustic-tab-s23702
+- tabs chords and solo: https://www.guitartabsexplorer.com/clapton-eric-Tabs/layla-acoustic-tab.php
+
+
+#  Pink Floyd   
+### Wish you were here
+- Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
+#### Video
+- Prva na listi https://rockguitaruniverse.com/songs-for-two-guitars/
+- video Pink Floyd: https://www.youtube.com/watch?v=IXdNnw99-Ic&ab_channel=chartrand
+- video Reina del Cid cover: https://www.youtube.com/watch?v=kIGrLseMuu0&ab_channel=ReinadelCid
+- video The Running Mates cover: https://youtu.be/GrvBYMTscmE
+- video tutorial: https://www.youtube.com/watch?v=o2NaGFteNvY&ab_channel=GuitarZero2HeroExpress
+- video tutorial: https://youtu.be/evQ8bM8O5A0
+- video boyce avenue: https://youtu.be/NoeI2TzlSbQ
+#### Tabs
+- tabs / turorial: https://rockguitaruniverse.com/wish-you-were-here/
+- tabs: https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-tabs-984061
+- tabs solo: https://www.e-chords.com/tabs/pink-floyd/wish-you-were-here
+
+# Beatles
+### And I Love Her
+- Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
+#### Video
+- broj 9 na listi https://rockguitaruniverse.com/songs-for-two-guitars/
+- video Beatles original: https://youtu.be/9_c2XZd9mMo
+- video milos : https://youtu.be/4n0cPQf-HnU
+- video tutorial: https://www.youtube.com/watch?v=tQC_nrzTR7o&ab_channel=swiftlessons
+- video Pat Metheny: https://youtu.be/MYcZ6s3z1jg
+- video and tabs for Pat Metheny version: https://youtu.be/MTJpGTW1X38
+#### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
+### Backing tracks
+- backing track rhythm guitar only: https://youtu.be/5qasVEHhhK0
+- multi channel backing track: http://backtracks4all.com/backingtracks/the-beatles/and-i-love-her-3
+
 # Van Morison
 
 ### Moondance 
@@ -75,4 +153,14 @@
 #### Backing tracks
 - backing track: https://youtu.be/mEet_EQQ0R4
 - soren madsen classival guitar: https://youtu.be/3_Crr78eI54
+
+
+# Hooverphonic
+### Mad About You 
+#### Video
+- vide gover by Accoustic Afternoon: https://www.youtube.com/watch?v=AeAk0c-EnzY&ab_channel=AcousticAfternoon
+- video cover: https://www.youtube.com/watch?v=lcr1Gwu69Pk&ab_channel=ConstantinaRakopoulou
+- video fingerstyle guitar: https://www.youtube.com/watch?v=CKelguzrwyA&ab_channel=NicolaPastori
+#### Tabs
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/hooverphonic/mad-about-you-chords-2480901
 
