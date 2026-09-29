@@ -583,3 +583,23 @@ Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel majo
 - tabs Eva Cassidy: https://tabs.ultimate-guitar.com/tab/eva-cassidy/woodstock-tabs-64504
 - chrods Scofield, Modeski: https://chordu.com/chords-tabs-dejohnette-grenadier-medeski-scofield-woodstock-id_4V-7mAQBpes
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/joni-mitchell/woodstock-chords-76741
+
+# Chris Isaak
+### Wicked game
+Key [b minor](https://www.guitarscale.org/b-minor.html), parallel major [A](https://www.guitarscale.org/a-major.html)
+#### Video
+- video acoustic guitar cover: https://youtu.be/chPjiyonxeY
+#### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-tabs-274609
+- chords: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-chords-11066
+
+# Fleetwood Mac
+### Albatros
+Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
+#### Video
+- video - Justin 2 guitars: https://youtu.be/JjUSs8tLYE0
+- video lesson - Justin part 1: https://youtu.be/u8BGh_xGa2U
+- video lesson 2: https://youtu.be/q4XXgJAV0Yk
+#### Tabs
+- tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
+- tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
