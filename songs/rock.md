@@ -32,7 +32,41 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - tabs: https://youtu.be/Y0oeqL2uvFA
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
 
-### Walk Of Life by Dire Straits
+### Romeo and Juliet by Dire Straits
+#### Tabs
+- tabs without capo, standard tuning: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-tabs-49644
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-chords-1166247
+- tab : https://www.gotabs.com/dire-straits/romeo-and-juliet-tab
+#### Video
+- Fingerstyle video Sharon Saxton: https://youtu.be/Bem_3kYfgXY
+- Fingerstyle video: https://youtu.be/bKj9zhPk0E4
+- Fingerstyle Michalea Regecova: https://youtu.be/pAiaLQCEbVY
+- fingersytle Yosi Schlesinger: https://youtu.be/WcEjrPvcz8E
+
+
+### <i>Brothers in Arms</i>
+Key [g sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [B major](https://www.guitarscale.org/b-major.html)
+### Tabs
+- Ultimate guirar: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-tabs-1706644
+- Songsterr tabs: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-tab-s5798
+- Songsterr for accoustic guitar: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-acoustic-tab-s59690
+### Videos
+- Two guitar accoustic guitar cover + voice: https://www.youtube.com/watch?v=Mmkju12aVEI
+- Single acoustic guitar with voice: https://www.youtube.com/watch?v=LBHYRs2-_O0
+- Mark Knopfler live: https://www.youtube.com/watch?v=EMRJT2ebvAk&list=RDEMRJT2ebvAk&start_radio=1
+  
+### <i>Wild Theme</i>
+Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
+#### Tabs
+- ChordU chords: https://chordu.com/chords-tabs-mark-knopfler-wild-theme-local-hero--id_4Y-FmsKz-fU
+- tabs: https://tabs.ultimate-guitar.com/tab/dire-straits/local-hero-wild-theme-tabs-178064 
+- songster tabs: https://www.songsterr.com/a/wsa/dire-straits-local-hero-wild-theme-tab-s29597
+#### Video
+- mattsellick classical guitar cover: https://youtu.be/Q_aqKr7TT-Y
+- yoni schlesinger classical guitar in d major: https://youtu.be/zufyFP-PjfY
+- soren madsen classical guitar: https://youtu.be/5R_PUIWCi-w  
+
+### <i>Walk Of Life</i>
 #### Video
 - video: https://youtu.be/jSeh1JtYUzs
 #### Tabs
@@ -93,6 +127,42 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
   - Joe Robinson cover: https://youtu.be/dVcKBirGCok
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/santana/evil-ways-chords-852821
   - video cover: https://youtu.be/UhJdONqQhuc
+
+### <i>Europa</i>
+Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
+#### Videos
+- Joe Robinson: https://youtu.be/UMAABrR2YLI
+- Fingerstyle by Guido Mancino https://youtu.be/orwNFWVPbys
+- Classical guitar cover: https://youtu.be/Fe3ei2T4CyE
+- Parlor guitar cover by Sapient Sat: https://youtu.be/VE5za5zhX90
+- Dmytro cover: https://youtu.be/JsIb-v5QFyI
+- Igor Presnyakov: https://youtu.be/xmXAAVEYAQM
+- Nicolas Olivero: https://youtu.be/HQy3Ls6m4sM
+- Fingerdance: https://youtu.be/zQJ7uSTXsuw
+#### Tabs
+- GuitarNick tabs and chords: https://www.guitarnick.com/europa-santana-acoustic-guitar-tab.html
+- Songsterr: https://www.songsterr.com/a/wsa/carlos-santana-europa-acoustic-tab-s87607
+- Electrical solo guitar: https://www.songsterr.com/a/wsa/carlos-santana-europa-tab-s451
+#### Backing tracks
+- https://youtu.be/PfbxpOT8pYs
+
+### Oye Como Va by Carlos Santana
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
+#### Videos
+- Gwendal Le Toullec cover: https://youtu.be/wCfJee7Ss5M
+- Guitar Logic fingerstyle: https://youtu.be/m0x3zmcXIPI
+- Acoustic guitar tutorial in Spanish: https://youtu.be/q4a3hpFKOMQ
+- Dorian A version lesson: https://youtu.be/KpvEeE8EN4Y
+- Another fingerstyle: https://youtu.be/4bnICGpQCHA
+- Fingerstyle cover: https://youtu.be/4bnICGpQCHA
+#### Tabs
+- Songsterr solo: https://www.songsterr.com/a/wsa/carlos-santana-oye-como-va-tab-s61155
+- Video with tabs: https://www.guitarnick.com/oye-como-va-fingerstyle-guitar-tab.html
+- Ultimate guitar solo: https://tabs.ultimate-guitar.com/tab/santana/oye-como-va-tabs-2143
+- Songsterr fingerstyle tabs: https://www.songsterr.com/a/wsa/santana-oye-como-va-fingerstyle-tab-s435559
+- Solo and fingerstyle tabs PDF: https://guitaralliance.net/songs/S/santana/oye_como_va/santana_carlos-oye_como_va.pdf
+#### Backing tracks
+- https://youtu.be/K5owBsxSHBc
 
 # Eric Clapton
 
