@@ -212,6 +212,13 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/while-my-guitar-gently-weeps-tabs-60662
 - video: https://youtu.be/8bRyWedF1MM
 
+# Creedence
+### Bad mood rising
+#### Video
+- video: https://youtu.be/3GaE_X5k3iE
+#### Tabs
+- lead tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-tabs-53934
+- rhythm tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-chords-15892 
 
 # Tracey Chapman
 
@@ -246,6 +253,20 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Tabs
 - tabs and lyrics on ultimate guitar: https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-tabs-2540916
 
+# Bob Dylan
+### Nocking on heaven's door by 
+#### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
+#### Video
+- guitar cover: https://youtu.be/U6FSLtHhxpg
+
+# Neil Young
+### Down by the river
+#### Video
+- video Neil Young: https://youtu.be/TiX8Rz5C3LY
+- video guitar cover solo and chords: https://youtu.be/DS8BQugCGM8
+#### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/neil-young/down-by-the-river-tabs-75
 
 # Bill Withers
 ### Ain't no sunshine
@@ -304,3 +325,14 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Tabs
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/hooverphonic/mad-about-you-chords-2480901
 
+	
+# Kansas
+### Dust in the wind
+#### Video
+- video original Kansas: https://youtu.be/tH2w6Oxx0kQ
+- video tutorial: https://www.youtube.com/watch?v=CpYzBcv5n64
+- video boyce avenue: https://youtu.be/8Yh7Ey0FB0E
+#### Tabs
+- tabs: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-tabs-72957
+- chords: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-chords-874870
+- tabs songsterr: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64 
