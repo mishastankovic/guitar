@@ -54,7 +54,7 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](http
 #### Tabs
 - chords: https://www.jazzguitar.be/blog/besame-mucho-chords/
 
-### Historia de un amor
+## Historia de un amor
 #### Video
 - video voice and guitar with chords: https://youtu.be/8MU8VAvlP4Q
 - video + tabs: https://www.guitartabmaker.com/2019/12/historia-de-un-amor-classical-guitar-tab.html
@@ -64,7 +64,7 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](http
 - tabs and chords PDF: https://musescore.com/user/30668156/scores/6085067
 - chords and lyrics e-minor: https://www.e-chords.com/chords/trio-los-panchos/historia-de-un-amor
 
-#### Single guitar
+### Single guitar
 #### Video
 - video: https://youtu.be/XMGm_Xcdkgs
 - video clasical guitar, from pdf book: https://youtu.be/fT8RzDcQsaI
@@ -86,7 +86,7 @@ Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat 
 - gonzalo bergara cd recording: https://www.youtube.com/watch?v=z5nYrZLONCg&ab_channel=GonzaloBergara
 
 
-### Despacito by Luis Fonsi
+## Despacito by Luis Fonsi
   - key b-minor
   - Tutorial video: https://m.youtube.com/watch?v=ryuq1JcSaeY
   - Another tutorial: https://m.youtube.com/watch?v=DOW--kK1gh4
