@@ -285,6 +285,17 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/neil-young/down-by-the-river-tabs-75
 
+
+# Procol Harum
+### <i>A White Shade of Pale</i>
+  - Single fingerstyle or two guitars with vocals
+  - key C-major, parallel minor a-minor
+  - chords and lyrics: https://tabs.ultimate-guitar.com/tab/procol-harum/a-whiter-shade-of-pale-chords-958255
+  - Cover with vocals: https://youtu.be/NUuDQkZi1gA
+  - Fingerstyle by Antonio Baldassarre: https://youtu.be/4-7WhGJYtCQ
+  - Fingerstyle cover by Naudo: https://youtu.be/-CF9DyWR5wI
+  - Fingerstyle cover Melania Goertz: https://youtu.be/_QnS1QLZw9o
+  - fingerstyle cover by Kelly Valeau: https://youtu.be/to4oIliDaGY
 # Bill Withers
 ### Ain't no sunshine
   - Fingerstyle
