@@ -56,6 +56,17 @@
 - video with tabs and chords: https://youtu.be/2dMMs-uX700
 
 
+## Como Una Flor by Gonzalo Bergara
+Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat major](https://www.guitarscale.org/e-flat-major.html)
+#### Tabs
+- chordify: https://chordify.net/chords/gonzalo-bergara-como-una-flor-dc-music-school
+- pdf tabs preview: https://www.soundslice.com/slices/tKDcc/course-preview-616/
+- chords with original song - preview: https://www.yalp.io/chords/gonzalo-bergara-como-una-flor-22d3
+#### Video
+- gonzalo bergara video; https://youtu.be/6kdE8qL3n00
+- gonzalo bergara cd recording: https://www.youtube.com/watch?v=z5nYrZLONCg&ab_channel=GonzaloBergara
+
+
 ### Despacito by Luis Fonsi
   - key b-minor
   - Tutorial video: https://m.youtube.com/watch?v=ryuq1JcSaeY
