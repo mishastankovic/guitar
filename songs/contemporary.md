@@ -1,3 +1,19 @@
+
+
+# Lady Gaga
+### In the Shallow
+#### Video
+- guitara cover Justin Guitar: https://youtu.be/zz1wEPuRXyM
+#### Tabs
+- tabs and lyrics on ultimate guitar: https://tabs.ultimate-guitar.com/tab/misc-soundtrack/a-star-is-born-shallow-tabs-2540916
+
+# Ed Sheran
+### Perfect
+  - Fingerstyle guitar, original in G major
+  - example by Naudo in A-major on acoustic-electrig guitar: https://www.youtube.com/watch?v=5i71Gqg0jh4
+  - chords in G-major and lyrics: https://tabs.ultimate-guitar.com/tab/ed-sheeran/perfect-chords-1956589
+  - Strumming with vocals: https://www.youtube.com/watch?v=2CmY3J-KCeM
+  - Ed SHeeran audio: https://youtu.be/cNGjD0VG4R8
 ## Mad World by Gary Jules
 Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
 
@@ -9,7 +25,6 @@ Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G major
 - Gary Jules and Curt Smith live: https://youtu.be/3b1OwCG8WN8
 - Justin guitar lesson: https://youtu.be/Vn9Jkj5CDcU
 - Fingerstyle cover
-
 
 ## Get Lucky by Daft Punk
 Key [f sharp minor](https://www.guitarscale.org/f-sharp-minor.html), parallel major [A major](https://www.guitarscale.org/a-major.html)
