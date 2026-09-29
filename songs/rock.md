@@ -43,7 +43,6 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Fingerstyle Michalea Regecova: https://youtu.be/pAiaLQCEbVY
 - fingersytle Yosi Schlesinger: https://youtu.be/WcEjrPvcz8E
 
-
 ### <i>Brothers in Arms</i>
 Key [g sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [B major](https://www.guitarscale.org/b-major.html)
 ### Tabs
@@ -76,6 +75,19 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
   - Ismael cover: https://youtu.be/ikUBr-7svb4
   - Shut Up & Play Tutorial: https://youtu.be/PpnrD8-GZkg
   - Two guitars cover by Marko Karhu: https://youtu.be/BUAICkOSry8
+
+### Altamira
+Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
+#### Video
+- mark knopfler original: https://youtu.be/xdAhSZB2lh8
+- video cover: https://youtu.be/3EGeuMO_GK0
+- another video cover: https://youtu.be/JtMETfood6w
+- another cover: https://youtu.be/QgiwSDwPC7g
+#### Tabs
+  - https://tabs.ultimate-guitar.com/tab/mark-knopfler/altamira-tabs-3288959
+  - https://www.guitartabsexplorer.com/knopfler-mark-Tabs/altamira-tab.php
+  - chordify original recording: https://chordify.net/chords/mark-knopfler-evelyn-glennie-songs/altamira-chords
+  - https://www.azchords.com/m/markknopfler-tabs-2461/altamira-tabs-937501.html
 
 # Carlos Santana
 
@@ -223,6 +235,29 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - Finderstyle single guitar: https://youtu.be/TovZA09hryE
   - Fingerstyle tabs single guitar; https://www.songsterr.com/a/wsa/daria-semikina-eric-clapton-wonderful-tonight-fingerstyle-tab-s396809
   - Fingerstyle cover by Gareth Evans: https://youtu.be/0ZIqdiHlEdw
+
+### Key to the highway
+#### Key
+  - Original version [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
+  - Eric Clapton version [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
+  - E major pentatoic scale: https://www.guitar-chords.org.uk/guitarscales/e-majorpentatonic.html
+#### Video
+- cover and tutorial in E major: https://www.youtube.com/watch?v=NT3xKmOYIAw&ab_channel=daddystovepipe
+- fingerstyle tutorial in E major: https://youtu.be/xbC_5sej9Nw
+- tutorial in E major: https://youtu.be/rmfuSrPXi3o
+- video tutorial in A major: https://youtu.be/4x4xmx3-90M
+- tutorial Joe'S guitar in A major: https://youtu.be/Hjz67ClcBWM
+- another tutorial in A major
+  - part 1: https://youtu.be/Y-K62mh0sso
+  - part 2: https://youtu.be/lG7RanpZRiA
+- video two guitars in A major Tommy Hrtley: https://youtu.be/4OFv2xCl_z8
+- video Mark66 guitar cover: https://youtu.be/xIM5NdqT4NA
+- antoher acoustic guitar cover in A major; https://youtu.be/hNXdG4fzP4Q
+#### Tabs
+- chrods and lyrics in A major: https://www.e-chords.com/chords/eric-clapton/key-to-the-highway
+- tabs A major: https://www.azchords.com/e/ericclapton-tabs-1348/keytothehighway-tabs-13302.html
+- tabs A major: https://tabs.ultimate-guitar.com/tab/eric-clapton/key-to-the-highway-tabs-279995
+- tabs songsterr: https://www.songsterr.com/a/wsa/eric-clapton-key-to-the-highway-tab-s4640
 
 # Jimy Hendrix
 ### Hey Joe
@@ -534,3 +569,17 @@ Key [E major](https://www.guitarscale.org/e-major.html)
   - Fingerstyle by Melanie Goetz: https://m.youtube.com/watch?v=RzVBorugHd0&ra=m
   - songsterr tabs: https://www.songsterr.com/a/wsa/don-mclean-vincent-tab-s33393
   - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/don-mclean/vincent-tabs-139225
+
+# Joni Mitchell
+### Woodstock
+Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel major [G flat](https://www.guitarscale.org/g-flat-major.html)
+#### Video
+- video Joni Mitchell: https://www.youtube.com/watch?v=cRjQCvfcXn0&ab_channel=sonicboy19
+- video Eva Cassidy: https://youtu.be/7Zx0lieOY1g
+- video tutorial Eva Cassidy version: https://youtu.be/A-ZRlQiBK4M
+- john scofield album recording: https://youtu.be/4V-7mAQBpes
+#### Tabs
+- chords Eva Cassidy: https://chordify.net/chords/eva-cassidy-songs/woodstock-chords
+- tabs Eva Cassidy: https://tabs.ultimate-guitar.com/tab/eva-cassidy/woodstock-tabs-64504
+- chrods Scofield, Modeski: https://chordu.com/chords-tabs-dejohnette-grenadier-medeski-scofield-woodstock-id_4V-7mAQBpes
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/joni-mitchell/woodstock-chords-76741
