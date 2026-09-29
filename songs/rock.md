@@ -1,6 +1,5 @@
 Chords: https://gtrlib.com/chords/c-sharp-diminished  
 Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
-Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 # Dire Straits
 
@@ -387,14 +386,16 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 # Rod Stewart
 ### I Don't Want to Talk About It
-  - plan for fingerstyle single guitar
+  - Fingerstyle single guitar
   - Original key B-flat major, my version D major
+#### Videos
   - Naudo cover in D major: https://youtu.be/R16_6yCt4W4
   - DenFingerstyle cover: https://youtu.be/CNYN8oHg9Dg
   - X-Steller guitar fingerstyle cover: https://youtu.be/l68uuYwXbso
   - Ricardo Pacha finterstyle cover: https://youtu.be/3wXOfduNn98
+#### Tabs
   - tabs: https://www.myguitarsongbook.ca/songs/song_detail.asp?id=257
-  - chords and lyrics in B-flat major
+  - https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
 # Hooverphonic
 ### Mad About You 
