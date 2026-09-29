@@ -1,4 +1,5 @@
-Chords: https://gtrlib.com/chords/c-sharp-diminished
+- Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
+- Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 ## Summertime
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
