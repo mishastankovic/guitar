@@ -412,4 +412,10 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-tabs-72957
 - chords: https://tabs.ultimate-guitar.com/tab/kansas/dust-in-the-wind-chords-874870
-- tabs songsterr: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64 
+- tabs songsterr: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64
+
+# Hillsong UNITED
+### <i>Oceans</i>
+  - key b minor, parallel major D
+  - chords and lyrics: https://www.worshiptogether.com/songs/oceans-where-feet-may-fail-united/
+  - Luca Silva / Liv Harland live; https://www.youtube.com/watch?v=tOZ0Tlyl_3s
