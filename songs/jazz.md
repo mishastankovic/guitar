@@ -1,10 +1,33 @@
+Chords: https://gtrlib.com/chords/c-sharp-diminished
+
+## Summertime
+Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
+### Video
+- Adam Rafferty fingerstyle: https://www.youtube.com/watch?v=e-yqrDS0q3o
+- Adam Rafferty another version - as per tabs: https://www.youtube.com/watch?v=1DwZHV5cbYI
+- Bruskers Guitar Duo: https://youtu.be/d5mvIqSlXdo
+- Le Pumpe Gypsy Jazz Guitar Duo: https://youtu.be/HqW-_rKqrNU
+- Two guitars tutorial - TheGuitarNick: https://youtu.be/zqxr-i6kYrQ
+- Beginner Lesson chord strumming and vocal: https://youtu.be/WvZ4xfCboyY
+- LickNRiff fingerstyle tutorial fingerstyle: https://youtu.be/IgaXZfVwaHk
+- Billy Strings & Marcus King - electric and acoustic guitar and vocal: https://youtu.be/1RNNQYpnukA
+- Kucas Brar fingerstyle: https://youtu.be/ARklsaQI0b4
+
+### Tabs
+- single guitar tabs: https://www.guitartabsexplorer.com/gershwin-george-Tabs/summertime-acoustic-tab.php
+- chords: https://tabs.ultimate-guitar.com/tab/george-gershwin/summertime-chords-1053545
+## Fingersylt guitar cover
+### Video
+- https://youtu.be/8kzW_K9R10Q
+- https://youtu.be/bt8DuZFDkEU
+
 ## Mercy, Mercy by Joe Zawinul
 - Guitar Logic cover: https://youtu.be/8imHeqV_r7s
 - Charlie Kager cover: https://youtu.be/P2z5OW59PMo
 - Sandra She tutorial single guitar electric: https://youtu.be/ayECz7wvAOs
 - John MacLannan tutorial single guitar electric: https://youtu.be/2-56UDAPPjE
 
-# Take Five by Dave Brubeck
+## Take Five by Dave Brubeck
 - Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html)
 ### Video
 - how to play instructions: https://www.jazzguitar.be/blog/how-to-play-take-5-chords-on-guitar/
