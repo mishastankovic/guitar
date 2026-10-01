@@ -53,6 +53,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - tabs solo: https://tabs.ultimate-guitar.com/tab/dire-straits/private-investigations-tabs-15436
 - tabs solo: https://www.songsterr.com/a/wsa/dire-straits-private-investigations-tab-s30091
 - tabs for two guitars pdf: https://guitaralliance.com/justacoustic/songs/pi/private_investigations.pdf
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/dire-straits/private-investigations-chords-1002472
 
 #### Backing tracks
 - https://youtu.be/CuvNfZxF5qo
