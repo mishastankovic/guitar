@@ -23,7 +23,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Urish Heep](#uriah-heep)\
 [Kansas](#kansas)\
 [Joni Mitchell](#joni-mitchell)\
-[Hillside United](#hillside-united)\
+[Hillsong United](#hillsong-united)\
 [Fleetwood Mac](#fleetwood-mac)\
 [Rod Stewart](#rod-stewart)\
 [10cc](#10cc)\
