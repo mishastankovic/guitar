@@ -29,7 +29,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [10cc](#10cc)\
 [Procol Harum](#procol-harum)\
 [Wishbone Ash](#wishbone-ash)\
-[Mungo Jerry](#mungo jarry)\
+[Mungo Jerry](#mungo-jerry)\
 [Animals](#animals)\
 [Don McLean](#don-mclean)\
 
