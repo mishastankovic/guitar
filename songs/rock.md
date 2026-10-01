@@ -21,7 +21,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Joan Baez](#joan-baez)\
 [Joan Armatrading](#joan-armatrading)\
 [Urish Heep](#uriah-heep)\
-[Kanzas](#kanzas)\
+[Kansas](#kansas)\
 [Joni Mitchell](#joni-mitchell)\
 [Hillside United](#hillside-united)\
 [Fleetwood Mac](#fleetwood-mac)\
