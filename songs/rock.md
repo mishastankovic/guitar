@@ -1,6 +1,8 @@
 Chords: https://gtrlib.com/chords/c-sharp-diminished  
 Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
 
+[Dire Straits](#dire-straits)
+
 # Dire Straits
 
 ### Private investigations
