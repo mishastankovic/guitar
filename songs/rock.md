@@ -31,7 +31,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Wishbone Ash](#wishbone-ash)\
 [Mungo Jerry](#mungo-jerry)\
 [Animals](#animals)\
-[Don McLean](#don-mclean)\
+[Don McLean](#don-mclean)
 
 
 
