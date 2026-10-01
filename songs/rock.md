@@ -6,8 +6,8 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Eric Clapton](#eric-clapton)\
 [Beatles](#beatles)\
 [Bob Dylan](#bob-dylan)\
-[Neil Yung](#neil-yung)\
-[Sing](#sting)\
+[Neil Young](#neil-young)\
+[Sting](#sting)\
 [Deep Purple](#deep-purple)\
 [Jimy Hendrix](#jimi-hendix)\
 [Pink Floyd](#pink-floyd)\
