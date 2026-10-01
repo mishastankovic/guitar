@@ -29,7 +29,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Rolling Stones](#rolling-stones)\
 [Sting](#sting)\
 [Tracey Chapman](#tracey-chapman)\
-[Urish Heep](#uriah-heep)\
+[Uriah Heep](#uriah-heep)\
 [Van Morison](#van-morison)\
 [Wishbone Ash](#wishbone-ash)
 
