@@ -9,10 +9,10 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Neil Young](#neil-young)\
 [Sting](#sting)\
 [Deep Purple](#deep-purple)\
-[Jimy Hendrix](#jimi-hendix)\
+[Jimy Hendrix](#jimy-hendix)\
 [Pink Floyd](#pink-floyd)\
 [Creedence](#creedence)\
-[Chris Izaak](#chris-izaak)\
+[Chris Isaak](#chris-isaak)\
 [Tracey Chapman](#tracey-chapman)\
 [Joan Baez](#joan-baez)\
 [Joan Armatrading](#joan-armatrading)\
