@@ -1,7 +1,7 @@
 Chords: https://gtrlib.com/chords/c-sharp-diminished  
 Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
 
-[[10cc](#10cc)\
+[10cc](#10cc)\
 [Animals](#animals)\
 [Beatles](#beatles)\
 [Bob Dylan](#bob-dylan)\
@@ -9,6 +9,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Chris Isaak](#chris-isaak)\
 [Creedence](#creedence)\
 [Deep Purple](#deep-purple)\
+[Dire Straits](#dire-straits)\
 [Don McLean](#don-mclean)
 [Eagles](#eagles)\
 [Eric Clapton](#eric-clapton)\
@@ -31,7 +32,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Urish Heep](#uriah-heep)\
 [Van Morison](#van-morison)\
 [Wishbone Ash](#wishbone-ash)\
-Dire Straits](#dire-straits)\
+
 
 
 
