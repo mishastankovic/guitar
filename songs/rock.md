@@ -2,6 +2,16 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
 
 [Dire Straits](#dire-straits)
+[Carlos Santana](#carlos-santana)
+[Eric Clapton](#eric-clapton)
+[Beatles](#beatles)
+[Bob Dylan](#bob-dylan)
+[Neil Yung](#neil-yung)
+[Deep Purple](#deep-purple)
+[Jimy Hendrix](#jimi-hendix)
+[Pink Floyd](#pink-floyd)
+[Creedence](#creedence)
+
 
 # Dire Straits
 
