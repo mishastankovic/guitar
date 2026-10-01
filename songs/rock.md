@@ -9,9 +9,13 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Neil Young](#neil-young)\
 [Sting](#sting)\
 [Deep Purple](#deep-purple)\
-[Jimy Hendrix](#jimy-hendix)\
+[Jimy Hendrix](#jimy-hendrix)\
 [Pink Floyd](#pink-floyd)\
+[Rolling Stones](#rolling-stones)\
 [Creedence](#creedence)\
+[Metalica](#metalica)\
+[Eagles](#eagles)\
+[Van Morison](#van-morison)\
 [Chris Isaak](#chris-isaak)\
 [Tracey Chapman](#tracey-chapman)\
 [Joan Baez](#joan-baez)\
@@ -25,6 +29,9 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [10cc](#10cc)\
 [Procol Harum](#procol-harum)\
 [Wishbone Ash](#wishbone-ash)\
+[Mungo Jerry](#mungo jarry)\
+[Animals](#animals)\
+[Don McLean](#don-mclean)\
 
 
 
@@ -519,11 +526,11 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - video: https://youtu.be/1opgh7ky2nU
 
 
-# Mango Jerry
+# Mungo Jerry
 
 ### In the Summertime
 #### Video
-- Mango Jerry tutorial: https://youtu.be/um-xl9EVqvs
+- Mungo Jerry tutorial: https://youtu.be/um-xl9EVqvs
 - Fingerstyle cover:v https://youtu.be/Qywk2faCJpc
 
 # Animals
