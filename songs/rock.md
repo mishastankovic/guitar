@@ -1,37 +1,37 @@
 Chords: https://gtrlib.com/chords/c-sharp-diminished  
 Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
 
-[Dire Straits](#dire-straits)\
-[Carlos Santana](#carlos-santana)\
-[Eric Clapton](#eric-clapton)\
+[[10cc](#10cc)\
+[Animals](#animals)\
 [Beatles](#beatles)\
 [Bob Dylan](#bob-dylan)\
-[Neil Young](#neil-young)\
-[Sting](#sting)\
-[Deep Purple](#deep-purple)\
-[Jimy Hendrix](#jimy-hendrix)\
-[Pink Floyd](#pink-floyd)\
-[Rolling Stones](#rolling-stones)\
-[Creedence](#creedence)\
-[Metalica](#metalica)\
-[Eagles](#eagles)\
-[Van Morison](#van-morison)\
+[Carlos Santana](#carlos-santana)\
 [Chris Isaak](#chris-isaak)\
-[Tracey Chapman](#tracey-chapman)\
-[Joan Baez](#joan-baez)\
-[Joan Armatrading](#joan-armatrading)\
-[Urish Heep](#uriah-heep)\
-[Kansas](#kansas)\
-[Joni Mitchell](#joni-mitchell)\
-[Hillsong United](#hillsong-united)\
-[Fleetwood Mac](#fleetwood-mac)\
-[Rod Stewart](#rod-stewart)\
-[10cc](#10cc)\
-[Procol Harum](#procol-harum)\
-[Wishbone Ash](#wishbone-ash)\
-[Mungo Jerry](#mungo-jerry)\
-[Animals](#animals)\
+[Creedence](#creedence)\
+[Deep Purple](#deep-purple)\
 [Don McLean](#don-mclean)
+[Eagles](#eagles)\
+[Eric Clapton](#eric-clapton)\
+[Fleetwood Mac](#fleetwood-mac)\
+[Hillsong United](#hillsong-united)\
+[Jimy Hendrix](#jimy-hendrix)\
+[Joan Armatrading](#joan-armatrading)\
+[Joan Baez](#joan-baez)\
+[Joni Mitchell](#joni-mitchell)\
+[Kansas](#kansas)\
+[Metalica](#metalica)\
+[Mungo Jerry](#mungo-jerry)\
+[Neil Young](#neil-young)\
+[Pink Floyd](#pink-floyd)\
+[Procol Harum](#procol-harum)\
+[Rod Stewart](#rod-stewart)\
+[Rolling Stones](#rolling-stones)\
+[Sting](#sting)\
+[Tracey Chapman](#tracey-chapman)\
+[Urish Heep](#uriah-heep)\
+[Van Morison](#van-morison)\
+[Wishbone Ash](#wishbone-ash)\
+Dire Straits](#dire-straits)\
 
 
 
