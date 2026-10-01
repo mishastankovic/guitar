@@ -10,7 +10,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Creedence](#creedence)\
 [Deep Purple](#deep-purple)\
 [Dire Straits](#dire-straits)\
-[Don McLean](#don-mclean)
+[Don McLean](#don-mclean)\
 [Eagles](#eagles)\
 [Eric Clapton](#eric-clapton)\
 [Fleetwood Mac](#fleetwood-mac)\
@@ -31,7 +31,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 [Tracey Chapman](#tracey-chapman)\
 [Urish Heep](#uriah-heep)\
 [Van Morison](#van-morison)\
-[Wishbone Ash](#wishbone-ash)\
+[Wishbone Ash](#wishbone-ash)
 
 
 
