@@ -1,16 +1,32 @@
 Chords: https://gtrlib.com/chords/c-sharp-diminished  
 Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
 
-[Dire Straits](#dire-straits)
-[Carlos Santana](#carlos-santana)
-[Eric Clapton](#eric-clapton)
-[Beatles](#beatles)
-[Bob Dylan](#bob-dylan)
-[Neil Yung](#neil-yung)
-[Deep Purple](#deep-purple)
-[Jimy Hendrix](#jimi-hendix)
-[Pink Floyd](#pink-floyd)
-[Creedence](#creedence)
+[Dire Straits](#dire-straits). 
+[Carlos Santana](#carlos-santana). 
+[Eric Clapton](#eric-clapton). 
+[Beatles](#beatles). 
+[Bob Dylan](#bob-dylan). 
+[Neil Yung](#neil-yung). 
+[Sing](#sting)
+[Deep Purple](#deep-purple). 
+[Jimy Hendrix](#jimi-hendix). 
+[Pink Floyd](#pink-floyd). 
+[Creedence](#creedence). 
+[Chris Izaak](#chris-izaak). 
+[Tracey Chapman](#tracey-chapman)
+[joan Baez](#joan-baez)
+[Joan Armatrading](#joan-armatrading). 
+[Urish Heep](#uriah-heep). 
+[Kanzas](#kanzas). 
+[Joni Mitchell](#joni-mitchell)
+[Hillside United](#hillside-united)
+[Fleetwood Mac](#fleetwood-mac)
+[Rod Stewart](#rod-stewart)
+[10cc](#10cc)
+[Procol Harum](#procol-harum)
+[Wish one Ash](wishbone-ash)
+
+
 
 
 # Dire Straits
@@ -574,7 +590,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - tabs songsterr: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64
 
 
-# Deep Durple
+# Deep Purple
 
 ### <i>When a blind man cries</i> 
   - key b-minor, parralel major D
