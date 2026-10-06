@@ -84,6 +84,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 ### <i>Brothers in Arms</i>
 Key [g sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [B major](https://www.guitarscale.org/b-major.html)
 ### Tabs
+-chords and lyrics: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-chords-15403
 - Ultimate guirar: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-tabs-1706644
 - Songsterr tabs: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-tab-s5798
 - Songsterr for accoustic guitar: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-acoustic-tab-s59690
