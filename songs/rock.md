@@ -10,44 +10,44 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [<i>Wild Theme</i>](#wild-theme)\
       + [<i>Walk Of Life</i>](#walk-of-life)\
       + [<i>Sultans of Swing</i>](#sultans-of-swing)\
-      + [Altamira](#altamira)\
+      + [Altamira](#altamira)
 - [Carlos Santana](#carlos-santana)\
       + [Flor d'Luna (Moonflower)](#flor-dluna-moonflower)\
       + [Samba Pa Ti](#samba-pa-ti)\
       + [Black Magic Woman](#black-magic-woman)\
       + [<i>Evel Ways</i>](#evel-ways)\
       + [<i>Europa</i>](#europa)\
-      + [Oye Como Va by Carlos Santana](#oye-como-va-by-carlos-santana)\
+      + [Oye Como Va by Carlos Santana](#oye-como-va-by-carlos-santana)
 - [Eric Clapton](#eric-clapton)\
       + [Tears in heaven ](#tears-in-heaven)\
       + [Layla](#layla)\
       + [Wonderful Tonight](#wonderful-tonight)\
-      + [Key to the highway](#key-to-the-highway)\
+      + [Key to the highway](#key-to-the-highway)
 - [Jimy Hendrix](#jimy-hendrix)\
-      + [Hey Joe](#hey-joe)\
+      + [Hey Joe](#hey-joe)
 - [Pink Floyd   ](#pink-floyd)\
-      + [Wish you were here](#wish-you-were-here)\
+      + [Wish you were here](#wish-you-were-here)
 - [Sting](#sting)\
-      + [Fragile](#fragile)\
+      + [Fragile](#fragile)
 - [Beatles](#beatles)\
       + [And I Love Her](#and-i-love-her)\
       + [Backing tracks](#backing-tracks-6)\
       + [Imagine](#imagine)\
       + [Michelle](#michelle)
       + [Twist And Shout](#twist-and-shout)\
-      + [While My Guitar Gently Weeps chords by The Beatles](#while-my-guitar-gently-weeps-chords-by-the-beatles)\
+      + [While My Guitar Gently Weeps chords by The Beatles](#while-my-guitar-gently-weeps-chords-by-the-beatles)
 - [Creedence](#creedence)\
-      + [Bad mood rising](#bad-mood-rising)\
+      + [Bad mood rising](#bad-mood-rising)
 - [Tracey Chapman](#tracey-chapman)\
-      + [Stand by me by Ben King](#stand-by-me-by-ben-king)\
+      + [Stand by me by Ben King](#stand-by-me-by-ben-king)
 - [Metalica](#metalica)\
-      + [Nothing else matters](#nothing-else-matters)\
+      + [Nothing else matters](#nothing-else-matters)
 - [Bob Dylan](#bob-dylan)\
-      + [Knock on Heaven's Door](#knock-on-heavens-door)\
+      + [Knock on Heaven's Door](#knock-on-heavens-door)
 - [Rolling Stones](#rolling-stones)\
-      + [Angie](#angie)\
+      + [Angie](#angie)
 - [Neil Young](#neil-young)\
-      + [Down by the river](#down-by-the-river)\
+      + [Down by the river](#down-by-the-river)
 - [Procol Harum](#procol-harum)\
       + [A White Shade of Pale](#a-white-shade-of-pale)\
 - [Bill Withers](#bill-withers)\
