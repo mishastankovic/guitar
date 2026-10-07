@@ -147,13 +147,13 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 ### <i>Brothers in Arms</i>
 Key [g sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [B major](https://www.guitarscale.org/b-major.html)
 <!-- TOC --><a name="tabs-3"></a>
-### Tabs
+#### Tabs
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-chords-15403
 - Ultimate guirar: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-tabs-1706644
 - Songsterr tabs: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-tab-s5798
 - Songsterr for accoustic guitar: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-acoustic-tab-s59690
 <!-- TOC --><a name="videos"></a>
-### Videos
+#### Videos
 - Two guitar accoustic guitar cover + voice: https://www.youtube.com/watch?v=Mmkju12aVEI
 - Single acoustic guitar with voice: https://www.youtube.com/watch?v=LBHYRs2-_O0
 - Mark Knopfler live: https://www.youtube.com/watch?v=EMRJT2ebvAk&list=RDEMRJT2ebvAk&start_radio=1
@@ -386,14 +386,14 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 ### Hey Joe
 Key [E major](https://www.guitarscale.org/e-major.html)
 <!-- TOC --><a name="tabs-14"></a>
-### Tabs
+#### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-chords-667667
 - tabs 1: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-acoustic-tab-s391428
 - tabs 2: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-tabs-179233
 - solo songsterr: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-for-beginner-tab-s439161t2
 - songterr full band including guitar solo: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-tab-s22556
 <!-- TOC --><a name="video-11"></a>
-### Video
+#### Video
 - video tutorial 1: https://youtu.be/lLKL-nv0ut0
 - video tutorial 2: https://youtu.be/ocP_LPeex0Q
 - Jacques Stotzem fingerstyle cover: https://youtu.be/cMGwomp6oKM
