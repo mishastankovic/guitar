@@ -7,8 +7,6 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [Why worry](#why-worry)\
       + [Romeo and Juliet by Dire Straits](#romeo-and-juliet-by-dire-straits)\
       + [<i>Brothers in Arms</i>](#brothers-in-arms)\
-      + [Tabs](#tabs-3)\
-      + [Videos](#videos)
       + [<i>Wild Theme</i>](#wild-theme)\
       + [<i>Walk Of Life</i>](#walk-of-life)\
       + [<i>Sultans of Swing</i>](#sultans-of-swing)\
@@ -27,8 +25,6 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [Key to the highway](#key-to-the-highway)\
 - [Jimy Hendrix](#jimy-hendrix)\
       + [Hey Joe](#hey-joe)\
-      + [Tabs](#tabs-14)\
-      + [Video](#video-11)
 - [Pink Floyd   ](#pink-floyd)\
       + [Wish you were here](#wish-you-were-here)\
 - [Sting](#sting)\
