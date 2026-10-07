@@ -1,45 +1,105 @@
 Chords: https://gtrlib.com/chords/c-sharp-diminished  
 Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-[10cc](#10cc)\
-[Animals](#animals)\
-[Beatles](#beatles)\
-[Bob Dylan](#bob-dylan)\
-[Carlos Santana](#carlos-santana)\
-[Chris Isaak](#chris-isaak)\
-[Creedence](#creedence)\
-[Deep Purple](#deep-purple)\
-[Dire Straits](#dire-straits)\
-[Don McLean](#don-mclean)\
-[Eagles](#eagles)\
-[Eric Clapton](#eric-clapton)\
-[Fleetwood Mac](#fleetwood-mac)\
-[Hillsong United](#hillsong-united)\
-[Jimy Hendrix](#jimy-hendrix)\
-[Joan Armatrading](#joan-armatrading)\
-[Joan Baez](#joan-baez)\
-[Joni Mitchell](#joni-mitchell)\
-[Kansas](#kansas)\
-[Metalica](#metalica)\
-[Mungo Jerry](#mungo-jerry)\
-[Neil Young](#neil-young)\
-[Pink Floyd](#pink-floyd)\
-[Procol Harum](#procol-harum)\
-[Rod Stewart](#rod-stewart)\
-[Rolling Stones](#rolling-stones)\
-[Sting](#sting)\
-[Tracey Chapman](#tracey-chapman)\
-[Uriah Heep](#uriah-heep)\
-[Van Morison](#van-morison)\
-[Wishbone Ash](#wishbone-ash)
+- [Dire Straits](#dire-straits)
+      + [Private investigations](#private-investigations)
+      + [Why worry](#why-worry)
+      + [Romeo and Juliet by Dire Straits](#romeo-and-juliet-by-dire-straits)
+      + [<i>Brothers in Arms</i>](#brothers-in-arms)
+      + [Tabs](#tabs-3)
+      + [Videos](#videos)
+      + [<i>Wild Theme</i>](#wild-theme)
+      + [<i>Walk Of Life</i>](#walk-of-life)
+      + [<i>Sultans of Swing</i>](#sultans-of-swing)
+      + [Altamira](#altamira)
+- [Carlos Santana](#carlos-santana)
+      + [Flor d'Luna (Moonflower)](#flor-dluna-moonflower)
+      + [Samba Pa Ti](#samba-pa-ti)
+      + [Black Magic Woman](#black-magic-woman)
+      + [<i>Evel Ways</i>](#evel-ways)
+      + [<i>Europa</i>](#europa)
+      + [Oye Como Va by Carlos Santana](#oye-como-va-by-carlos-santana)
+- [Eric Clapton](#eric-clapton)
+      + [Tears in heaven ](#tears-in-heaven)
+      + [Layla](#layla)
+      + [Wonderful Tonight](#wonderful-tonight)
+      + [Key to the highway](#key-to-the-highway)
+- [Jimy Hendrix](#jimy-hendrix)
+      + [Hey Joe](#hey-joe)
+      + [Tabs](#tabs-14)
+      + [Video](#video-11)
+- [Pink Floyd   ](#pink-floyd)
+      + [Wish you were here](#wish-you-were-here)
+- [Sting](#sting)
+      + [Fragile](#fragile)
+- [Beatles](#beatles)
+      + [And I Love Her](#and-i-love-her)
+      + [Backing tracks](#backing-tracks-6)
+      + [Imagine](#imagine)
+      + [Michelle](#michelle)
+      + [Twist And Shout](#twist-and-shout)
+      + [While My Guitar Gently Weeps chords by The Beatles](#while-my-guitar-gently-weeps-chords-by-the-beatles)
+- [Creedence](#creedence)
+      + [Bad mood rising](#bad-mood-rising)
+- [Tracey Chapman](#tracey-chapman)
+      + [Stand by me by Ben King](#stand-by-me-by-ben-king)
+- [Metalica](#metalica)
+      + [Nothing else matters](#nothing-else-matters)
+- [Bob Dylan](#bob-dylan)
+      + [Knock on Heaven's Door](#knock-on-heavens-door)
+- [Rolling Stones](#rolling-stones)
+      + [Angie](#angie)
+- [Neil Young](#neil-young)
+      + [Down by the river](#down-by-the-river)
+- [Procol Harum](#procol-harum)
+      + [A White Shade of Pale](#a-white-shade-of-pale)
+- [Bill Withers](#bill-withers)
+      + [Ain't no sunshine](#aint-no-sunshine)
+- [Wishbone Ash](#wishbone-ash)
+      + [Leaf and stream](#leaf-and-stream)
+- [Van Morison](#van-morison)
+      + [Moondance ](#moondance)
+      + [Brown eyed girl](#brown-eyed-girl)
+- [Eagles](#eagles)
+      + [Hotel California](#hotel-california)
+- [Mungo Jerry](#mungo-jerry)
+      + [In the Summertime](#in-the-summertime)
+- [Animals](#animals)
+      + [The House of The Rising Sun](#the-house-of-the-rising-sun)
+- [Rod Stewart](#rod-stewart)
+      + [I Don't Want to Talk About It](#i-dont-want-to-talk-about-it)
+- [Hooverphonic](#hooverphonic)
+      + [Mad About You ](#mad-about-you)
+- [10cc](#10cc)
+      + [<i>I'm Not in Love</i>](#im-not-in-love)
+- [Kansas](#kansas)
+      + [Dust in the wind](#dust-in-the-wind)
+- [Deep Purple](#deep-purple)
+      + [<i>When a blind man cries</i> ](#when-a-blind-man-cries)
+- [Uriah Heep](#uriah-heep)
+      + [July Morning](#july-morning)
+- [Hillsong United](#hillsong-united)
+      + [<i>Oceans</i>](#oceans)
+- [Don McLean](#don-mclean)
+      + [<i>Vincent</i>](#vincent)
+- [Joni Mitchell](#joni-mitchell)
+      + [Woodstock](#woodstock)
+- [Chris Isaak](#chris-isaak)
+      + [Wicked game](#wicked-game)
+- [Fleetwood Mac](#fleetwood-mac)
+      + [Albatros](#albatros)
+- [Joan Baez](#joan-baez)
+      + [Diamonds and Rust by ](#diamonds-and-rust-by)
+- [Joan Armatrading](#joan-armatrading)
+      + [Love and Affection](#love-and-affection)
 
+<!-- TOC end -->
 
-
-
-
-
+<!-- TOC --><a name="dire-straits"></a>
 # Dire Straits
 
+<!-- TOC --><a name="private-investigations"></a>
 ### Private investigations
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 #### Video
@@ -58,6 +118,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 #### Backing tracks
 - https://youtu.be/CuvNfZxF5qo
 
+<!-- TOC --><a name="why-worry"></a>
 ### Why worry
 - Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [g](https://www.guitarscale.org/g-minor.html)
 #### Video
@@ -70,6 +131,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - tabs: https://youtu.be/Y0oeqL2uvFA
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
 
+<!-- TOC --><a name="romeo-and-juliet-by-dire-straits"></a>
 ### Romeo and Juliet by Dire Straits
 #### Tabs
 - tabs without capo, standard tuning: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-tabs-49644
@@ -81,18 +143,22 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - Fingerstyle Michalea Regecova: https://youtu.be/pAiaLQCEbVY
 - fingersytle Yosi Schlesinger: https://youtu.be/WcEjrPvcz8E
 
+<!-- TOC --><a name="brothers-in-arms"></a>
 ### <i>Brothers in Arms</i>
 Key [g sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [B major](https://www.guitarscale.org/b-major.html)
+<!-- TOC --><a name="tabs-3"></a>
 ### Tabs
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-chords-15403
 - Ultimate guirar: https://tabs.ultimate-guitar.com/tab/dire-straits/brothers-in-arms-tabs-1706644
 - Songsterr tabs: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-tab-s5798
 - Songsterr for accoustic guitar: https://www.songsterr.com/a/wsa/dire-straits-brothers-in-arms-acoustic-tab-s59690
+<!-- TOC --><a name="videos"></a>
 ### Videos
 - Two guitar accoustic guitar cover + voice: https://www.youtube.com/watch?v=Mmkju12aVEI
 - Single acoustic guitar with voice: https://www.youtube.com/watch?v=LBHYRs2-_O0
 - Mark Knopfler live: https://www.youtube.com/watch?v=EMRJT2ebvAk&list=RDEMRJT2ebvAk&start_radio=1
   
+<!-- TOC --><a name="wild-theme"></a>
 ### <i>Wild Theme</i>
 Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
 #### Tabs
@@ -104,17 +170,20 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 - yoni schlesinger classical guitar in d major: https://youtu.be/zufyFP-PjfY
 - soren madsen classical guitar: https://youtu.be/5R_PUIWCi-w  
 
+<!-- TOC --><a name="walk-of-life"></a>
 ### <i>Walk Of Life</i>
 #### Video
 - video: https://youtu.be/jSeh1JtYUzs
 #### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/dire-straits/walk-of-life-chords-15421
 
+<!-- TOC --><a name="sultans-of-swing"></a>
 ### <i>Sultans of Swing</i>
   - Ismael cover: https://youtu.be/ikUBr-7svb4
   - Shut Up & Play Tutorial: https://youtu.be/PpnrD8-GZkg
   - Two guitars cover by Marko Karhu: https://youtu.be/BUAICkOSry8
 
+<!-- TOC --><a name="altamira"></a>
 ### Altamira
 Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major](https://www.guitarscale.org/f-major.html)
 #### Video
@@ -128,8 +197,10 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
   - chordify original recording: https://chordify.net/chords/mark-knopfler-evelyn-glennie-songs/altamira-chords
   - https://www.azchords.com/m/markknopfler-tabs-2461/altamira-tabs-937501.html
 
+<!-- TOC --><a name="carlos-santana"></a>
 # Carlos Santana
 
+<!-- TOC --><a name="flor-dluna-moonflower"></a>
 ### Flor d'Luna (Moonflower)
 - Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 #### Video
@@ -147,6 +218,7 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 #### Backing tracks
 - backing track: https://youtu.be/CFu-GYUeMTs
 
+<!-- TOC --><a name="samba-pa-ti"></a>
 ### Samba Pa Ti
 - Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 
@@ -170,16 +242,19 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 #### Backing tracks
 - backing track: https://youtu.be/gO229rQDpqY
 
+<!-- TOC --><a name="black-magic-woman"></a>
 ### Black Magic Woman
   - plan for solo only with backing track
   - solo tutorial electric guitar: https://youtu.be/xAXJPPylnkM
   - tabs songsterr: https://www.songsterr.com/a/wsa/carlos-santana-black-magic-woman-tab-s357
 
+<!-- TOC --><a name="evel-ways"></a>
 ### <i>Evel Ways</i>
   - Joe Robinson cover: https://youtu.be/dVcKBirGCok
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/santana/evil-ways-chords-852821
   - video cover: https://youtu.be/UhJdONqQhuc
 
+<!-- TOC --><a name="europa"></a>
 ### <i>Europa</i>
 Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor](https://www.guitarscale.org/a-minor.html)
 #### Videos
@@ -198,6 +273,7 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 #### Backing tracks
 - https://youtu.be/PfbxpOT8pYs
 
+<!-- TOC --><a name="oye-como-va-by-carlos-santana"></a>
 ### Oye Como Va by Carlos Santana
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 #### Videos
@@ -216,8 +292,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 #### Backing tracks
 - https://youtu.be/K5owBsxSHBc
 
+<!-- TOC --><a name="eric-clapton"></a>
 # Eric Clapton
 
+<!-- TOC --><a name="tears-in-heaven"></a>
 ### Tears in heaven 
 - Key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 #### Video
@@ -243,6 +321,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 #### Backing tracks
 - backing track : https://www.youtube.com/watch?v=HKYUXyIAgP8&ab_channel=OGTMachinima
 
+<!-- TOC --><a name="layla"></a>
 ### Layla
 - Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 - broj 3 nalisti https://rockguitaruniverse.com/songs-for-two-guitars/
@@ -266,6 +345,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - tabs songster solo and chords: https://www.songsterr.com/a/wsa/eric-clapton-layla-acoustic-tab-s23702
 - tabs chords and solo: https://www.guitartabsexplorer.com/clapton-eric-Tabs/layla-acoustic-tab.php
 
+<!-- TOC --><a name="wonderful-tonight"></a>
 ### Wonderful Tonight
   - plan for two guitars
   - key G-major, parallel minor e-minor
@@ -276,6 +356,7 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - Fingerstyle tabs single guitar; https://www.songsterr.com/a/wsa/daria-semikina-eric-clapton-wonderful-tonight-fingerstyle-tab-s396809
   - Fingerstyle cover by Gareth Evans: https://youtu.be/0ZIqdiHlEdw
 
+<!-- TOC --><a name="key-to-the-highway"></a>
 ### Key to the highway
 #### Key
   - Original version [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
@@ -299,15 +380,19 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - tabs A major: https://tabs.ultimate-guitar.com/tab/eric-clapton/key-to-the-highway-tabs-279995
 - tabs songsterr: https://www.songsterr.com/a/wsa/eric-clapton-key-to-the-highway-tab-s4640
 
+<!-- TOC --><a name="jimy-hendrix"></a>
 # Jimy Hendrix
+<!-- TOC --><a name="hey-joe"></a>
 ### Hey Joe
 Key [E major](https://www.guitarscale.org/e-major.html)
+<!-- TOC --><a name="tabs-14"></a>
 ### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-chords-667667
 - tabs 1: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-acoustic-tab-s391428
 - tabs 2: https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-tabs-179233
 - solo songsterr: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-for-beginner-tab-s439161t2
 - songterr full band including guitar solo: https://www.songsterr.com/a/wsa/jimi-hendrix-hey-joe-tab-s22556
+<!-- TOC --><a name="video-11"></a>
 ### Video
 - video tutorial 1: https://youtu.be/lLKL-nv0ut0
 - video tutorial 2: https://youtu.be/ocP_LPeex0Q
@@ -317,7 +402,9 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - solo on acoustic guitar: https://youtu.be/JM9jJhm2hfw
 - fingers tyle: https://youtu.be/N1dX-38ySLw
 
+<!-- TOC --><a name="pink-floyd"></a>
 #  Pink Floyd   
+<!-- TOC --><a name="wish-you-were-here"></a>
 ### Wish you were here
 - Key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
 #### Video
@@ -333,7 +420,9 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - tabs: https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-tabs-984061
 - tabs solo: https://www.e-chords.com/tabs/pink-floyd/wish-you-were-here
 
+<!-- TOC --><a name="sting"></a>
 # Sting
+<!-- TOC --><a name="fragile"></a>
 ### Fragile
 - Key [e](https://www.guitarscale.org/e-minor.html), parallel major [G major](https://www.guitarscale.org/g-major.html)
 #### Video
@@ -349,7 +438,9 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - tabs with lyrics and solo: https://tabs.ultimate-guitar.com/tab/sting/fragile-tabs-84266
 - tabs songsterr: https://www.songsterr.com/a/wsa/sting-fragile-tab-s23952t0
 
+<!-- TOC --><a name="beatles"></a>
 # Beatles
+<!-- TOC --><a name="and-i-love-her"></a>
 ### And I Love Her
 - Key [c# minor](https://www.guitarscale.org/c-sharp-minor.html), parallel major [F](https://www.guitarscale.org/f-major.html)
 #### Video
@@ -361,10 +452,12 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - video and tabs for Pat Metheny version: https://youtu.be/MTJpGTW1X38
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-tabs-202513
+<!-- TOC --><a name="backing-tracks-6"></a>
 ### Backing tracks
 - backing track rhythm guitar only: https://youtu.be/5qasVEHhhK0
 - multi channel backing track: http://backtracks4all.com/backingtracks/the-beatles/and-i-love-her-3
 
+<!-- TOC --><a name="imagine"></a>
 ### Imagine
 - Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a](https://www.guitarscale.org/a-minor.html)
 #### Video
@@ -372,6 +465,7 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-9306
 
+<!-- TOC --><a name="michelle"></a>
 ### Michelle
 - Key [f minor](https://www.guitarscale.org/f-minor.html), parallel major [A-flat major](https://www.guitarscale.org/a-flat-major.html)
 #### Video
@@ -381,19 +475,23 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/michelle-tabs-100341
 
+<!-- TOC --><a name="twist-and-shout"></a>
 ### Twist And Shout
 #### Videos
 - https://youtu.be/RpwlhdaXx1Y
 #### Tabs
 - https://tabs.ultimate-guitar.com/tab/the-beatles/twist-and-shout-chords-489173
 
+<!-- TOC --><a name="while-my-guitar-gently-weeps-chords-by-the-beatles"></a>
 ### While My Guitar Gently Weeps chords by The Beatles
 #### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/the-beatles/while-my-guitar-gently-weeps-chords-17446
 - tabs: https://tabs.ultimate-guitar.com/tab/the-beatles/while-my-guitar-gently-weeps-tabs-60662
 - video: https://youtu.be/8bRyWedF1MM
 
+<!-- TOC --><a name="creedence"></a>
 # Creedence
+<!-- TOC --><a name="bad-mood-rising"></a>
 ### Bad mood rising
 #### Video
 - video: https://youtu.be/3GaE_X5k3iE
@@ -401,8 +499,10 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - lead tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-tabs-53934
 - rhythm tabs: https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-chords-15892 
 
+<!-- TOC --><a name="tracey-chapman"></a>
 # Tracey Chapman
 
+<!-- TOC --><a name="stand-by-me-by-ben-king"></a>
 ### Stand by me by Ben King
 - Original key [A major](https://www.guitarscale.org/a-major.html), parallel minor [f#](https://www.guitarscale.org/f-sharp-minor.html)
 - Tracy Chapman version key [G major](https://www.guitarscale.org/g-major.html), parallel minor [e](https://www.guitarscale.org/e-minor.html)
@@ -415,8 +515,10 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - chords: https://tabs.ultimate-guitar.com/tab/tracy-chapman/stand-by-me-chords-2954426
 
 
+<!-- TOC --><a name="metalica"></a>
 # Metalica
 
+<!-- TOC --><a name="nothing-else-matters"></a>
 ### Nothing else matters
 - Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
 #### Video
@@ -427,8 +529,10 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - tabs: https://tabs.ultimate-guitar.com/tab/metallica/nothing-else-matters-tabs-8519
 
 
+<!-- TOC --><a name="bob-dylan"></a>
 # Bob Dylan
 
+<!-- TOC --><a name="knock-on-heavens-door"></a>
 ### Knock on Heaven's Door
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/guns-n-roses/knockin-on-heavens-door-tabs-12702
@@ -438,8 +542,10 @@ Key [E major](https://www.guitarscale.org/e-major.html)
 - LickNRiff fingerstyle video: https://m.youtube.com/watch?v=HtPUEZsm1R4
 - guitar cover: https://youtu.be/U6FSLtHhxpg
 
+<!-- TOC --><a name="rolling-stones"></a>
 # Rolling Stones
 
+<!-- TOC --><a name="angie"></a>
 ### Angie
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 #### Videos
@@ -454,8 +560,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - Lytics with chords and intro tabs: https://www.tabs4acoustic.com/en/guitar-tabs/the-rolling-stones-tabs/angie-acoustic-tab-15.html
 
 
+<!-- TOC --><a name="neil-young"></a>
 # Neil Young
 
+<!-- TOC --><a name="down-by-the-river"></a>
 ### Down by the river
 #### Video
 - video Neil Young: https://youtu.be/TiX8Rz5C3LY
@@ -464,8 +572,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - tabs: https://tabs.ultimate-guitar.com/tab/neil-young/down-by-the-river-tabs-75
 
 
+<!-- TOC --><a name="procol-harum"></a>
 # Procol Harum
 
+<!-- TOC --><a name="a-white-shade-of-pale"></a>
 ### A White Shade of Pale
   - Single fingerstyle or two guitars with vocals
   - key C-major, parallel minor a-minor
@@ -475,7 +585,9 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - Fingerstyle cover by Naudo: https://youtu.be/-CF9DyWR5wI
   - Fingerstyle cover Melania Goertz: https://youtu.be/_QnS1QLZw9o
   - fingerstyle cover by Kelly Valeau: https://youtu.be/to4oIliDaGY
+<!-- TOC --><a name="bill-withers"></a>
 # Bill Withers
+<!-- TOC --><a name="aint-no-sunshine"></a>
 ### Ain't no sunshine
   - Fingerstyle
   - key a-minor
@@ -492,8 +604,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/bill-withers/aint-no-sunshine-tabs-951361
 
+<!-- TOC --><a name="wishbone-ash"></a>
 # Wishbone Ash
 
+<!-- TOC --><a name="leaf-and-stream"></a>
 ### Leaf and stream
 #### Tabs
 - chords: https://tabs.ultimate-guitar.com/tab/wishbone-ash/leaf-and-stream-chords-482092
@@ -503,8 +617,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - video: https://youtu.be/kQIr-7kmjy0
 - cover by me: https://youtu.be/i8Eq_6DKtvg
   
+<!-- TOC --><a name="van-morison"></a>
 # Van Morison
 
+<!-- TOC --><a name="moondance"></a>
 ### Moondance 
 - Key [a minor](https://www.guitarscale.org/a-minor.html)
 #### Video
@@ -518,28 +634,35 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - backing track: https://youtu.be/mEet_EQQ0R4
 - soren madsen classival guitar: https://youtu.be/3_Crr78eI54
 
+<!-- TOC --><a name="brown-eyed-girl"></a>
 ### Brown eyed girl
 #### Video
 - video: https://youtu.be/UfmkgQRmmeE
 #### Tabs
 - tabs: https://tabs.ultimate-guitar.com/tab/van-morrison/brown-eyed-girl-tabs-179799
 
+<!-- TOC --><a name="eagles"></a>
 # Eagles
 
+<!-- TOC --><a name="hotel-california"></a>
 ### Hotel California
 #### Video
 - video: https://youtu.be/1opgh7ky2nU
 
 
+<!-- TOC --><a name="mungo-jerry"></a>
 # Mungo Jerry
 
+<!-- TOC --><a name="in-the-summertime"></a>
 ### In the Summertime
 #### Video
 - Mungo Jerry tutorial: https://youtu.be/um-xl9EVqvs
 - Fingerstyle cover:v https://youtu.be/Qywk2faCJpc
 
+<!-- TOC --><a name="animals"></a>
 # Animals
 
+<!-- TOC --><a name="the-house-of-the-rising-sun"></a>
 ### The House of The Rising Sun
   - plan for two guitars
   - key a minor, parallel major C
@@ -556,8 +679,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - Improvisation tutorial by Stefac Schyga: https://youtu.be/aVt3C3WpctM
   - Another backing track: https://youtu.be/z7-KJQLHQDE
 
+<!-- TOC --><a name="rod-stewart"></a>
 # Rod Stewart
 
+<!-- TOC --><a name="i-dont-want-to-talk-about-it"></a>
 ### I Don't Want to Talk About It
   - Fingerstyle single guitar
   - Original key B-flat major, my version D major
@@ -570,8 +695,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - tabs: https://www.myguitarsongbook.ca/songs/song_detail.asp?id=257
   - https://tabs.ultimate-guitar.com/tab/rod-stewart/i-dont-want-to-talk-about-it-chords-1186023
 
+<!-- TOC --><a name="hooverphonic"></a>
 # Hooverphonic
 
+<!-- TOC --><a name="mad-about-you"></a>
 ### Mad About You 
 #### Video
 - vide gover by Accoustic Afternoon: https://www.youtube.com/watch?v=AeAk0c-EnzY&ab_channel=AcousticAfternoon
@@ -581,16 +708,20 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/hooverphonic/mad-about-you-chords-2480901
 
 
+<!-- TOC --><a name="10cc"></a>
 # 10cc
 
+<!-- TOC --><a name="im-not-in-love"></a>
 ### <i>I'm Not in Love</i>
   - strumming, vocal single guitar
   - key E-major, parallel minor c-sharp minor
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/10cc/im-not-in-love-chords-1774226
   - video tutorial with chord diagrms: https://youtu.be/ohKfQDicQnw
 	
+<!-- TOC --><a name="kansas"></a>
 # Kansas
 
+<!-- TOC --><a name="dust-in-the-wind"></a>
 ### Dust in the wind
 #### Video
 - video original Kansas: https://youtu.be/tH2w6Oxx0kQ
@@ -602,8 +733,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
 - tabs songsterr: https://www.songsterr.com/a/wsa/kansas-dust-in-the-wind-tab-s64
 
 
+<!-- TOC --><a name="deep-purple"></a>
 # Deep Purple
 
+<!-- TOC --><a name="when-a-blind-man-cries"></a>
 ### <i>When a blind man cries</i> 
   - key b-minor, parralel major D
   - Chords and lyrics: http://www.pesmarica.rs/Akordi/6595/Deep-Purple--When-a-blind-man-cries
@@ -612,8 +745,10 @@ Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major
   - guitar cover: https://www.youtube.com/watch?v=4j5TvN5Gy4I
 
 
+<!-- TOC --><a name="uriah-heep"></a>
 # Uriah Heep
 
+<!-- TOC --><a name="july-morning"></a>
 ### July Morning
 Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat major](https://www.guitarscale.org/e-flat-major.html)
 #### Tabs
@@ -624,21 +759,27 @@ Key [c minor](https://www.guitarscale.org/c-minor.html), parallel major [E flat 
 - Uriah Hip original: https://youtu.be/grSWdLdp7po
 - fingerstyle cover: https://youtu.be/DkWdUFwO8bQ
 - 
+<!-- TOC --><a name="hillsong-united"></a>
 # Hillsong United
 
+<!-- TOC --><a name="oceans"></a>
 ### <i>Oceans</i>
   - key b minor, parallel major D
   - chords and lyrics: https://www.worshiptogether.com/songs/oceans-where-feet-may-fail-united/
   - Luca Silva / Liv Harland live; https://www.youtube.com/watch?v=tOZ0Tlyl_3s
 
+<!-- TOC --><a name="don-mclean"></a>
 # Don McLean
+<!-- TOC --><a name="vincent"></a>
 ### <i>Vincent</i>
   - key G major
   - Fingerstyle by Melanie Goetz: https://m.youtube.com/watch?v=RzVBorugHd0&ra=m
   - songsterr tabs: https://www.songsterr.com/a/wsa/don-mclean-vincent-tab-s33393
   - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/don-mclean/vincent-tabs-139225
 
+<!-- TOC --><a name="joni-mitchell"></a>
 # Joni Mitchell
+<!-- TOC --><a name="woodstock"></a>
 ### Woodstock
 Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel major [G flat](https://www.guitarscale.org/g-flat-major.html)
 #### Video
@@ -652,7 +793,9 @@ Key [e flat minor](https://www.guitarscale.org/e-flat-minor.html), parallel majo
 - chrods Scofield, Modeski: https://chordu.com/chords-tabs-dejohnette-grenadier-medeski-scofield-woodstock-id_4V-7mAQBpes
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/joni-mitchell/woodstock-chords-76741
 
+<!-- TOC --><a name="chris-isaak"></a>
 # Chris Isaak
+<!-- TOC --><a name="wicked-game"></a>
 ### Wicked game
 Key [b minor](https://www.guitarscale.org/b-minor.html), parallel major [A](https://www.guitarscale.org/a-major.html)
 #### Video
@@ -661,7 +804,9 @@ Key [b minor](https://www.guitarscale.org/b-minor.html), parallel major [A](http
 - tabs: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-tabs-274609
 - chords: https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-chords-11066
 
+<!-- TOC --><a name="fleetwood-mac"></a>
 # Fleetwood Mac
+<!-- TOC --><a name="albatros"></a>
 ### Albatros
 Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
 #### Video
@@ -672,8 +817,10 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
 - tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
 
+<!-- TOC --><a name="joan-baez"></a>
 # Joan Baez
 
+<!-- TOC --><a name="diamonds-and-rust-by"></a>
 ### Diamonds and Rust by 
 #### Videos
 - Joan Baez: https://www.youtube.com/watch?v=PXP1m0Y78WU
@@ -682,8 +829,10 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 - Utimate guitar tabs: https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-tabs-61553
 - Ultimate guitare chords and lyrics: https://tabs.ultimate-guitar.com/tab/joan-baez/diamonds-and-rust-chords-1044414
 
+<!-- TOC --><a name="joan-armatrading"></a>
 # Joan Armatrading
 
+<!-- TOC --><a name="love-and-affection"></a>
 ### Love and Affection
 Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](https://www.guitarscale.org/c-sharp-minor.html)
 #### Tabs
