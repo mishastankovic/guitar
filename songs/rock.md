@@ -33,7 +33,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [And I Love Her](#and-i-love-her)\
       + [Backing tracks](#backing-tracks-6)\
       + [Imagine](#imagine)\
-      + [Michelle](#michelle)
+      + [Michelle](#michelle)\
       + [Twist And Shout](#twist-and-shout)\
       + [While My Guitar Gently Weeps chords by The Beatles](#while-my-guitar-gently-weeps-chords-by-the-beatles)
 - [Creedence](#creedence)\
@@ -51,44 +51,44 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - [Procol Harum](#procol-harum)\
       + [A White Shade of Pale](#a-white-shade-of-pale)\
 - [Bill Withers](#bill-withers)\
-      + [Ain't no sunshine](#aint-no-sunshine)\
+      + [Ain't no sunshine](#aint-no-sunshine)
 - [Wishbone Ash](#wishbone-ash)\
-      + [Leaf and stream](#leaf-and-stream)\
+      + [Leaf and stream](#leaf-and-stream)
 - [Van Morison](#van-morison)\
       + [Moondance ](#moondance)\
-      + [Brown eyed girl](#brown-eyed-girl)\
+      + [Brown eyed girl](#brown-eyed-girl)
 - [Eagles](#eagles)\
-      + [Hotel California](#hotel-california)\
+      + [Hotel California](#hotel-california)
 - [Mungo Jerry](#mungo-jerry)\
-      + [In the Summertime](#in-the-summertime)\
+      + [In the Summertime](#in-the-summertime)
 - [Animals](#animals)\
-      + [The House of The Rising Sun](#the-house-of-the-rising-sun)\
+      + [The House of The Rising Sun](#the-house-of-the-rising-sun)
 - [Rod Stewart](#rod-stewart)\
-      + [I Don't Want to Talk About It](#i-dont-want-to-talk-about-it)\
+      + [I Don't Want to Talk About It](#i-dont-want-to-talk-about-it)
 - [Hooverphonic](#hooverphonic)\
-      + [Mad About You ](#mad-about-you)\
+      + [Mad About You ](#mad-about-you)
 - [10cc](#10cc)\
-      + [<i>I'm Not in Love</i>](#im-not-in-love)\
+      + [<i>I'm Not in Love</i>](#im-not-in-love)
 - [Kansas](#kansas)\
-      + [Dust in the wind](#dust-in-the-wind)\
+      + [Dust in the wind](#dust-in-the-wind)
 - [Deep Purple](#deep-purple)\
-      + [<i>When a blind man cries</i> ](#when-a-blind-man-cries)\
+      + [<i>When a blind man cries</i> ](#when-a-blind-man-cries)
 - [Uriah Heep](#uriah-heep)\
-      + [July Morning](#july-morning)\
+      + [July Morning](#july-morning)
 - [Hillsong United](#hillsong-united)\
-      + [<i>Oceans</i>](#oceans)\
+      + [<i>Oceans</i>](#oceans)
 - [Don McLean](#don-mclean)\
-      + [<i>Vincent</i>](#vincent)\
+      + [<i>Vincent</i>](#vincent)
 - [Joni Mitchell](#joni-mitchell)\
-      + [Woodstock](#woodstock)\
+      + [Woodstock](#woodstock)
 - [Chris Isaak](#chris-isaak)\
-      + [Wicked game](#wicked-game)\
+      + [Wicked game](#wicked-game)
 - [Fleetwood Mac](#fleetwood-mac)\
-      + [Albatros](#albatros)\
+      + [Albatros](#albatros)
 - [Joan Baez](#joan-baez)
-      + [Diamonds and Rust by ](#diamonds-and-rust-by)\
+      + [Diamonds and Rust by ](#diamonds-and-rust-by)
 - [Joan Armatrading](#joan-armatrading)\
-      + [Love and Affection](#love-and-affection)\
+      + [Love and Affection](#love-and-affection)
 
 <!-- TOC end -->
 
