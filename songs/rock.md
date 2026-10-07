@@ -2,97 +2,97 @@ Chords: https://gtrlib.com/chords/c-sharp-diminished
 Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths  
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Dire Straits](#dire-straits)
-      + [Private investigations](#private-investigations)
-      + [Why worry](#why-worry)
-      + [Romeo and Juliet by Dire Straits](#romeo-and-juliet-by-dire-straits)
-      + [<i>Brothers in Arms</i>](#brothers-in-arms)
-      + [Tabs](#tabs-3)
+- [Dire Straits](#dire-straits)\
+      + [Private investigations](#private-investigations)\
+      + [Why worry](#why-worry)\
+      + [Romeo and Juliet by Dire Straits](#romeo-and-juliet-by-dire-straits)\
+      + [<i>Brothers in Arms</i>](#brothers-in-arms)\
+      + [Tabs](#tabs-3)\
       + [Videos](#videos)
-      + [<i>Wild Theme</i>](#wild-theme)
-      + [<i>Walk Of Life</i>](#walk-of-life)
-      + [<i>Sultans of Swing</i>](#sultans-of-swing)
-      + [Altamira](#altamira)
-- [Carlos Santana](#carlos-santana)
-      + [Flor d'Luna (Moonflower)](#flor-dluna-moonflower)
-      + [Samba Pa Ti](#samba-pa-ti)
-      + [Black Magic Woman](#black-magic-woman)
-      + [<i>Evel Ways</i>](#evel-ways)
-      + [<i>Europa</i>](#europa)
-      + [Oye Como Va by Carlos Santana](#oye-como-va-by-carlos-santana)
-- [Eric Clapton](#eric-clapton)
-      + [Tears in heaven ](#tears-in-heaven)
-      + [Layla](#layla)
-      + [Wonderful Tonight](#wonderful-tonight)
-      + [Key to the highway](#key-to-the-highway)
-- [Jimy Hendrix](#jimy-hendrix)
-      + [Hey Joe](#hey-joe)
-      + [Tabs](#tabs-14)
+      + [<i>Wild Theme</i>](#wild-theme)\
+      + [<i>Walk Of Life</i>](#walk-of-life)\
+      + [<i>Sultans of Swing</i>](#sultans-of-swing)\
+      + [Altamira](#altamira)\
+- [Carlos Santana](#carlos-santana)\
+      + [Flor d'Luna (Moonflower)](#flor-dluna-moonflower)\
+      + [Samba Pa Ti](#samba-pa-ti)\
+      + [Black Magic Woman](#black-magic-woman)\
+      + [<i>Evel Ways</i>](#evel-ways)\
+      + [<i>Europa</i>](#europa)\
+      + [Oye Como Va by Carlos Santana](#oye-como-va-by-carlos-santana)\
+- [Eric Clapton](#eric-clapton)\
+      + [Tears in heaven ](#tears-in-heaven)\
+      + [Layla](#layla)\
+      + [Wonderful Tonight](#wonderful-tonight)\
+      + [Key to the highway](#key-to-the-highway)\
+- [Jimy Hendrix](#jimy-hendrix)\
+      + [Hey Joe](#hey-joe)\
+      + [Tabs](#tabs-14)\
       + [Video](#video-11)
-- [Pink Floyd   ](#pink-floyd)
-      + [Wish you were here](#wish-you-were-here)
-- [Sting](#sting)
-      + [Fragile](#fragile)
-- [Beatles](#beatles)
-      + [And I Love Her](#and-i-love-her)
-      + [Backing tracks](#backing-tracks-6)
-      + [Imagine](#imagine)
+- [Pink Floyd   ](#pink-floyd)\
+      + [Wish you were here](#wish-you-were-here)\
+- [Sting](#sting)\
+      + [Fragile](#fragile)\
+- [Beatles](#beatles)\
+      + [And I Love Her](#and-i-love-her)\
+      + [Backing tracks](#backing-tracks-6)\
+      + [Imagine](#imagine)\
       + [Michelle](#michelle)
-      + [Twist And Shout](#twist-and-shout)
-      + [While My Guitar Gently Weeps chords by The Beatles](#while-my-guitar-gently-weeps-chords-by-the-beatles)
-- [Creedence](#creedence)
-      + [Bad mood rising](#bad-mood-rising)
-- [Tracey Chapman](#tracey-chapman)
-      + [Stand by me by Ben King](#stand-by-me-by-ben-king)
-- [Metalica](#metalica)
-      + [Nothing else matters](#nothing-else-matters)
-- [Bob Dylan](#bob-dylan)
-      + [Knock on Heaven's Door](#knock-on-heavens-door)
-- [Rolling Stones](#rolling-stones)
-      + [Angie](#angie)
-- [Neil Young](#neil-young)
-      + [Down by the river](#down-by-the-river)
-- [Procol Harum](#procol-harum)
-      + [A White Shade of Pale](#a-white-shade-of-pale)
-- [Bill Withers](#bill-withers)
-      + [Ain't no sunshine](#aint-no-sunshine)
-- [Wishbone Ash](#wishbone-ash)
-      + [Leaf and stream](#leaf-and-stream)
-- [Van Morison](#van-morison)
-      + [Moondance ](#moondance)
-      + [Brown eyed girl](#brown-eyed-girl)
-- [Eagles](#eagles)
-      + [Hotel California](#hotel-california)
-- [Mungo Jerry](#mungo-jerry)
-      + [In the Summertime](#in-the-summertime)
-- [Animals](#animals)
-      + [The House of The Rising Sun](#the-house-of-the-rising-sun)
-- [Rod Stewart](#rod-stewart)
-      + [I Don't Want to Talk About It](#i-dont-want-to-talk-about-it)
-- [Hooverphonic](#hooverphonic)
-      + [Mad About You ](#mad-about-you)
-- [10cc](#10cc)
-      + [<i>I'm Not in Love</i>](#im-not-in-love)
-- [Kansas](#kansas)
-      + [Dust in the wind](#dust-in-the-wind)
-- [Deep Purple](#deep-purple)
-      + [<i>When a blind man cries</i> ](#when-a-blind-man-cries)
-- [Uriah Heep](#uriah-heep)
-      + [July Morning](#july-morning)
-- [Hillsong United](#hillsong-united)
-      + [<i>Oceans</i>](#oceans)
-- [Don McLean](#don-mclean)
-      + [<i>Vincent</i>](#vincent)
-- [Joni Mitchell](#joni-mitchell)
-      + [Woodstock](#woodstock)
-- [Chris Isaak](#chris-isaak)
-      + [Wicked game](#wicked-game)
-- [Fleetwood Mac](#fleetwood-mac)
-      + [Albatros](#albatros)
+      + [Twist And Shout](#twist-and-shout)\
+      + [While My Guitar Gently Weeps chords by The Beatles](#while-my-guitar-gently-weeps-chords-by-the-beatles)\
+- [Creedence](#creedence)\
+      + [Bad mood rising](#bad-mood-rising)\
+- [Tracey Chapman](#tracey-chapman)\
+      + [Stand by me by Ben King](#stand-by-me-by-ben-king)\
+- [Metalica](#metalica)\
+      + [Nothing else matters](#nothing-else-matters)\
+- [Bob Dylan](#bob-dylan)\
+      + [Knock on Heaven's Door](#knock-on-heavens-door)\
+- [Rolling Stones](#rolling-stones)\
+      + [Angie](#angie)\
+- [Neil Young](#neil-young)\
+      + [Down by the river](#down-by-the-river)\
+- [Procol Harum](#procol-harum)\
+      + [A White Shade of Pale](#a-white-shade-of-pale)\
+- [Bill Withers](#bill-withers)\
+      + [Ain't no sunshine](#aint-no-sunshine)\
+- [Wishbone Ash](#wishbone-ash)\
+      + [Leaf and stream](#leaf-and-stream)\
+- [Van Morison](#van-morison)\
+      + [Moondance ](#moondance)\
+      + [Brown eyed girl](#brown-eyed-girl)\
+- [Eagles](#eagles)\
+      + [Hotel California](#hotel-california)\
+- [Mungo Jerry](#mungo-jerry)\
+      + [In the Summertime](#in-the-summertime)\
+- [Animals](#animals)\
+      + [The House of The Rising Sun](#the-house-of-the-rising-sun)\
+- [Rod Stewart](#rod-stewart)\
+      + [I Don't Want to Talk About It](#i-dont-want-to-talk-about-it)\
+- [Hooverphonic](#hooverphonic)\
+      + [Mad About You ](#mad-about-you)\
+- [10cc](#10cc)\
+      + [<i>I'm Not in Love</i>](#im-not-in-love)\
+- [Kansas](#kansas)\
+      + [Dust in the wind](#dust-in-the-wind)\
+- [Deep Purple](#deep-purple)\
+      + [<i>When a blind man cries</i> ](#when-a-blind-man-cries)\
+- [Uriah Heep](#uriah-heep)\
+      + [July Morning](#july-morning)\
+- [Hillsong United](#hillsong-united)\
+      + [<i>Oceans</i>](#oceans)\
+- [Don McLean](#don-mclean)\
+      + [<i>Vincent</i>](#vincent)\
+- [Joni Mitchell](#joni-mitchell)\
+      + [Woodstock](#woodstock)\
+- [Chris Isaak](#chris-isaak)\
+      + [Wicked game](#wicked-game)\
+- [Fleetwood Mac](#fleetwood-mac)\
+      + [Albatros](#albatros)\
 - [Joan Baez](#joan-baez)
-      + [Diamonds and Rust by ](#diamonds-and-rust-by)
-- [Joan Armatrading](#joan-armatrading)
-      + [Love and Affection](#love-and-affection)
+      + [Diamonds and Rust by ](#diamonds-and-rust-by)\
+- [Joan Armatrading](#joan-armatrading)\
+      + [Love and Affection](#love-and-affection)\
 
 <!-- TOC end -->
 
