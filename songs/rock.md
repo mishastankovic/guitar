@@ -49,7 +49,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - [Neil Young](#neil-young)\
       + [Down by the river](#down-by-the-river)
 - [Procol Harum](#procol-harum)\
-      + [A White Shade of Pale](#a-white-shade-of-pale)\
+      + [A White Shade of Pale](#a-white-shade-of-pale)
 - [Bill Withers](#bill-withers)\
       + [Ain't no sunshine](#aint-no-sunshine)
 - [Wishbone Ash](#wishbone-ash)\
@@ -85,7 +85,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [Wicked game](#wicked-game)
 - [Fleetwood Mac](#fleetwood-mac)\
       + [Albatros](#albatros)
-- [Joan Baez](#joan-baez)
+- [Joan Baez](#joan-baez)\
       + [Diamonds and Rust by ](#diamonds-and-rust-by)
 - [Joan Armatrading](#joan-armatrading)\
       + [Love and Affection](#love-and-affection)
