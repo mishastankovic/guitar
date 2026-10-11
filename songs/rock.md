@@ -141,7 +141,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - fingersytle Yosi Schlesinger: https://youtu.be/WcEjrPvcz8E
 
 <!-- TOC --><a name="brothers-in-arms"></a>
-### <i>Brothers in Arms</i>
+### Brothers in Arms
 Key [g sharp minor](https://www.guitarscale.org/g-sharp-minor.html), parallel major [B major](https://www.guitarscale.org/b-major.html)
 <!-- TOC --><a name="tabs-3"></a>
 #### Tabs
