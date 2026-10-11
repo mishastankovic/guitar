@@ -124,6 +124,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - video 2 guitars: https://youtu.be/fe0W54lVaOY
 - video Mark Knopfler: https://youtu.be/Y0oeqL2uvFA
 #### Tabs
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/dire-straits/why-worry-chords-5054407
 - tabs: https://youtu.be/Y0oeqL2uvFA
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
 
