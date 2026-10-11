@@ -6,7 +6,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [Private investigations](#private-investigations)\
       + [Why worry](#why-worry)\
       + [Romeo and Juliet](#romeo-and-juliet)\
-      + [Brothers in Arms(#brothers-in-arms)\
+      + [Brothers in Arms](#brothers-in-arms)\
       + [<i>Wild Theme</i>](#wild-theme)\
       + [<i>Walk Of Life</i>](#walk-of-life)\
       + [<i>Sultans of Swing</i>](#sultans-of-swing)\
