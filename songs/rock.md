@@ -5,8 +5,8 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - [Dire Straits](#dire-straits)\
       + [Private investigations](#private-investigations)\
       + [Why worry](#why-worry)\
-      + [Romeo and Juliet by Dire Straits](#romeo-and-juliet-by-dire-straits)\
-      + [<i>Brothers in Arms</i>](#brothers-in-arms)\
+      + [Romeo and Juliet](#romeo-and-juliet)\
+      + [Brothers in Arms(#brothers-in-arms)\
       + [<i>Wild Theme</i>](#wild-theme)\
       + [<i>Walk Of Life</i>](#walk-of-life)\
       + [<i>Sultans of Swing</i>](#sultans-of-swing)\
@@ -129,7 +129,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - tabs: https://www.songsterr.com/a/wsa/dire-straits-why-worry-tab-s23558
 
 <!-- TOC --><a name="romeo-and-juliet-by-dire-straits"></a>
-### Romeo and Juliet by Dire Straits
+### Romeo and Juliet
 #### Tabs
 - tabs without capo, standard tuning: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-tabs-49644
 - chords and lyrics: https://tabs.ultimate-guitar.com/tab/dire-straits/romeo-and-juliet-chords-1166247
