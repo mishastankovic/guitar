@@ -89,6 +89,8 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [Diamonds and Rust by ](#diamonds-and-rust-by)
 - [Joan Armatrading](#joan-armatrading)\
       + [Love and Affection](#love-and-affection)
+- [Nazareth](#nazareth)\
+      + [Love hurts](#love-hurts)
 
 <!-- TOC end -->
 
@@ -838,3 +840,14 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 - Lesson https://www.youtube.com/watch?v=q_7mAF1tDVE
 - Joan Armatrading live performance: https://www.youtube.com/watch?v=4tMlwvJi6n0&list=RD4tMlwvJi6n0&start_radio=1
 - Joan Armatrading solo cover: https://youtu.be/Mhcl__CTOTI
+
+# Nazareth
+
+### Love hurts
+
+#### Tabs
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/nazareth/love-hurts-chords-1464807
+
+#### Videos
+
+- girlcoustic: https://m.youtube.com/watch?v=Mv6wPnoBjVk&list=RDMv6wPnoBjVk&start_radio=1&pp=oAcB&ra=m
