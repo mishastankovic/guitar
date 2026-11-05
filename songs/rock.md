@@ -85,15 +85,15 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [Wicked game](#wicked-game)
 - [Fleetwood Mac](#fleetwood-mac)\
       + [Albatros](#albatros)
+      + [Dreams](#dreams)
 - [Joan Baez](#joan-baez)\
       + [Diamonds and Rust by ](#diamonds-and-rust-by)
 - [Joan Armatrading](#joan-armatrading)\
       + [Love and Affection](#love-and-affection)
 - [Nazareth](#nazareth)\
-      + [Love hurts](#love-hurts)\
-- [Fleetwood Mac](#fleetwood-mac)\
-      +[Dreams](#dreams)\
-
+      + [Love hurts](#love-hurts)
+  
+   
 <!-- TOC end -->
 
 <!-- TOC --><a name="dire-straits"></a>
@@ -819,6 +819,21 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 - tabs ultimate guitar: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/albatross-tabs-13578
 - tab songsterr: https://www.songsterr.com/a/wsa/fleetwood-mac-albatross-tab-s7430
 
+### Dreams
+
+#### Videos
+
+- Cover by colomaofficial: https://m.youtube.com/watch?v=LSz8Iuln23A&list=RDLSz8Iuln23A&start_radio=1&pp=oAcB&ra=m
+- Group cover by musiclei: https://m.youtube.com/watch?v=4PAayf1q3DY&list=RD4PAayf1q3DY&start_radio=1&pp=ygUZRHJlYW1zIGZsZXR3b29kIG1hYyBjb3ZlcqAHAQ%3D%3D&ra=m
+- original Fleetwood Mac: https://m.youtube.com/watch?v=PgagPdVM7bk&list=RDPgagPdVM7bk&start_radio=1&pp=oAcB&ra=m
+
+#### Tabs
+
+- ultimate guitar tabs with solo: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/dreams-tabs-1461051
+- songster tabs with all instruments and vocals: https://www.songsterr.com/a/wsa/fleetwood-mac-dreams-tab-s23726t2
+- chords and lyrics: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/dreams-chords-43918
+
+
 <!-- TOC --><a name="joan-baez"></a>
 # Joan Baez
 
@@ -855,18 +870,4 @@ Key [E major](https://www.guitarscale.org/e-major.html), parallel minor [c#](htt
 
 - girlcoustic: https://m.youtube.com/watch?v=Mv6wPnoBjVk&list=RDMv6wPnoBjVk&start_radio=1&pp=oAcB&ra=m
 
-# Fleetwood Mac
 
-### Dreams
-
-#### Videos
-
-- Cover by colomaofficial: https://m.youtube.com/watch?v=LSz8Iuln23A&list=RDLSz8Iuln23A&start_radio=1&pp=oAcB&ra=m
-- Group cover by musiclei: https://m.youtube.com/watch?v=4PAayf1q3DY&list=RD4PAayf1q3DY&start_radio=1&pp=ygUZRHJlYW1zIGZsZXR3b29kIG1hYyBjb3ZlcqAHAQ%3D%3D&ra=m
-- original Fleetwood Mac: https://m.youtube.com/watch?v=PgagPdVM7bk&list=RDPgagPdVM7bk&start_radio=1&pp=oAcB&ra=m
-
-#### Tabs
-
-- ultimate guitar tabs with solo: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/dreams-tabs-1461051
-- songster tabs with all instruments and vocals: https://www.songsterr.com/a/wsa/fleetwood-mac-dreams-tab-s23726t2
-- chords and lyrics: https://tabs.ultimate-guitar.com/tab/fleetwood-mac/dreams-chords-43918
