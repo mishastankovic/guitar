@@ -84,7 +84,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
 - [Chris Isaak](#chris-isaak)\
       + [Wicked game](#wicked-game)
 - [Fleetwood Mac](#fleetwood-mac)\
-      + [Albatros](#albatros)
+      + [Albatros](#albatros)\
       + [Dreams](#dreams)
 - [Joan Baez](#joan-baez)\
       + [Diamonds and Rust by ](#diamonds-and-rust-by)
