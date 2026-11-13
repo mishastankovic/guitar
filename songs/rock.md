@@ -10,7 +10,8 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [<i>Wild Theme</i>](#wild-theme)\
       + [<i>Walk Of Life</i>](#walk-of-life)\
       + [<i>Sultans of Swing</i>](#sultans-of-swing)\
-      + [Altamira](#altamira)
+      + [Altamira](#altamira)\
+      + [When You Leave](#when-you-leave)
 - [Carlos Santana](#carlos-santana)\
       + [Flor d'Luna (Moonflower)](#flor-dluna-moonflower)\
       + [Samba Pa Ti](#samba-pa-ti)\
