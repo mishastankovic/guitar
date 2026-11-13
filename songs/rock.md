@@ -202,9 +202,9 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
 
 <!-- TOC --><a name="when-you-leave"></a>
 ### When You Leave
-- Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
+- Key [f minor](https://www.guitarscale.org/f-minor.html), parallel major [G sharp](https://www.guitarscale.org/g-sharp-major.html)
 #### Videos
-  - original mark knopfler audio with lyrics: https://www.youtube.com/watch?v=gGAMTwvC2ic
+  - original Mark Knopfler audio with lyrics: https://www.youtube.com/watch?v=gGAMTwvC2ic
   - fingerstyle guitar cover: https://www.youtube.com/watch?v=NXEHfzW2_t8&list=RDNXEHfzW2_t8&start_radio=1
   - Tutorial by Pavel Fomenkov: https://www.youtube.com/watch?v=fv7dgmXQ_6A&t=282s
 #### Tabs
