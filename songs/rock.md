@@ -7,11 +7,11 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [Why worry](#why-worry)\
       + [Romeo and Juliet](#romeo-and-juliet)\
       + [Brothers in Arms](#brothers-in-arms)\
+      + [Altamira](#altamira)\
+      + [When You Leave](#when-you-leave)\
       + [<i>Wild Theme</i>](#wild-theme)\
       + [<i>Walk Of Life</i>](#walk-of-life)\
-      + [<i>Sultans of Swing</i>](#sultans-of-swing)\
-      + [Altamira](#altamira)\
-      + [When You Leave](#when-you-leave)
+      + [<i>Sultans of Swing</i>](#sultans-of-swing)
 - [Carlos Santana](#carlos-santana)\
       + [Flor d'Luna (Moonflower)](#flor-dluna-moonflower)\
       + [Samba Pa Ti](#samba-pa-ti)\
