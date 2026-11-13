@@ -18,7 +18,7 @@ Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
       + [Black Magic Woman](#black-magic-woman)\
       + [<i>Evel Ways</i>](#evel-ways)\
       + [<i>Europa</i>](#europa)\
-      + [Oye Como Va by Carlos Santana](#oye-como-va-by-carlos-santana)
+      + [<i>Oye Como Va by Carlos Santana</i>](#oye-como-va-by-carlos-santana)
 - [Eric Clapton](#eric-clapton)\
       + [Tears in heaven ](#tears-in-heaven)\
       + [Layla](#layla)\
@@ -289,7 +289,7 @@ Key [C major](https://www.guitarscale.org/c-major.html), parallel minor [a minor
 - https://youtu.be/PfbxpOT8pYs
 
 <!-- TOC --><a name="oye-como-va-by-carlos-santana"></a>
-### Oye Como Va by Carlos Santana
+### <i>Oye Como Va by Carlos Santana</i>
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C major](https://www.guitarscale.org/c-major.html)
 #### Videos
 - Gwendal Le Toullec cover: https://youtu.be/wCfJee7Ss5M
