@@ -209,6 +209,7 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
   - Tutorial by Pavel Fomenkov: https://www.youtube.com/watch?v=fv7dgmXQ_6A&t=282s
 #### Tabs
   - chords and lyrics: https://tabs.ultimate-guitar.com/tab/mark-knopfler/when-you-leave-chords-2518092
+  - e-chords: https://www.e-chords.com/chords/mark-knopfler/when-you-leave
   - songsterr tabs: https://www.songsterr.com/a/wsa/mark-knopfler-when-you-leave-tab-s3914128
 
 <!-- TOC --><a name="carlos-santana"></a>
