@@ -199,6 +199,18 @@ Key [d minor](https://www.guitarscale.org/d-minor.html), parallel major [F major
   - chordify original recording: https://chordify.net/chords/mark-knopfler-evelyn-glennie-songs/altamira-chords
   - https://www.azchords.com/m/markknopfler-tabs-2461/altamira-tabs-937501.html
 
+### When You Leave
+- Key [e minor](https://www.guitarscale.org/e-minor.html), parallel major [G](https://www.guitarscale.org/g-major.html)
+#### Videos
+	- original mark knopfler audio with lyrics: https://www.youtube.com/watch?v=gGAMTwvC2ic
+	- fingerstyle guitar cover: https://www.youtube.com/watch?v=NXEHfzW2_t8&list=RDNXEHfzW2_t8&start_radio=1
+	- Tutorial by Pavel Fomenkov: https://www.youtube.com/watch?v=fv7dgmXQ_6A&t=282s
+
+#### Tabs
+	- chords and lyrics: https://tabs.ultimate-guitar.com/tab/mark-knopfler/when-you-leave-chords-2518092
+	- songsterr tabs: https://www.songsterr.com/a/wsa/mark-knopfler-when-you-leave-tab-s3914128
+
+
 <!-- TOC --><a name="carlos-santana"></a>
 # Carlos Santana
 
