@@ -8,19 +8,11 @@
 - [Kada padne prvi sneg](#kada-padne-prvi-sneg)
 - [Jesen prodje, ja se ne ozeni](#jesen-prodje-ja-se-ne-ozeni)
 - [Haljinica boje lila](#haljinica-boje-lila)
-  - [Tabs](#tabs)
 - [More Tuge - Sasa Matić](#more-tuge---sasa-matić)
-  - [Videos](#videos)
-  - [Tabs](#tabs-1)
 - [Kafana na Balkanu - Aca Lukas](#kafana-na-balkanu---aca-lukas)
-  - [Videos](#videos-1)
-  - [Tabs](#tabs-2)
 - [Pesme moje - Toma Zdravkovic](#pesme-moje---toma-zdravkovic)
-  - [Videos](#videos-2)
-  - [Tabs](#tabs-3)
 - [I sad me po tebi poznaju by Al Dino](#i-sad-me-po-tebi-poznaju-by-al-dino)
-  - [Video](#video)
-  - [Tabs \& chords](#tabs--chords)
+
 
 ## A ja imam tebe - Rodja Raicevic
 - akordi i tekst: http://www.pesmarica.rs/Akordi/1534/Ro%C4%91a-Rai%C4%8Devi%C4%87--A-ja-imam-tebe
