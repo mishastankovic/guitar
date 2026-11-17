@@ -1,5 +1,5 @@
 
-Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths \.  
+Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths \  
 Chords: https://gtrlib.com/chords/c-sharp-diminished
 
 - [Leb i Sol](#leb-i-sol)
