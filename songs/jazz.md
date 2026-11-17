@@ -1,6 +1,21 @@
-- Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths
-- Chords: https://gtrlib.com/chords/c-sharp-diminished
+Circle of fifths: https://en.wikipedia.org/wiki/Circle_of_fifths   
+Chords: https://gtrlib.com/chords/c-sharp-diminished
 
+- [Summertime](#summertime)
+- [Mercy, Mercy by Joe Zawinul](#mercy-mercy-by-joe-zawinul)
+- [Take Five by Dave Brubeck](#take-five-by-dave-brubeck)
+- [Pink Panther](#pink-panther)
+- [Stardust](#stardust)
+- [All of me](#all-of-me)
+- [Autumn leaves](#autumn-leaves)
+- [I Don't Know Why I Didn't Come by Nora Jones, Jesse Harris](#i-dont-know-why-i-didnt-come-by-nora-jones-jesse-harris)
+- [Windy ad Warm by John Loudermilk](#windy-ad-warm-by-john-loudermilk)
+- [Feelings by Morris Albert](#feelings-by-morris-albert)
+- [Smooth Operator by Sade](#smooth-operator-by-sade)
+- [The Shadow of Your Smile by Johnny Mandel](#the-shadow-of-your-smile-by-johnny-mandel)
+- [In Sentimental Mood](#in-sentimental-mood)
+
+  
 ## Summertime
 Key [a minor](https://www.guitarscale.org/a-minor.html), parallel major [C](https://www.guitarscale.org/c-major.html)
 ### Video
