@@ -11,28 +11,33 @@
 - video Sasa Matic: https://youtu.be/sOBWpERz9XA
 
 <br/>
+
 ## Ko te ima taj te nema
 - akordi i tekst Gravi Sokak: https://2akordi.net/akordi.net?a=katalog&t=n&b=83&id=9
 - video Zvonko Bogdan: https://youtu.be/j8faDb6HzWw
 
 <br/>
+
 ## Kosovski bozuri
 - akordi i tekst: http://www.pesmarica.rs/Akordi/5537/Narodne-pesme--Kosovski-bozuri
 - video Cakan: https://youtu.be/c-_uowPl_4Q
 - finger style cover: https://youtu.be/WkZNchiIPdg
 
 <br/>
+
 ## Kralj ponoci
 - akodri i tekst: https://www.yesiloveguitar.com/akordi/a/ana-bekuta/ana-bekuta-kralj-ponoci
 - akordi i tekst: http://www.pesmarica.rs/Akordi/2282/Ana-Bekuta--Kralj-ponoci
 - video: https://www.youtube.com/watch?v=U6cJHOsg85A
 
 <br/>
+
 ## Ivanova korita
 - akordi i tekst: http://www.pesmarica.rs/Akordi/2120/Merima-Njegomir--Ivanova-korita
 - video Sas Matic uzivo Arena: https://www.youtube.com/watch?v=HGx3KE6mT6I&ab_channel=SasaMatic
 
 <br/>
+
 ## Pukni zoro
 - akordi i tekst: http://www.pesmarica.rs/Akordi/3170/Magnifico--Pukni-zoro
 - video: https://youtu.be/z3V36vIZDhg
